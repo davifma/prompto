@@ -6,10 +6,15 @@ A ideia, ou intenção desse tipo de prompt é utilizar a Inteligência Artifíc
 Por exemplo, se eu tiver um texto contendo nome, e-mail e telefone de alguns contatos e quiser excluir todos os telefones, deixando apenas os nomes e os e-mails eu poderia solicitar essa alteração para uma IA Generativa, caso essa lista seja muito grande isso, com certeza, economizaria o meu tempo.
 
 No caso deste documento mesmo, eu precisei pesquisar sobre a formatação de textos em arquivos do guitHub, e para incluir a referência bibliográfica eu solicitei a uma IA o seguinte:
-
-Exemplo de prompt Tarefeiro
 ```
 Transforme o link em uma referência dentro das normas ABNT https://www.alura.com.br/artigos/escrever-bom-readme
 ```
+Esses são prompts de escrita rápida para solicitações simples, mas, mesmo eles podem ser estruturados com elementos específicos para alcancarmos resultados mais interessantes, precisos e satisfatórios.
+
+Ficando a resalva aqui que, principalmente para o caso de tarefas repetitivas, se a escrita do prompt for muito complexa pode torná-lo inviável e menos efetivo no sentido de economia da economia de tempo que desejamos ter.
+
+Então, talvez até mais que em outros tipos de prompt, é importante que seja específico nas suas solicitações e lembre-se de verificar o resultado sempre que possível, pois as IAs generativas não são factuais, o que leva a erros. Nesse caso vale pesar o quanto de tempo você vai economizar com a delegação dessa tarefa para uma IA e quanto tempo vai gastar com a escrita dessa delegação, com a arquiterura desse prompt.
+
+Também entendo que pensando da metologia GROW, essa definição, a definição de um tipo de Prompt antes de iniciar o uso de uma IA está incluída nas "Metas" no "Goal" indicando qual seria o seu objetivo, tendo uma boa definição e clareza do propósito desta interação com a IA.
 ## Referências
 ALURA. Escrever um bom README. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 12 out. 2023.
