@@ -1,5 +1,5 @@
 # Conselheiro
-***Prompts ou Agentes que buscão uma opnião, informações, para explorar possibilidades, alternativas e descobrir caminhos novos ou validar caminhos já conhecidos.***
+***Prompts ou Agentes que buscam uma opnião, informações, para explorar possibilidades, alternativas e descobrir caminhos novos ou validar caminhos já conhecidos.***
 
 Usamos esse tipo de prompt quando desejamos que a Inteligência Artificial (IA) nos forneça uma opnião sobre algo. A grande vantagem aqui, é que as IAs generativas do mercado, mesmo as gratítas, tem acesso a uma quantidade impensável de informação para um ser humano, então, de certa forma ela é capaz de simular um especialista de qualquer área de conhecimento.
 
