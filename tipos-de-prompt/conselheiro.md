@@ -12,8 +12,8 @@ Já nos prompts essa diferença é bem mais clara, um prompt Conselheiro é aque
 Por isso ao usar um prompt Conselheiro, seja para o que for, é necessário se lembrar que você é o humano nessa relação, por tanto é o responsável e deve validar as informações que estão sendo geradas nessa "conversa".
 
 Por exemplo
-
-```Pode me explicar o que são Agentes de Inteligência Artifical?```
-
+```
+Pode me explicar o que são Agentes de Inteligência Artifical?
+```
 É um prompt que eu consideraria Conselheiro, um prompt de "Opnião", por que mesmo sendo uma pergunta direta, eu não posso ter certeza da definição que ele me dará a menos que eu tenha conhecimento e/ou valide com outras fontes confiáveis, desse ponto de vista, todo prompt que faz uma pergunta a uma IA (direta ou não) está pedindo uma opnião, um conselho. Como se estivesse perguntando para uma pessoa, falhível.
 
