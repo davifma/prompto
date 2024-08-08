@@ -1,5 +1,5 @@
 # Tarefeiro
-***Prompts para "Tarefa", ou prompt do tipo "Tarefa", para solicitações de atividades comuns e repetitivas.***
+***Prompts ou Agentes para "Tarefas", ou prompt do tipo "Tarefa", para solicitações de atividades comuns e repetitivas.***
 
   <img src="https://github.com/user-attachments/assets/ea3e3390-00c3-4e1f-9236-1770be9a63c3" align="right" width="375" height="637">
 
