@@ -15,6 +15,14 @@ Ficando a resalva aqui que, principalmente para o caso de tarefas repetitivas, s
 
 Então, talvez até mais que em outros tipos de prompt, é importante que seja específico nas suas solicitações e lembre-se de verificar o resultado sempre que possível, pois as IAs generativas não são factuais, o que leva a erros. Nesse caso vale pesar o quanto de tempo você vai economizar com a delegação dessa tarefa para uma IA e quanto tempo vai gastar com a escrita dessa delegação, com a arquiterura desse prompt.
 
-Também entendo que pensando da metologia GROW, essa definição, a definição de um tipo de Prompt antes de iniciar o uso de uma IA está incluída nas "Metas" no "Goal" indicando qual seria o seu objetivo, tendo uma boa definição e clareza do propósito desta interação com a IA.
+Também entendo que pensando da metologia GROW, essa definição, a definição de um tipo de Prompt antes de iniciar o uso de uma IA está incluída nas "Metas" no "Goal" indicando qual seria o seu objetivo, tendo uma boa definição e clareza do propósito desta interação com a IA. Ao pensar em "Tipos de Prompt", pergunte-se: O que eu desejo alcançar com essa atividade? Gerar uma história, responder a perguntas ou criar conteúdo específico, por exemplo?
+## Relações
+|**Componhente**|**Método**|**Descrição**|
+|:---:|:---:|:---|
+|**Meta (Goal)**|Grow| Objetivos claros para o uso da IA, o que deseja alcançar com esse uso |
 ## Referências
 ALURA. Escrever um bom README. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 12 out. 2023.
+
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
+
+GITHUB. Organizando informações com tabelas. Disponível em: https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables. Acesso em: 12 out. 2023.
