@@ -1,8 +1,8 @@
 # Tarefeiro
 ***Prompts para "Tarefa", ou prompt do tipo "Tarefa", para solicitações de atividades comuns e repetitivas.***
-
+<div align="center">
 ![2](https://github.com/user-attachments/assets/ea3e3390-00c3-4e1f-9236-1770be9a63c3)
-
+</div>
 A ideia, ou intenção desse tipo de prompt é utilizar a Inteligência Artifícial (IA) como uma ferramenta para aquelas atividades mais rotineiras, mais comuns, que não exigem que ela proponha uma informação nova, como uma opnião por exemplo ou que o sistema simule uma criação, apenas que faça algo específico e bem definido.
 
 Por exemplo, se eu tiver um texto contendo nome, e-mail e telefone de alguns contatos e quiser excluir todos os telefones, deixando apenas os nomes e os e-mails eu poderia solicitar essa alteração para uma IA Generativa, caso essa lista seja muito grande isso, com certeza, economizaria o meu tempo.
