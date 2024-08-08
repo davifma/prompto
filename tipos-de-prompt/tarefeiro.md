@@ -23,8 +23,10 @@ Também entendo que pensando da metologia GROW, essa definição, a definição 
 |:---:|:---:|:---|
 |**Meta (Goal)**|Grow| Objetivos claros para o uso da IA, o que deseja alcançar com esse uso |
 ## Referências
-ALURA. Escrever um bom README. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 12 out. 2023.
-
 PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
 
+ALURA. Escrever um bom README. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 12 out. 2023.
+
 GITHUB. Organizando informações com tabelas. Disponível em: https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables. Acesso em: 12 out. 2023.
+
+@DavidWells; Guia para alinhamento de imagens em arquivos readme.md no GitHub. 2024. Disponível em: https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d. Acesso em: 14 set. 2024.
