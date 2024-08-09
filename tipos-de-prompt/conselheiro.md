@@ -25,10 +25,10 @@ Estou pedindo uma orinetação para a IA sobre o seu próprio uso, esse tipo de 
 ## Relações
 <table>
 <tr>
-  <th>Componhente</th>	<th>>Método</th>	<th>>Descrição</th>
+  <th>Componhente</th>	<th>Método</th>	<th>>Descrição</th>
 </tr>
 <tr>
-  <td>>Meta (Goal)</td><td>Grow</td><td>	Objetivos claros para o uso da IA, o que deseja alcançar com esse uso</td>
+  <td>Meta (Goal)</td><td>Grow</td><td>	Objetivos claros para o uso da IA, o que deseja alcançar com esse uso</td>
 </tr>
 </table>
 ## Referências
