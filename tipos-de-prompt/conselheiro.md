@@ -1,6 +1,10 @@
 # Conselheiro
 ***Prompts ou Agentes que buscam uma "Opnião", informações, para explorar possibilidades, alternativas e descobrir caminhos novos ou validar caminhos já conhecidos.***
 
+
+ <img src="[https://github.com/user-attachments/assets/ea3e3390-00c3-4e1f-9236-1770be9a63c3" align="right" width="375" height="637">
+
+
 Usamos esse tipo de prompt quando desejamos que a Inteligência Artificial (IA) nos forneça uma opnião sobre algo. A grande vantagem aqui, é que as IAs generativas do mercado, mesmo as gratuítas, tem acesso a uma quantidade impensável de informação para um ser humano, então, de certa forma ela é capaz de simular um especialista de qualquer área de conhecimento.
 
 Como Agente, aqui pensamos na criação de perfis específicos, eu, por exemplo, hoje, além do ChatGT padrão, tenho outros três assistentas especialidados, três agentes, sendo que dois deles são praticamente apenas para me aconselhar. Tenho um Agente especializado nas aulas que eu ministro na faculdade e treinado para aconselhar e orientar os estudantes dessas aulas ([bit.ly/universitariafma](http://bit.ly/universitariafma)), um Agente que está em treinamento para atender e me ajudar excluvivamente em minhas palestras sobre IAs ([bit.ly/oratoriafma](https://bit.ly/oratoriafma)) e um último que preparei para ser meu especialista em marketing digital, focado nos meus produtos. Os dois primeiros, atuam basicamente como conselheiros, tirando duvidas dos meus estudantes e participantes de minhas palestras e também me aconselhando sobre as dinâmicas de aula, avaliações e etc. Já o ultimo, está mais para um [Tarefeiro](tarefeiro.md), embora vez ou outra eu peça seus conselhos.
