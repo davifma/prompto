@@ -1,6 +1,7 @@
 # Conselheiro
 ***Prompts ou Agentes que buscam uma "Opnião", informações, para explorar possibilidades, alternativas e descobrir caminhos novos ou validar caminhos já conhecidos.***
 
+![conselheiro](https://github.com/user-attachments/assets/31fa8b85-6ecf-47fc-ac7f-7da83d3b9b30)
 
  <img src="[https://github.com/user-attachments/assets/ea3e3390-00c3-4e1f-9236-1770be9a63c3" align="right" width="375" height="637">
 
