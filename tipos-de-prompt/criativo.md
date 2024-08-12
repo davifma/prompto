@@ -20,3 +20,16 @@ Agora crie uma imagem no mesmo e estilo 1584x396 pixels de um emprezario com um 
 Esses outros dois foram dois prompts usados para tentar criar as primeira versos de topos para essas páginas, são também exemplos simples de prompts criativos.
 
 Ao falar de prompts criativos lembre-se que as IAs generativas em geral são alimentadas com uma quantidade enorme de informação, comumente disponível na Internet, dessa forma, ao tentar ser criativa existe uma grande chance de uma IA cair em plágio, copiando pedaços de outras obras. Então, seja o humano nessa história, não se esqueça de verificar os direitos sobre aquilo que for criado por IAs.
+## Relações
+<table>
+<tr>
+  <th>Componhente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Meta (Goal)</td><td>Grow</td><td>	Objetivos claros para o uso da IA, o que deseja alcançar com esse uso</td>
+</tr>
+</table>
+
+## Referências
+
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
