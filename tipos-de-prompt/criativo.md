@@ -10,9 +10,13 @@ Esse simples prompt seria um prompt criativo, afinal, eu não estou requisitando
 ```
 Crie a imagem de 1584x396 pixels de um emprezario com um deck de cartas de "proMpto" nas mãos, logo atrás deles temos 3 agentes de inteligência artificial representados como ciborgues e o fundo da imagem é repleto de simbolos e equipamentos de tecnologia digital, a imagem deve ser realista.
 ```
+![img-DXgTFVtB2Ipk0r03GaiLxho7](https://github.com/user-attachments/assets/ea10974c-3df9-4026-9e8d-4d47a197331c)
+
 ```
 Agora crie uma imagem no mesmo e estilo 1584x396 pixels de um emprezario com um deck de cards de "proMpto" nas mãos apenas com as costas visíveis conversando com um agente de inteligência artificial representados como ciborgue que está fazendo uma pintura e o fundo da imagem é repleto de simbolos e equipamentos de tecnologia digital, a imagem deve ser realista.
 ```
+![img-h2DYhrBpopiK71wekBMQMBdt](https://github.com/user-attachments/assets/51120b9f-4368-45c5-9af7-83cdbbeb5f31)
+
 Esses outros dois foram dois prompts usados para tentar criar as primeira versos de topos para essas páginas, são também exemplos simples de prompts criativos.
 
-Ao falar de prompts criativos lembre-se que as IAs generativas em geral são alimentadas com uma quantidade enorme de informação, comumente disponível na Internet, dessa forma, ao tentar se criativa existe uma grande chance de uma IA cair em plágio, copiando pedaços de outras obras. Então, seja o humano nessa história, não se esqueça de verificar os direitos sobre aquilo que for criado por IAs.
+Ao falar de prompts criativos lembre-se que as IAs generativas em geral são alimentadas com uma quantidade enorme de informação, comumente disponível na Internet, dessa forma, ao tentar ser criativa existe uma grande chance de uma IA cair em plágio, copiando pedaços de outras obras. Então, seja o humano nessa história, não se esqueça de verificar os direitos sobre aquilo que for criado por IAs.
