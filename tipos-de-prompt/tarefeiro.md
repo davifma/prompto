@@ -1,7 +1,7 @@
 # Tarefeiro
 ***Prompts ou Agentes para "Tarefas", ou prompt do tipo "Tarefa", para solicitações de atividades comuns e repetitivas.***
 
-  <img src="https://github.com/user-attachments/assets/ea3e3390-00c3-4e1f-9236-1770be9a63c3" align="right" width="375" height="637">
+  <img src="https://github.com/user-attachments/assets/6ed92c7d-7ee0-4156-8d9d-2d23ffbc0be8" align="right" width="375" height="637">
 
 A ideia, ou intenção desse tipo de prompt é utilizar a Inteligência Artifícial (IA) como uma ferramenta para aquelas atividades mais rotineiras, mais comuns, que não exigem que ela proponha uma informação nova, como uma opnião por exemplo ou que o sistema simule uma criação, apenas que faça algo específico e bem definido.
 
