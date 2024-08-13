@@ -1,7 +1,7 @@
 # Criativo
 ***Aquele agente ou prompt para solicitar criações, artes, histórias e a realização de atividades criativas em geral.***
 
- <img src="https://github.com/user-attachments/assets/be188ea7-1010-4543-96fe-50e044462330" align="right" width="375" height="637">
+ <img src="https://github.com/user-attachments/assets/f39ca105-7443-40c3-855f-481bff413556" align="right" width="375" height="637">
 
 Usar a Inteligência Articifial (IA) para criações, esse é o objetivo quando criamos um agente criativo, sua principal função deverá ser criar coisas de acordo com as nossas solicitações, os agentes criativos, provavelmente, mais conhecidos são as IAs capazes de criar imagens, vídeos ou apresentações de Slides. Mas, em geral, qualquer IA generativa pode fornecer um Agente desse tipo, se pensarmos a criação de textos, histórias ou, mesmo, figuras de linguágem.
 Uma IA pode escrever uma boa poesia?
