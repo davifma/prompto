@@ -5,3 +5,15 @@
 > Agentes de inteligência artificial (IA) são programas de software projetados para interagir com o ambiente, coletar dados e realizar tarefas de forma autônoma com o objetivo de atingir metas específicas. Eles são capazes de perceber seu ambiente através de sensores, processar as informações utilizando algoritmos e, em seguida, tomar decisões e ações com base nas informações coletadas
 
 De acordo com um dos meus Agentes de IA preferidos para pesquisas, um bom Tarefeiro. 
+
+Em outras palafras um Agente de IA (Agente) é uma ferramenta que utiliza IA para um fim específico, com certeza você já usa diversos Agentes em seu dia a dia e nem percebe, mas eu espero que você também use muitos deles intencionalmente, pois é para isso que estamos aqui.
+
+Então toda IA que você intereje é um Agente, porém a ideia aqui é termos clareza e identificarmos isso, creio que os Agentes mais obvios que usamos no dia a dia são os Criadores, para gerar imagens, apresentações, vídeos e etc. Eu mesmo tenho os meus preferidos.
+
+Só que, aquela IA conselheira, que você só faz perguntas e usa para aprendizado e melhorias também é um Agente, da mesma forma que aquele Tarefeiro que você pede para gerar suas planilhas, separar nomes de e-mails e etc também é um agente.
+
+E, indo além, você pode criar (treinar) os seus próprios Agentes para fins específicos, eu mesmo uso muitos deles no meu dia a dia e treinie três, uma para ajudar com os estudantes das minhas turmas na faculdade que é mais um Conselheiro, mas usamos para criações e algumas poucas tarefas simples, como formatar em ABNT por exemplo. Um segundo que é meu consultor de marketing digital, mais Criativo, que me fornece pequenas campanhas e peças para divulgação dos meus livros. Por fim o [bit.ly/oratoriafma](https://bit.ly/oratoriafma) que criei para me auxiliar nos eventos e palestras sobre IA, tambem mais conselheiro para auxiliar principalmente minha audiência, como você.
+
+Logo, note que quando está interagindo com uma IA, em um conceito ligeiramente mais profundo está interagindo com um Agente, desenhado para um fim específico e como, hoje, qualquer um de nós pode "desenhar" esses Agentes de acordo com a nossa necessidade, parte da intenção desse projeto é facilitar esse desenho.
+
+## O que são proMpts
