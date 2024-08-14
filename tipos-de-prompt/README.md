@@ -17,3 +17,31 @@ E, indo além, você pode criar (treinar) os seus próprios Agentes para fins es
 Logo, note que quando está interagindo com uma IA, em um conceito ligeiramente mais profundo está interagindo com um Agente, desenhado para um fim específico e como, hoje, qualquer um de nós pode "desenhar" esses Agentes de acordo com a nossa necessidade, parte da intenção desse projeto é facilitar esse desenho.
 
 ## O que são proMpts
+> Um prompt é a forma como um usuário interage com um sistema de IA, como chatbots ou assistentes virtuais. Ele consiste em palavras e frases que orientam a IA sobre o que o usuário deseja saber ou realizar.
+
+Novamente de acordo com um dos meus Agentes favoritos.
+
+Ou seja, proMpts são os "comandos" que podemos dar para uma IA, para um Agente, para obtermos um resultado específico, como uma resposta, a realização de uma tarefa simples ou repetitiva e, até, a criação de uma imagem ou vídeo.
+
+Esses comandos podem ser das mais variadas naturezas, ou com os mais variados objetivos. Em uma pesquisa simples encontrariamos definições de proMpts, como por exemplo:
+- Prompts positivos;
+- Prompts negativos
+- Prompt de comportamento
+- Prompt de criatividade
+- Prompt de tarefa
+- Prompt de história
+- Prompt de opinião
+- Prompt de comando
+- Prompt de escolha
+- Prompt de contexto
+E, certamente, poderiamos ter ainda muitos mais outros tipos.
+
+Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita de proMpts que venho narrando aqui eu consolidei os proMpts em três tipos basais (que variam todos os outros acima e muitos mais) com a possibilidade de mais um modificador que poderia ser aplicado nesses.
+
+![proMpto (1)](https://github.com/user-attachments/assets/72ccf5cc-3db2-429a-aff7-3ac1cb92407e)
+
+
+
+Eu entendi que todo proMpt que escrevemos e todo Agente que treinamos, no fundo, está baseado ou pende para uma dessas três naturezas, desses três tipos.
+
+E saber disso é importante para guiar essa criação, essa escrita.
