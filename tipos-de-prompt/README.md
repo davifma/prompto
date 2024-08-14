@@ -38,9 +38,10 @@ E, certamente, poderiamos ter ainda muitos mais outros tipos.
 
 Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita de proMpts que venho narrando aqui eu consolidei os proMpts em três tipos basais (que variam todos os outros acima e muitos mais) com a possibilidade de mais um modificador que poderia ser aplicado nesses.
 
-![proMpto (1)](https://github.com/user-attachments/assets/72ccf5cc-3db2-429a-aff7-3ac1cb92407e)
-
-
+<img src="https://github.com/user-attachments/assets/6ed92c7d-7ee0-4156-8d9d-2d23ffbc0be8" width="187" height="318">
+<img src="https://github.com/user-attachments/assets/f39ca105-7443-40c3-855f-481bff413556" width="187" height="318">
+<img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" width="187" height="318">
+<img src="https://github.com/user-attachments/assets/57fee67b-8f47-4696-b525-a3dac3ef4dba" width="187" height="318">
 
 Eu entendi que todo proMpt que escrevemos e todo Agente que treinamos, no fundo, está baseado ou pende para uma dessas três naturezas, desses três tipos.
 
