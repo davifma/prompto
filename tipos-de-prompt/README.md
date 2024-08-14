@@ -46,3 +46,15 @@ Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita d
 Eu entendi que todo proMpt que escrevemos e todo Agente que treinamos, no fundo, está baseado ou pende para uma dessas três naturezas, desses três tipos.
 
 E saber disso é importante para guiar essa criação, essa escrita.
+
+## Referências
+WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/prompts-chatgpt/>. Acesso em: 14 ago. 2024.
+
+PERPLEXITY.AI. Quais são os tipos de prompt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-prompt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
+
+PERPLEXITY.AI. O que são agentes de IA? Disponível em: <https://www.perplexity.ai/search/o-que-sao-agentes-de-ia-3JdzK5TiSeuYuUazKtS9Qg>. Acesso em: 14 ago. 2024.
+
+PERPLEXITY.AI. O que são prompts de IA? Disponível em: <https://www.perplexity.ai/search/o-que-sao-prompts-de-ia-qdKlEue_RxyyQGws3VV0dg>. Acesso em: 14 ago. 2024.
+
+GITHUB. Basic writing and formatting syntax: quoting text. Disponível em: <https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text>. Acesso em: 14 ago. 2024.
+
