@@ -71,5 +71,20 @@ O saldo entre custo e benefício sempre deve ser positivo para continuarmos com 
 
 De qualquer maneira eu acredito que essa prática pode facilitar e enriquecer os diálogos sobre a adoção de IAs em sua organização.
 
-# Relações
-# Referências
+## Relações
+<table>
+<tr>
+  <th>Componhente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Meta (Goal)</td><td>Grow</td><td>	Objetivos claros para o uso da IA, o que deseja alcançar com esse uso</td>
+</tr>
+ <tr>
+  <td>OKR (Objectives)</td><td>Grow</td><td>	Medição dos benefícios que as Inteligências Artificiais (IAs) trazem para o seu dia a dia</td>
+</tr>
+</table>
+
+## Referências
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
+
+PERPLEXITY AI. Como eu posso usar OKRs para medir o benefício que as IAs trazem para o meu dia a dia? Disponível em: https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ. Acesso em: 14 ago. 2024.
