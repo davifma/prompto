@@ -38,12 +38,20 @@ E, certamente, poderiamos ter ainda muitos mais outros tipos.
 
 Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita de proMpts que venho narrando aqui eu consolidei os proMpts em três tipos basais (que variam todos os outros acima e muitos mais) com a possibilidade de mais um modificador que poderia ser aplicado nesses.
 
- [<img src="https://github.com/user-attachments/assets/6ed92c7d-7ee0-4156-8d9d-2d23ffbc0be8" width="187" height="318">](tarefeiro.md) 
- <img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" width="187" height="318"> 
- <img src="https://github.com/user-attachments/assets/f39ca105-7443-40c3-855f-481bff413556" width="187" height="318"> 
- <img src="https://github.com/user-attachments/assets/57fee67b-8f47-4696-b525-a3dac3ef4dba" width="187" height="318"> 
+ [<img src="https://github.com/user-attachments/assets/6ed92c7d-7ee0-4156-8d9d-2d23ffbc0be8" width="187" height="318">](tarefeiro.md)  
+ [<img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" width="187" height="318">](conselheiro.md) 
+ [<img src="https://github.com/user-attachments/assets/f39ca105-7443-40c3-855f-481bff413556" width="187" height="318">](criativo.md) 
+ [<img src="https://github.com/user-attachments/assets/57fee67b-8f47-4696-b525-a3dac3ef4dba" width="187" height="318">](mais-escolhas.md) 
 
 Eu entendi que todo proMpt que escrevemos e todo Agente que treinamos, no fundo, está baseado ou pende para uma dessas três naturezas, desses três tipos.
+
+Resumidamente treinamos Agentes ou solicitamos que as IAs nos ajudem com tarefas simples e repetitivas, ou nos aconselhem nos fornecendo informação ou criem algo como uma imagem, um vídeo que precisamos usar. Essas ações simples se dividem em inúmeras possíbilidades.
+
+Para mim, pensando em Agentes, eu consigo identificar 15 subtipos de Agentes partindo e incluindo esses três, mas, entendo que se incluirmos o modificador de limitação de escolhas seriam 30, mas eu não vejo grande utilidade nisso, toda via a possíbilidade é real.
+
+![proMpto - Frame 1](https://github.com/user-attachments/assets/b49a2e02-026e-4ebf-b037-11c2dbb756da)
+![proMpto - Frame 1 (2)](https://github.com/user-attachments/assets/aa7c45cf-de5d-49f6-ae76-0cc28bb2170e)
+![proMpto - Frame 1 (1)](https://github.com/user-attachments/assets/61c8bac7-bda9-4ed6-8460-f9336879d051)
 
 E saber disso é importante para guiar essa criação, essa escrita.
 
