@@ -80,7 +80,7 @@ De qualquer maneira eu acredito que essa prática pode facilitar e enriquecer os
   <td>Meta (Goal)</td><td>Grow</td><td>	Objetivos claros para o uso da IA, o que deseja alcançar com esse uso</td>
 </tr>
  <tr>
-  <td>OKR (Objectives)</td><td>Grow</td><td>	Medição dos benefícios que as Inteligências Artificiais (IAs) trazem para o seu dia a dia</td>
+  <td>Objetivos (Objectives)</td><td>OKR</td><td>	Medição dos benefícios que as Inteligências Artificiais (IAs) trazem para o seu dia a dia</td>
 </tr>
 </table>
 
