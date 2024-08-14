@@ -89,7 +89,19 @@ Assim, é fundamental saber o gasto que será necessário para por esse uso de I
 
 Ponderando o quanto será gasto e ganho de vida usando a IA você deve ter um saldo positivo, um ganho de vida. Esse é o objetivo da IA e de todas as tecnologias, fazer com que você viva mais plenamente. Ou, pelo menos, deveria ser.
 
+## Relações
+<table>
+<tr>
+  <th>Componhente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Meta (Goal)</td><td>Grow</td><td>	Objetivos claros para o uso da IA, o que deseja alcançar com esse uso</td>
+</tr>
+</table>
+
 ## Referências
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
+
 WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/prompts-chatgpt/>. Acesso em: 14 ago. 2024.
 
 PERPLEXITY.AI. Quais são os tipos de prompt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-prompt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
