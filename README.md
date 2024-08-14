@@ -7,7 +7,7 @@ Reflexão sobre o uso de Inteligências Artificiais Generativas
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
-  - [mais escolhas](tipos-de-prompt/mais-escolhas)
+  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - **Relações**
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
  ## Externo
