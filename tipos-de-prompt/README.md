@@ -62,6 +62,33 @@ Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts e
 
 Usando um modificado de escolhas você está limitando as possibilidades de resposta da IA, exigindo que ela escolha entre as opções que você a fornecer.
 
+## Considerando o uso de IAs
+Mesmo antes de definir se precisa treinar um Agente específico ou qual seria o melhor proMpt para uma determinada função e mesmo antes de definir seus objetivos, ação que este texto pretende facilitar, é necessário compreender se devemos usar a IA para essa determinada função.
+
+As questões são simples, na minha percepção apenas duas.
+
+### Quais benefícios terei com o uso da IA nessa atividade?
+
+Considere quais benefícios serão alcançados com o uso da IA na atividade que está atuando nesse momento, por exemplo. O que ganharia se usasse a IA para facilitá-la. Em um primeiro momento esses benefícios podem vir em forma qualitativa, por exemplo "mais qualidade nas imagens que produzo", mas busque convertê-los em ganho financeiro, quanto ($$$) eu vou ganhar tento mais qualidade nas imagens que eu uso? Por exemplo.
+
+Pense da seguinte forma, dinheiro, valor monetário, não é a coisa mais importante para muitas decisões, mas pode ser o representante de um ativo que não é renovável, o tempo, uma vez gasto não se tem de volta, muitas vezes economizar dinheiro, ou ganhar mais dinheiro, significa economizar tempo. Economizar tempo significa economizar vida.
+
+No fim das contas, a pergunta seria: Quanto da minha vida usar esse recurso vai poupar?
+
+### Quanto vou gastar para usar essa IA?
+
+A segunda pergunta é sobre quanto de gasto você terá para usar o recurso que tem em mente, em um primeiro momento sua resposta provavelmente estará relacionada com o gasto financeiro direto (custo de licensas, infraestrutura, funcionários e etc), mas abra esse conceito para o tempo, quanto tempo irei gastar com isso também é importante.
+
+O conceito é o mesmo dinheiro pode ser uma representação valorativa do tempo e tempo é irrecuperável, uma vez gasto não tem retorno. Assim saber disse pode te economizar tempo de vida. 
+
+Economizar tempo é o mesmo que ter mais vida para viver?
+
+Assim, é fundamental saber o gasto que será necessário para por esse uso de IA em prática.
+
+### Custo VS Benefício
+
+Ponderando o quanto será gasto e ganho de vida usando a IA você deve ter um saldo positivo, um ganho de vida. Esse é o objetivo da IA e de todas as tecnologias, fazer com que você viva mais plenamente. Ou, pelo menos, deveria ser.
+
 ## Referências
 WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/prompts-chatgpt/>. Acesso em: 14 ago. 2024.
 
