@@ -1,7 +1,6 @@
 # prompto.github.io
-Reflexão sobre o uso de Inteligências Artificiais Generativas
-<img src="https://github.com/user-attachments/assets/72ccf5cc-3db2-429a-aff7-3ac1cb92407e" align="left" width="375" height="637">
-
+***Como eu posso conseguir o melhor resultado o uso de Inteligências Artifíciais Generativas?***
+<img src="https://github.com/user-attachments/assets/222528d3-56ea-459e-a42d-88fba5eb14c5" align="left" width="375" height="637">
 ## Índice
 - **[Tipos de Prompt](tipos-de-prompt/)**
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
