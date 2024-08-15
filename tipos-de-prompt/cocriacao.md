@@ -85,6 +85,8 @@ De qualquer maneira eu acredito que essa prática pode facilitar e enriquecer os
 </table>
 
 ## Referências
-PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
+MARQUES DE ALMEIDA, DAVI FONTEBASSO. OKR, um guia de navegação: Como você sabe se sua empresa está na direção certa? 2022. Disponível em: https://www.amazon.com.br/dp/B09SW2VTM6. Acessado em: 15 ago. 2024.
+
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 ago. 2024.
 
 PERPLEXITY AI. Como eu posso usar OKRs para medir o benefício que as IAs trazem para o meu dia a dia? Disponível em: https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ. Acesso em: 14 ago. 2024.
