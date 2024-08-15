@@ -30,7 +30,7 @@ Usar a definição de um Papel para a IA em seus prompts deve torná-los ainda m
 ## Relações
 <table>
 <tr>
-  <th>Componhente</th>	<th>Método</th>	<th>Descrição</th>
+  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
 </tr>
 <tr>
   <td>Papel</td><td>PACIF</td><td>	Qual é o papel da IA na requisição que está sendo feita?</td>
