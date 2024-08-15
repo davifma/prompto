@@ -2,7 +2,7 @@
 *(Básico)*
 ***O que você espera que o Agente de Inteligência Artificial (Agente) faça, o que ele deve realizar.***
 
-<img src="https://github.com/user-attachments/assets/c133c922-1f2a-4459-9315-489e97d0cb6e" align="left" width="637" height="375">
+<img src="https://github.com/user-attachments/assets/b55d8725-a8db-4145-acab-1205f425419d" align="left" width="637" height="375">
 
 Essa é a única parte do prompt que é certo que ninguem esquece, é literalmente o pedido que deseja fazer, o que você quer que a Inteligência Artifical (IA) faça especificamente.
 ```
