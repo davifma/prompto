@@ -3,7 +3,7 @@
 
 ***Qual é a função, a posição, da Inteligência Artificial (IA) na atividade que está sendo requisitada.***
 
-<img src="https://github.com/user-attachments/assets/a59c5309-028b-4bf3-9b9a-4bb775597b89" align="left" width="637" height="375">
+<img src="https://github.com/user-attachments/assets/6fe935aa-837f-4c1c-958d-f775041c3fd7" align="left" width="637" height="375">
 
 Provavelmente a primeira coisa que você vai querer, ou deveria querer, na escrita que uma requisição qualquer para uma IA é dizer qual é o papel dessa IA dentro dessa requisição. Faça um teste, solicite a sua IA generativa (IA) de estimação (caso não tenha pode usar a [bit.ly/oratoriafma](https://bit.ly/oratoriafma) que te explique qualquer coisa, como no exemplo:
 ```
