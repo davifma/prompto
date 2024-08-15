@@ -12,6 +12,6 @@ Reflexão sobre o uso de Inteligências Artificiais Generativas
 - **Relações**
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ).
- ## Externo
- - **Mídia**
-   - [Linkedin](midia/linkedin.md)
+- ## Externo
+  - **Mídia**
+    - [Linkedin](midia/linkedin.md)
