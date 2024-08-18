@@ -38,3 +38,17 @@ Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com 
 Provavelmente, você perceberá que, embora ele mantenha o mesmo tom, o Agente deve responde de forma mais fechada com exemplos bem mais focados ao contexto de alguem que quer um guarda-roupas versátil.
 
 Aquí nós temos o eu eu acredito ser o proMpt básico ideal, ele ainda pode ser muito melhorado e trabalhado, mas usar apenas esses três itens (Papel, Ação e Contexto) pode ser o suficiente para a maioria das solicitações do dia a dia.
+
+Lembrando que enquanto esse processo não se torna natural você tem esse recurso para se recordar de cada parte de um bom proMpt, nesse caso nosso proMpt ficou algo como o seguinte:
+
+[<img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" width="187" height="318">](conselheiro.md)
+
+[<img src="https://github.com/user-attachments/assets/b55d8725-a8db-4145-acab-1205f425419d"  width="318" height="187">](partes-de-prompt/acao.md)
+
+[<img src="https://github.com/user-attachments/assets/46e59261-5c0b-415b-8c4c-d052bb3204f5"  width="318" height="187">](partes-de-prompt/papel.md)
+
+[<img src="https://github.com/user-attachments/assets/4c006d10-d85e-4444-b399-4d54d141f2fc"  width="318" height="187">](partes-de-prompt/contexto.md)
+
+
+
+
