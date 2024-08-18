@@ -49,6 +49,16 @@ Lembrando que enquanto esse processo não se torna natural você tem esse recurs
 
 [<img src="https://github.com/user-attachments/assets/4c006d10-d85e-4444-b399-4d54d141f2fc"  width="318" height="187">](partes-de-prompt/contexto.md)
 
+## Leia também
+- [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+  - [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+  - [conselheiro](tipos-de-prompt/conselheiro.md)
+- Partes de proMpts
+  - [Papel](partes-de-prompt/papel.md)
+  - [Ação](partes-de-prompt/acao.md)
+  - [Contexto](partes-de-prompt/contexto.md)
+  
+
 
 
 
