@@ -1,5 +1,6 @@
 # Contexto
 *(Básico)*
+
 ***Explique qual é a situação para qual essa solicitação está sendo realizada***
 
 Em uma conversa humana há a clara necessidade de contexto, quando as partes que conversam não estão dentro do próprio contexto da proza, é necessário um alinhamento sobre tal para que a conversa tenha frutos de fato. Principalmente se o diálogo busca alguma conclusão. 
