@@ -15,11 +15,9 @@ Quais são as tendências de moda para o outono?
 ```
 Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmente eu terei uma resposta bastante aberta, mas posso melhorar muito essa resposta aplicando três elementos simples ao meu proMpt.
 
-[<img src="https://github.com/user-attachments/assets/46e59261-5c0b-415b-8c4c-d052bb3204f5" align="left" width="318" height="187">](partes-de-prompt/papel.md)
-
-[<img src="https://github.com/user-attachments/assets/b55d8725-a8db-4145-acab-1205f425419d" align="left" width="318" height="187">](partes-de-prompt/acao.md)
-
-[<img src="https://github.com/user-attachments/assets/4c006d10-d85e-4444-b399-4d54d141f2fc" align="left" width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="https://github.com/user-attachments/assets/46e59261-5c0b-415b-8c4c-d052bb3204f5"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="https://github.com/user-attachments/assets/b55d8725-a8db-4145-acab-1205f425419d"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="https://github.com/user-attachments/assets/4c006d10-d85e-4444-b399-4d54d141f2fc"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Embora divirja da ordem mostrada acima vou iniciar melhorando a ação, que na verdade é o que eu já iniciei.
 ```
