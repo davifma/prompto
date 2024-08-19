@@ -3,6 +3,8 @@
 
 ***Como, em qual formato, a Inteligência Artificial (IA) deve entregar o resultado da requisição?***
 
+  <img src="https://github.com/user-attachments/assets/769152cf-b7af-48e3-b560-da6254f21670" align="left" width="637" height="375">
+
 Mesmo que você já tenha um bom prompt construído, com os elementos básicos bem definidos (Tipo, Ação, Contexto e Papel), talvez o resultado não seja exatamente o que estava esperando, para isso podemos adicionar elementos de controle, para garantir um resultado mais alinhado com as nossas expectativas.
 
 Definir um Formato de resposta altera drasticamente, obviamente, a forma como a IA vai te entregar a informação gerada. Diria que hoje esses formatos são ilimitados, um código de programação, uma tabela, um desenho, um ilustração, um vídeo, etc...
