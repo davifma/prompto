@@ -38,3 +38,20 @@ Como um professor de culinária crie a receita escrita como passo a passo, igred
 Nesse caso teremos uma receita mais detalhada e com os elementos solicitados.
 
 De qualquer forma, lembre-se que mesmo sendo muito específico (o que é necessário) as IAs não são factuais, por tanto é sempre necessário se colocar no lugar de humano responsável da relação e verificar todas as informações geradas.
+
+## Relações
+<table>
+<tr>
+  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Formato</td><td>PACIF</td><td>	Em qual formato de conteúdo a IA deve gerar  a resposta.</td>
+</tr>
+  <tr>
+  <td>Formato</td><td>PACEF</td><td>	Em qual formato de conteúdo a IA deve gerar  a resposta.</td>
+</tr>
+</table>
+
+## Referências
+Agilers. Almoce e Aprenda: IA na Gestão e Liderança. Disponível em: https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764593995821713&cot=14. Acesso em: 15 ago. 2024.
+
