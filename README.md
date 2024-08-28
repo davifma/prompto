@@ -2,6 +2,7 @@
 ***Como eu posso conseguir o melhor resultado o uso de Inteligências Artifíciais Generativas?***
 <img src="https://github.com/user-attachments/assets/222528d3-56ea-459e-a42d-88fba5eb14c5" align="left" width="375" height="637">
 ## Índice
+- **[O Básico bem feito](prompt-basico.md)**
 - **[Tipos de proMpt ou Agentes](tipos-de-prompt/)**
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
