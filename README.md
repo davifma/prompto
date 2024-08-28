@@ -8,7 +8,7 @@
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-  - [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.br)
+  - [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.md)
 - **Partes de proMpts**
   - [Papel](partes-de-prompt/papel.md)
   - [Ação](partes-de-prompt/acao.md)
