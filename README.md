@@ -16,7 +16,7 @@
     - [Formato](partes-de-prompt/controle/formato.md)
     - [Limites](partes-de-prompt/controle/limites.md)
   - **Informação**
-    - [Exemplos](partes-de-prompt/infomacao/exemplos.md)
+    - [Exemplos](partes-de-prompt/informacao/exemplos.md)
     - [Limites](partes-de-prompt/controle/limites.md)
   - **Criação**
     - [Formato](partes-de-prompt/controle/formato.md) 
