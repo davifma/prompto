@@ -5,7 +5,7 @@ O primeiro passo para ter um bom prompt é saber, realmente, qual é o seu objet
 
 Escolher um agente mais adequado até pode ser uma atividade um pouco mais complexa, mas saber o tipo de proMpt que vai escrever com antecedência deve se tornar natural, mas, em um primeiro momento, enquanto ainda precisar de apoio lembre-se dos tipos de proMpts fundamentais.
 
-[<img src="imagens/cards/2.png" width="187" height="318">](tipos-d-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-d-prompt/conselheiro.md)[<img src="imagens/cards/3.png" width="187" height="318">](tipos-d-prompt/criativo.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-d-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/2.png" width="187" height="318">](tipos-d-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-d-prompt/conselheiro.md)[<img src="imagens/cards/4.png" width="187" height="318">](tipos-d-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-d-prompt/mais-escolhas.md) 
 
 Definido o tipo de proMpt você já terá meio caminho para uma solicitação muito mais efetiva. Vamos supor que você optou por um proMpt "Conselheiro", quais seriam os proximos passos? Bom, um exemplo de proMpt Conselheiro seria:
 ```
@@ -13,9 +13,9 @@ Quais são as tendências de moda para o outono?
 ```
 Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmente eu terei uma resposta bastante aberta, mas posso melhorar muito essa resposta aplicando três elementos simples ao meu proMpt.
 
-[<img src="https://github.com/user-attachments/assets/46e59261-5c0b-415b-8c4c-d052bb3204f5"  width="318" height="187">](partes-de-prompt/papel.md)
-[<img src="https://github.com/user-attachments/assets/b55d8725-a8db-4145-acab-1205f425419d"  width="318" height="187">](partes-de-prompt/acao.md)
-[<img src="https://github.com/user-attachments/assets/4c006d10-d85e-4444-b399-4d54d141f2fc"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Embora divirja da ordem mostrada acima vou iniciar melhorando a ação, que na verdade é o que eu já iniciei.
 ```
@@ -39,13 +39,13 @@ Aquí nós temos o eu eu acredito ser o proMpt básico ideal, ele ainda pode ser
 
 Lembrando que enquanto esse processo não se torna natural você tem esse recurso para se recordar de cada parte de um bom proMpt, nesse caso nosso proMpt ficou algo como o seguinte:
 
-[<img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" width="187" height="318">](conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](conselheiro.md)
 
-[<img src="https://github.com/user-attachments/assets/b55d8725-a8db-4145-acab-1205f425419d"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="https://github.com/user-attachments/assets/46e59261-5c0b-415b-8c4c-d052bb3204f5"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="https://github.com/user-attachments/assets/4c006d10-d85e-4444-b399-4d54d141f2fc"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 ## Leia também
 - [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
