@@ -5,7 +5,7 @@ O primeiro passo para ter um bom prompt é saber, realmente, qual é o seu objet
 
 Escolher um agente mais adequado até pode ser uma atividade um pouco mais complexa, mas saber o tipo de proMpt que vai escrever com antecedência deve se tornar natural, mas, em um primeiro momento, enquanto ainda precisar de apoio lembre-se dos tipos de proMpts fundamentais.
 
-[<img src="https://github.com/user-attachments/assets/6ed92c7d-7ee0-4156-8d9d-2d23ffbc0be8" width="187" height="318">](tipos-d-prompt/tarefeiro.md) [<img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" width="187" height="318">](tipos-d-prompt/conselheiro.md)[<img src="https://github.com/user-attachments/assets/f39ca105-7443-40c3-855f-481bff413556" width="187" height="318">](tipos-d-prompt/criativo.md)[<img src="https://github.com/user-attachments/assets/57fee67b-8f47-4696-b525-a3dac3ef4dba" width="187" height="318">](tipos-d-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/2.png" width="187" height="318">](tipos-d-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-d-prompt/conselheiro.md)[<img src="imagens/cards/3.png" width="187" height="318">](tipos-d-prompt/criativo.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-d-prompt/mais-escolhas.md) 
 
 Definido o tipo de proMpt você já terá meio caminho para uma solicitação muito mais efetiva. Vamos supor que você optou por um proMpt "Conselheiro", quais seriam os proximos passos? Bom, um exemplo de proMpt Conselheiro seria:
 ```
