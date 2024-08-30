@@ -9,3 +9,5 @@ Para mim, o que fica muito claro, é que antes de pensar na escrita do prompt, �
 
 Esses são pontos fundamentais para você saber que tipo de prompt deseja criar, e a partir daí iniciar a sua redação.
 
+[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+
