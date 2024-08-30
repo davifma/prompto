@@ -11,3 +11,7 @@ Esses são pontos fundamentais para você saber que tipo de prompt deseja criar,
 
 [<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
+Definido isso já posso escrever o meu proMpt sem muita dor. Simplesmente vá lá e escreva. Se der certo ótimo, senão reflita, eu incluí os elementos básicos para alcançar o resultado desejado? Qual é a posição da IA sobre a minha solicitação? Eu disse como ela deveria agir? A atividade que ela deveria realizar está claro? É claro o que deve ser feito? E aplicação do resultado esperado? Está evidente em qual contexto essa resposta deve se encaixar? 
+
+Se as repostas para essas perguntas for não, vale a pena inserir cada um desses elementos em sua solicitação. Na verdade, algumas vezes, inserir apenas um deles já deve surtir um efeito positivo, então (principalmente se tiver tempo) deveria experiêntar inserir um de cada vez para ver os resultados e suas diferenças.
+
