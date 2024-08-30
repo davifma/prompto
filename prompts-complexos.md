@@ -28,17 +28,17 @@ Copdemos incluir esses detalhes, como mais itens para controlar o resultado espe
 Vamos ver um exemplo.
 
 ```
-Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
+Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
 
 Nesse prompt teriamos a seguinte estrutura já desenhada:
 
-[<img src="imagens/cards/3.png" width="187" height="318">](conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) **Minha intenção é receber uma orientação sobre moda**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **A IA deve me dar exemplos par aum guarda roupas capsula de outono**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md) **A IA deve agir como um Fashionista especialista em dia-a-dia**
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **No momento estou refazendo o meu guarda-roupas para o outono**
 
 
