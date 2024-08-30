@@ -15,3 +15,6 @@ Definido isso já posso escrever o meu proMpt sem muita dor. Simplesmente vá l�
 
 Se as repostas para essas perguntas for não, vale a pena inserir cada um desses elementos em sua solicitação. Na verdade, algumas vezes, inserir apenas um deles já deve surtir um efeito positivo, então (principalmente se tiver tempo) deveria experiêntar inserir um de cada vez para ver os resultados e suas diferenças.
 
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
