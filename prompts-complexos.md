@@ -16,5 +16,29 @@ Definido isso já posso escrever o meu proMpt sem muita dor. Simplesmente vá l�
 Se as repostas para essas perguntas for não, vale a pena inserir cada um desses elementos em sua solicitação. Na verdade, algumas vezes, inserir apenas um deles já deve surtir um efeito positivo, então (principalmente se tiver tempo) deveria experiêntar inserir um de cada vez para ver os resultados e suas diferenças.
 
 [<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+
+Se, ainda assim, incluíndo esse corpo básico ao seu prompt você não alcançou o resultado esperado, então devemos estar falando de uma solicitação mais complexa, por tanto, que necessita de mais detalhes para atender a essa complexidade.
+
+Copdemos incluir esses detalhes, como mais itens para controlar o resultado esperado e também mais informações que indiquem para a IA qual é esse resultado pretendido.
+
+Vamos ver um exemplo.
+
+```
+Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
+```
+
+Nesse prompt teriamos a seguinte estrutura já desenhada:
+
+[<img src="imagens/cards/3.png" width="187" height="318">](conselheiro.md)
+
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+
+
