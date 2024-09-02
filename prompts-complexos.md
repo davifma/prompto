@@ -49,7 +49,7 @@ Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula c
 
 Adicionamos
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
 Provavelmente já teremos um resultado bem diferente, mas podemos dar mais informação para direcionarmos ainda mais esse resultado.
 
@@ -66,7 +66,7 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 Adicionar um exemplo pode ser a forma mais simples, no final, de direcionar corretamente a IA para o resultado que você espera.
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **como no exemplo abaixo (exemplo de tabela)**
+[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
 Ainda poderiamos literalmente limitar as iformações a serem retornadas.
 
@@ -83,4 +83,26 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 Limitando as possibilidades algumas vezes você póderá ter um resultado mais realista, além disso, o mundo real traz suas limitações tmabém e é bastante válido repplicá-las em nossas tarefas e nas tarefas das IAs.
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **sugerindo apenas cinco peças chave no total**
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/limites.md)  **sugerindo apenas cinco peças chave no total**
+
+Aqui, nós usamos e temos uma estrutura de proMpt exemplificda bastante completa, que pode ser muito útil para solução de problemas mais complexos, é legal pensar que nem sempre todos esses elementos serão necessários e sua escolha deve passar a ser natural com o tempo e prática, mas esse pode ser um bom guia para melhorar o desempenho de seus prompts inicialmente, expeciamente se você não é uma pessoa de área tecnica acostumada com a escrita de logicas esse caminho pode ser bem mais natural e simples.
+
+A estrutura que temos aqui seria algo como abaixo:
+
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) 
+
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) 
+
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md) 
+
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) 
+
+[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/formato.md)
+
+[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/exemplos.md)
+
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/limites.md) 
+
+
+
+
