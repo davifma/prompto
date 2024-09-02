@@ -34,6 +34,7 @@ Esses comandos podem ser das mais variadas naturezas, ou com os mais variados ob
 - Prompt de comando
 - Prompt de escolha
 - Prompt de contexto
+
 E, certamente, poderiamos ter ainda muitos mais outros tipos.
 
 Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita de proMpts que venho narrando aqui eu consolidei os proMpts em três tipos basais (que variam todos os outros acima e muitos mais) com a possibilidade de mais um modificador que poderia ser aplicado nesses.
