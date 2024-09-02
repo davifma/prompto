@@ -4,7 +4,7 @@
 ## Índice
 - ### Deck de Consciência
   - #### [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.md)
-    - ##### [Tipos de proMpt ou Agentes](tipos-de-prompt/)
+    - ##### [Tipos de proMpt ou Agentes](tipos-de-prompt/readme.md)
       - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
       - [Conselheiro](tipos-de-prompt/conselheiro.md)
       - [Criativo](tipos-de-prompt/criativo.md)
