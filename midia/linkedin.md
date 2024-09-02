@@ -21,7 +21,7 @@
 
 [Você já pensou em como a Inteligência Artifícial (IA) pode transformar a maneira como trabalhamos, colaboramos e inovamos?](https://www.linkedin.com/posts/davifma_tipos-de-prompts-e-agentes-activity-7230543894122291201-TA0T)
 
-[Ao utilizar o modificador de "Escolhas" em prompts, adicionamos uma camada de foco que direciona a IA para uma resposta mais específica e útil.](https://www.linkedin.com/posts/davifma_criativo-activity-7229456761663967233-FfbT]
+[Ao utilizar o modificador de "Escolhas" em prompts, adicionamos uma camada de foco que direciona a IA para uma resposta mais específica e útil.](https://www.linkedin.com/posts/davifma_criativo-activity-7229456761663967233-FfbT)
 
 [Prompts criativos são ferramentas poderosas ao explorar a criatividade das IAs generativas.](https://www.linkedin.com/posts/davifma_criativo-activity-7229456761663967233-FfbT)
 
