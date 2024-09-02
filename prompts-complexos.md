@@ -112,9 +112,13 @@ Todavia, não importa o quão complexos e específicos sejam seus prompts sempre
   - [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
   - [O Básico bem feito](prompt-basico.md)
 - Partes de proMpts
-  - [Formato](partes-de-prompt/controle/formnato.md)
-  - [Exemplos](partes-de-prompt/informacao/exemplos.md)
-  - [Limites](partes-de-prompt/controle/limites.md)
+  - Para controlar mais o resultado 
+    - [Formato](partes-de-prompt/controle/formato.md)
+    - [Limites](partes-de-prompt/controle/limites.md)
+  - Para informar melhor a Inteligência Artificial
+    - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+    - [Limites](partes-de-prompt/controle/limites.md)
+  
 
 
 
