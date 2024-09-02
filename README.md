@@ -1,6 +1,6 @@
 # prompto.github.io
 ***Como eu posso conseguir o melhor resultado o uso de Inteligências Artifíciais Generativas?***
-<img src="https://github.com/user-attachments/assets/222528d3-56ea-459e-a42d-88fba5eb14c5" align="left" width="375" height="637">
+<!-- <img src="https://github.com/user-attachments/assets/222528d3-56ea-459e-a42d-88fba5eb14c5" align="left" width="375" height="637"> -->
 ## Índice
 - ### Deck de Consciência
   - #### [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.md)
