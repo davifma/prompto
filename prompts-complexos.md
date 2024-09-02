@@ -103,6 +103,10 @@ A estrutura que temos aqui seria algo como abaixo:
 
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/limites.md) 
 
+Quanto mais complexa a sua necessidade, eu entendo que, mais específica deve ser a escrita dos seus proMpts e ter esses elementos, essas partes, possíveis para bum bom proMpt em mente certamente deve facilitar essa atividade. Além disso é sempre importante lembrar que os Agentes de IA (Agentes), sobretudo generativas, de alguma forma buscam imitar uma resposta humana, assim, trata-los de forma semelhante a um humando em nossas instruções também deve ajudar. 
+
+Todavia, não importa o quão complexos e específicos sejam seus prompts sempre vale lembrar que o Humano de fato é você e, por isso, o responsável pelo uso do resultado gerado que pode não ser factual, as IAs, não são facutais assim cabendo sempre a curadoria desses resultados.
+
 
 
 
