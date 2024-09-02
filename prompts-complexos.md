@@ -41,4 +41,42 @@ Nesse prompt teriamos a seguinte estrutura já desenhada:
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **No momento estou refazendo o meu guarda-roupas para o outono**
 
+Vamos acrescentar mais algumas informações para a IA poder trabalhar e trazer um resultado mais interessante.
 
+```
+Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas, me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações.
+```
+
+Adicionamos
+
+[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+
+Provavelmente já teremos um resultado bem diferente, mas podemos dar mais informação para direcionarmos ainda mais esse resultado.
+
+```
+Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas, me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações, como no exemplo abaixo
+
+                Tendencia 1       Tendencia 2   Tendencia 3    Explicação
+Tendencia 1     Peça01+Peça02     PeçaN+PeçaN   Peça?+Peça?    Essas combinações são assim por que...
+Tendencia 2     Peça01+Peça03     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+...             ...               ...           ...            ...
+Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+```
+
+Adicionar um exemplo pode ser a forma mais simples, no final, de direcionar corretamente a IA para o resultado que você espera.
+
+[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **como no exemplo abaixo
+
+
+                Tendencia 1       Tendencia 2   Tendencia 3    Explicação
+
+Tendencia 1     Peça01+Peça02     PeçaN+PeçaN   Peça?+Peça?    Essas combinações são assim por que...
+
+Tendencia 2     Peça01+Peça03     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+
+Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+
+...             ...               ...           ...            ...
+
+Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...**
