@@ -66,17 +66,21 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 Adicionar um exemplo pode ser a forma mais simples, no final, de direcionar corretamente a IA para o resultado que você espera.
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **como no exemplo abaixo
+[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **como no exemplo abaixo (exemplo de tabela)**
 
+Ainda poderiamos literalmente limitar as iformações a serem retornadas.
+
+```
+Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas, me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações, como no exemplo abaixo sugerindo apenas cinco peças chave no total.
 
                 Tendencia 1       Tendencia 2   Tendencia 3    Explicação
-
 Tendencia 1     Peça01+Peça02     PeçaN+PeçaN   Peça?+Peça?    Essas combinações são assim por que...
-
 Tendencia 2     Peça01+Peça03     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
-
 Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
-
 ...             ...               ...           ...            ...
+Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+```
 
-Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...**
+Limitando as possibilidades algumas vezes você póderá ter um resultado mais realista, além disso, o mundo real traz suas limitações tmabém e é bastante válido repplicá-las em nossas tarefas e nas tarefas das IAs.
+
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/contexto.md)  **sugerindo apenas cinco peças chave no total**
