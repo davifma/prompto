@@ -11,8 +11,22 @@ Porém, podemos pedir que um Agente "CRIE" pratimente qualquer coisa, principalm
 Escreva um versinho sobre inteligência artificial.
 ```
 
-Aqui teremos um prompt criativo apenas com uma ação definida. 
+Aqui teremos um prompt criativo apenas com uma ação definida e o assunto. 
 
 [<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
 
 [<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
+Por mais simples que seja um prompt criativo, dificilmente você consequirá realizá-lo sem um assunto definido. Mesmo nesse prompt mais simples ele já está presente. 
+
+Vamos ver um outro exemplo, agora criando uma imagem:
+
+```
+Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto".
+```
+
+[<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
+
+[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
+[<img src="/imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
