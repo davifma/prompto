@@ -13,6 +13,6 @@ Escreva um versinho sobre inteligência artificial.
 
 Aqui teremos um prompt criativo apenas com uma ação definida. 
 
-[<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
+[<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
