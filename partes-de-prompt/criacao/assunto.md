@@ -13,11 +13,11 @@ Escreva um versinho sobre inteligência artificial.
 
 Aqui teremos um prompt criativo apenas com uma ação definida e o assunto. 
 
-[<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
+[<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) 
 
-[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **Escreva um versinho**
 
-[<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md)
+[<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md) **sobre inteligência artificial**
 
 Por mais simples que seja um prompt criativo, dificilmente você consequirá realizá-lo sem um assunto definido. Mesmo nesse prompt mais simples ele já está presente. 
 
@@ -29,8 +29,10 @@ Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card 
 
 [<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
 
-[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **Crie a imagem**
 
-[<img src="/imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
+[<img src="/imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md) **imagem com uma porporção de 16x9**
 
-[<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md)
+[<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto"**
+
+
