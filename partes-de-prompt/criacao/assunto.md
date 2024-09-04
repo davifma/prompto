@@ -3,9 +3,11 @@
 
 ***Principalmente para proMpts criativos é necessário definir qual é o foco, o protagonismo, dessa criação.***
 
-Peças criativas em geral tem um assunto alvo, uma foco principal, um protagonista dessa "história" que está sendo contada por meio da criação. Provavelmente os Agentes de Inteligência Artificial (Agentes) Criativos mais conhecidos são os que criam imagens. Caso você ainda não tenha um Agente Criativo de estimação pode usar o [bit.ly/oratoriafma](https://bit.ly/oratoriafma), que também consegue gerar imagens com base no modelo ChatGPT.
+Peças criativas em geral tem um assunto alvo, um foco principal, um protagonista dessa "história" que está sendo contada por meio da criação. 
 
-Porém, podemos pedir que um Agente "CRIE" pratimente qualquer coisa, principalmente se falarmos de produtos intelectuais, por exemplo;
+Provavelmente os Agentes de Inteligência Artificial (Agentes) Criativos mais conhecidos são os que criam imagens. Caso você ainda não tenha um Agente Criativo de estimação pode usar o [bit.ly/oratoriafma](https://bit.ly/oratoriafma), que também consegue gerar imagens com base no modelo ChatGPT.
+
+Porém, podemos pedir que um Agente "CRIE" pratimente qualquer coisa, principalmente se falarmos de produtos intelectuais, por exemplo:
 
 ```
 Escreva um versinho sobre inteligência artificial.
@@ -24,7 +26,7 @@ Por mais simples que seja um prompt criativo, dificilmente você consequirá rea
 Vamos ver um outro exemplo, agora criando uma imagem:
 
 ```
-Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto".
+Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto".
 ```
 
 [<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
@@ -35,4 +37,12 @@ Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card 
 
 [<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto"**
 
+Perceba que aqui o assunto é muito mais específico e bem definido, porém você consegue imaginar essa solicitação sem o assunto?
 
+Pelo que temos visto por aqui, se a "Ação" é a parte mais básica de qualquer proMpt, me parece que o "Assunto" é a parte primordial para um bom proMpt criativo. Pensando assim, essa seria a menor estrutura para pedirmos que um Agente crie algo.
+
+[<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) 
+
+[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
+[<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md)
