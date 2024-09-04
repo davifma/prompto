@@ -30,7 +30,8 @@
   - [PACIF](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266196&cot=14)
   - [PACEF](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266197&cot=14)
   - [PREP](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266199&cot=14)
-  - [Dynamic Prompting](
+  - [Dynamic Prompting](https://twitter.com/LinusEkenstam)
+  - [HTML5](https://www.w3.org/TR/2011/WD-html5-author-20110809/Overview.html)
 - ### Externo
   - #### Mídia
     - [Linkedin](midia/linkedin.md)
