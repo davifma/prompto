@@ -64,7 +64,7 @@ Caso a criação que esteja solicitando tenha uma intenção infomativa é funda
   <td>Subject</td><td>Dynamic Prompting</td><td>	O foco da imagem.</td>
 </tr>
 <tr>
-  <td>&lt;figure&gt></td><td>HTML5</td><td>	usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc.</td>
+  <td>&lt;figure&gt;</td><td>HTML5</td><td>	usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc.</td>
 </tr>  
 </table>
 
