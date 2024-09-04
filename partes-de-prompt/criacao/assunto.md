@@ -29,9 +29,9 @@ Vamos ver um outro exemplo, agora criando uma imagem:
 Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto".
 ```
 
-[<img src="/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
+[<img src="/prompto/imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md)
 
-[<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **Crie a imagem**
+[<img src="/prompto/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **Crie a imagem**
 
 [<img src="/imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md) **imagem com uma porporção de 16x9**
 
