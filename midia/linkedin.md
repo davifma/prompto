@@ -1,6 +1,6 @@
 # Posts e Artigos do Linkedin
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7237079765172531203" height="400" width="100%" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+[Já parou para pensar que a eficácia das criações feitas com IA depende diretamente do foco que se dá ao que se pretende criar?](https://www.linkedin.com/posts/davifma_assunto-activity-7237079765961109505-8Zae)
 
 [Em qualquer processo de gestão e liderança, clareza na comunicação é essencial para obter os melhores resultados.](https://www.linkedin.com/posts/davifma_completo-ou-complexo-activity-7236428604203520000-rp-v)
 
