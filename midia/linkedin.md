@@ -1,4 +1,7 @@
 # Posts e Artigos do Linkedin
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7237079765172531203" height="400" width="100%" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+
 [Em qualquer processo de gestão e liderança, clareza na comunicação é essencial para obter os melhores resultados.](https://www.linkedin.com/posts/davifma_completo-ou-complexo-activity-7236428604203520000-rp-v)
 
 [Muitas pessoas, ainda, com medo das Inteligências Artificiais (IA) e sempre as mesmas perguntas, questionamentos e dificuldades aparecem sempre que falamos do uso de IAs generativas.](https://www.linkedin.com/posts/davifma_promptogithubio-activity-7235617325742194688-bvyd)
