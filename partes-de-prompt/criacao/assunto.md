@@ -46,3 +46,30 @@ Pelo que temos visto por aqui, se a "Ação" é a parte mais básica de qualquer
 [<img src="/imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
 [<img src="/imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/assunto.md)
+
+A proposta do uso de Assunto aparece no "Dynamic Prompting" proposto por Linus Ekenstam, que indica que para criação de imagens é necessário ter um foco principal para sua criação, baseado no conceito de "figura" do html5, onde a tag FIGURE pode *"ser usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc."*
+
+Figura e imagem tem uma proximidade semântica muito grande no português, isso me levou a pensar que o "foco" indicado por Linus para criação de imagens deve ser algo igualmente importante para outras criações que pretendam ilustrar qualquer coisa.
+
+Claro que, como em todas as "partes de proMpts" que citamos aqui, ser específico sempre ajuda as IAs a nos responderem com mais eficiência. Também imagine que está solicitando uma criação qualquer, como a pintura de um quadro, para um humano seria necessário explicar-lhe o foco dessa criação, caso ela fosse uma criação com intenção específica, e o mesmo vale para solicitações a IAs.
+
+Caso a criação que esteja solicitando tenha uma intenção infomativa é fundamental que você valide as informações contidas nessa criação, afinal as IAs não são factuais e podem "inventar" informações ou difundir informações erroneas.
+
+## Relações
+<table>
+<tr>
+  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Subject</td><td>Dynamic Prompting</td><td>	O foco da imagem.</td>
+</tr>
+<tr>
+  <td>&lt;figure&gt></td><td>HTML5</td><td>	usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc.</td>
+</tr>  
+</table>
+
+## Referências
+WORLD WIDE WEB CONSORTIUM (W3C). HTML5: Edition for Web Authors. The figure element. 09 ago. 2011. Disponível em: https://www.w3.org/TR/2011/WD-html5-author-20110809/the-figure-element.html. Acesso em: 04 set. 2024.
+
+EKENSTAM, Linus. @LinusEkenstam. Twitter. Disponível em: https://twitter.com/LinusEkenstam. Acesso em: 04 set. 2024.
+
