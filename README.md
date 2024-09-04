@@ -22,13 +22,15 @@
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
     - ##### Criação
-      - [Formato](partes-de-prompt/controle/formato.md) 
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Formato](partes-de-prompt/ciacao/assunto.md) 
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)
   - [PACIF](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266196&cot=14)
   - [PACEF](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266197&cot=14)
   - [PREP](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266199&cot=14)
+  - [Dynamic Prompting](
 - ### Externo
   - #### Mídia
     - [Linkedin](midia/linkedin.md)
