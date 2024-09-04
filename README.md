@@ -1,6 +1,9 @@
 # prompto.github.io
-***Como eu posso conseguir o melhor resultado o uso de Inteligências Artifíciais Generativas?***
+***Como conseguir o melhor resultado o uso de Inteligências Artifíciais (IA)?***
 <img src="https://github.com/user-attachments/assets/222528d3-56ea-459e-a42d-88fba5eb14c5" align="right" width="375" height="637">
+
+Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar a usá-las intencionalmente.
+
 ## Índice
 - ### Deck de Consciência
   - #### [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.md)
