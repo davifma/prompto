@@ -14,3 +14,5 @@ Esse já é um proMpt criativo bem estruturado, trazendo claramente a Ação, o 
 Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Deck de Cards com o logo "proMpto" e a camera usada é uma Câmera Instantânea com uma lente grande angular.
 ```
 Aqui temos uma estrutura mais específica que pode impactar bastante no resultado final.
+
+[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
