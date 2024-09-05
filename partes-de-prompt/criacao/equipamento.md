@@ -28,4 +28,8 @@ Aqui temos uma estrutura mais específica que pode impactar bastante no resultad
 
 [<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
+Como você pode testar nos dois exemplos acima, adicionar o equipamento ao pedido de criação de imagem pode ter um impacto significativo no resultado entregue por essa.
+
+
+
 
