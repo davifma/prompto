@@ -16,3 +16,13 @@ Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "
 Aqui temos uma estrutura mais específica que pode impactar bastante no resultado final.
 
 [<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
+
+[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto** 
+
+[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
+
+[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Deck de Cards com o logo "proMpto"**
+
+**camera usada é uma Câmera Instantânea com uma lente grande angular**
+
+
