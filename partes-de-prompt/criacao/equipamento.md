@@ -23,6 +23,6 @@ Aqui temos uma estrutura mais específica que pode impactar bastante no resultad
 
 [<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Deck de Cards com o logo "proMpto"**
 
-**camera usada é uma Câmera Instantânea com uma lente grande angular**
+[<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
 
