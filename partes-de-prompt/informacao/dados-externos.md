@@ -64,3 +64,22 @@ Nesse caso eu não precisei copiar, colar, ou digitar a lista, apenas anexei ao 
 [<img src="../../imagens/cards/11.png"  width="318" height="187">](../../partes-de-prompt/controle/limites.md) **não precisa explicar o processo apenas mostre o relatório.**
 
 **Arquivo ["lista_pessoas.txt"](../../recursos/exemplos/lista_pessoas.txt) anexado**
+
+Adicionar Dados Externos ao proMpts que escreve, além de uma necessidade que será notável, é uma adequação ao Modelo GROW onde precisamos de informações para avaliar a Realidade atual em que determinada ação será aplicada.
+
+Vale reforçar que a IA não é factual, mesmo recebendo dados reais, ela pode ter "alucinações" e gerar resultados erroneos, assim, cabe a nós, como humanos na relação, garantir a qualidade dessa informação gerada.
+
+## Relações
+<table>
+<tr>
+  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Realidade</td><td>GROW</td><td> Indicação do contexto, da realidade, na qual o resultado do Prompt será aplicado.</td>
+</tr>
+
+</table>
+
+## Referências
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
+
