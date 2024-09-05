@@ -1,0 +1,30 @@
+Nome: Mateus, Idade: 41, Cidade: São Paulo, Estado: SP
+Nome: Rafael, Idade: 45, Cidade: Belo Horizonte, Estado: MG
+Nome: Felipe, Idade: 40, Cidade: Belo Horizonte, Estado: MG
+Nome: Ana, Idade: 22, Cidade: Natal, Estado: RN
+Nome: Camila, Idade: 34, Cidade: Goiânia, Estado: GO
+Nome: Roberto, Idade: 55, Cidade: Manaus, Estado: AM
+Nome: Camila, Idade: 47, Cidade: Goiânia, Estado: GO
+Nome: Maria, Idade: 35, Cidade: Curitiba, Estado: PR
+Nome: Juliana, Idade: 72, Cidade: Recife, Estado: PE
+Nome: Rafael, Idade: 23, Cidade: Curitiba, Estado: PR
+Nome: Mariana, Idade: 58, Cidade: Recife, Estado: PE
+Nome: Maria, Idade: 72, Cidade: Natal, Estado: RN
+Nome: Rafael, Idade: 71, Cidade: Belém, Estado: PA
+Nome: Paula, Idade: 38, Cidade: Maceió, Estado: AL
+Nome: Lucas, Idade: 48, Cidade: São Paulo, Estado: SP
+Nome: Mateus, Idade: 47, Cidade: Florianópolis, Estado: SC
+Nome: Maria, Idade: 73, Cidade: Belo Horizonte, Estado: MG
+Nome: Bruna, Idade: 43, Cidade: Curitiba, Estado: PR
+Nome: Paula, Idade: 63, Cidade: Brasília, Estado: DF
+Nome: Felipe, Idade: 58, Cidade: Belo Horizonte, Estado: MG
+Nome: Pedro, Idade: 43, Cidade: Manaus, Estado: AM
+Nome: Roberto, Idade: 80, Cidade: Porto Alegre, Estado: RS
+Nome: Gabriel, Idade: 71, Cidade: Curitiba, Estado: PR
+Nome: João, Idade: 37, Cidade: Maceió, Estado: AL
+Nome: Gabriel, Idade: 22, Cidade: Salvador, Estado: BA
+Nome: João, Idade: 78, Cidade: Curitiba, Estado: PR
+Nome: Juliana, Idade: 65, Cidade: Goiânia, Estado: GO
+Nome: Laura, Idade: 30, Cidade: Curitiba, Estado: PR
+Nome: Roberto, Idade: 79, Cidade: Florianópolis, Estado: SC
+Nome: Paula, Idade: 75, Cidade: Fortaleza, Estado: CE
