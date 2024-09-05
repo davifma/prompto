@@ -7,7 +7,7 @@ Por exemplo, imagine que eu tenho uma lista de participantes de um evento, que p
 
 Posso fazer isso, em geral, de duas formas, copiando e colando a lista como parte do prompt.
 
-´´´
+```
 Leia a lista abaixo e cálcule a idade média das pessoas na lista.
 
 Nome: Mateus, Idade: 41, Cidade: São Paulo, Estado: SP
@@ -40,7 +40,8 @@ Nome: Juliana, Idade: 65, Cidade: Goiânia, Estado: GO
 Nome: Laura, Idade: 30, Cidade: Curitiba, Estado: PR
 Nome: Roberto, Idade: 79, Cidade: Florianópolis, Estado: SC
 Nome: Paula, Idade: 75, Cidade: Fortaleza, Estado: CE
-´´´
+```
+
 Com essa simples estrutura, quase sem esforço, eu teria uma resposta sobre a média de idade de 30 pessoas da minha lista.
 
 [<img src="../../imagens/cards/2.png" width="187" height="318">](../../tipos-de-prompt/tarefeiro.md)
