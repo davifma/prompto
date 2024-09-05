@@ -2,7 +2,7 @@
 
 ***A Inteligência Artificial (IA) deve usar, ou simular o uso, de um equipamento específico para sua criação.***
 
-[<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md)
+[<img src="../../imagens/cards/13.png"  width="318" height="187" align="left">](../../partes-de-prompt/equipamento.md)
 Praticamente uma exclusividade de proMpts criativos, para a maioria dos Agentes de IA (Agentes)  populares uma exclusividade da criação de imagens, esse elemento é proposto por Linus Ekenstam no "Dynamic Prompting", onde ele indica a importância de definir um "Photographic Equipment" para que a IA crie uma imagem com o resultado desejado.
 
 A intenção aqui é buscar um melhor resultado principalmente na criação de imagens mais realistas. Por exemplo, eu posso simplesmente pedir a criação de uma imagem como no proMpt abaixo:
