@@ -31,7 +31,9 @@ Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento,
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
-Esse Deck de partes básicas para um bom proMpt tem a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](prompt-basico.md)" e ter uma jornada mais efetiva e proveitosa.
+Esse Deck de partes básicas para um bom proMpt tem a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](prompt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
+
+De verdade, para a maioria dos meus casos de uso de IA esse Deck é uma boa representação dos elementos que compõem esses proMpts.
 
 
 
