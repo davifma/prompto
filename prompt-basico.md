@@ -14,7 +14,9 @@ Quais são as tendências de moda para o outono?
 Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmente eu terei uma resposta bastante aberta, mas posso melhorar muito essa resposta aplicando três elementos simples ao meu proMpt.
 
 [<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Embora divirja da ordem mostrada acima vou iniciar melhorando a ação, que na verdade é o que eu já iniciei.
