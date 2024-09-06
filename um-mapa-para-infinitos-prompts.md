@@ -17,4 +17,19 @@ Assim eu acabo afunilando, relacionando, todos esses usos a três tipos básicos
 
 Você ainda pode ter a necessidade de diminuir a possibilidade de respostas que esses Agentes vão te trazer, por isso adicionei "mais escolhas". Esse Deck eu considero como o Deck Básico ou Inícial para trabalhamos com IAs, seguindo a analogia do mapa, antes de desenharmos a nossa rota precisamos saber para onde desejamos ir, qual será o destino, esse Deck nos ajuda a pensar nisso, inclusive permitindo cocriar essa decisão com nossos times usando um [AI Planing Poker](tipos-de-prompt/cocriacao.md#ai-planing-poker) por exemplo.
 
+Vale pensarmos, a IA é só a ferramenta, ela não é o fim, ela é o caminho. Antes de decidirmos o caminho é necessário sabermos o fim desejado, qual o meu objetivo, essa primeira parte do nosso mapa pretende ajudar nessa decisão.
+
+Em alguns tipos de jornadas ou viagens alguns passos são quase obrigatórios, pessoas muito preparadas ou experientes normalmente conseguem pular ou transcender esses passos, ou ainda, os fazem tão facilmente que parecem não acontecer. Mas, se estamos iniciando nesse tipo de jornada, se é nossa primeira trilha pelas momtanhas de possibilidades da IA é necessário termos uma clareza dos primeiros passos, ou a base para comecarmos nossa caminhada.
+
+De mais de 40 passos, ou partes, para uma boa escrita de proMpts em teoria, observando as possíveis cobinações, coincidências e utilidade eu percebi que apenas três são básicos e farão a diferença na maioria dos prompts que você for escrever. 
+
+Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento, definir uma ação clara para a IA realizar e indicar o contexto no qual aquilo está acontecendo e será aplicado.
+
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+
+
 
