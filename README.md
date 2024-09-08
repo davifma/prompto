@@ -13,10 +13,10 @@ Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu d
   - #### [Completo ou complexo?](prompts-complexos.md) 
   - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
 - ### Deck de Consciência
-      - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
-      - [Conselheiro](tipos-de-prompt/conselheiro.md)
-      - [Criativo](tipos-de-prompt/criativo.md)
-      - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - ### Deck de Produção
   - #### Cards de base
     - [Papel](partes-de-prompt/papel.md)
