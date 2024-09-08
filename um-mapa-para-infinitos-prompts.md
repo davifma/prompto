@@ -89,13 +89,25 @@ Embora, baseado nesse número de Cards, eu pudesse pensar que esse mapa poderia 
 Esses elementos ainda reforçam a importância da especificidade nas suas solicitações e são um facilitador para que às consiga.
 
 Todavia, ainda cabe lembrar, que não importa o quão bem escrita seja uma instrução para uma IA generativa, elas não são factuais e podem gerar respostas incorretas e irreais, então cabe a você enquanto humano lembrar-se disso e realizar a curadoria desses resultados.
-
-
-
-
-
-
-
-
-
-
+## Leia também
+- ### [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.md)
+  - #### [Tipos de proMpt ou Agentes](tipos-de-prompt/README.md)
+    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+    - [Conselheiro](tipos-de-prompt/conselheiro.md)
+    - [Criativo](tipos-de-prompt/criativo.md)
+    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+- ### Deck de Produção
+  - #### [O Básico bem feito](prompt-basico.md) 
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
+  - #### [Completo ou complexo?](prompts-complexos.md) 
+    - ##### Controle
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+    - ##### Informação
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+    - ##### Criação
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Formato](partes-de-prompt/ciacao/assunto.md)
