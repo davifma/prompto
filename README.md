@@ -4,6 +4,8 @@
 
 Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar a usá-las intencionalmente.
 
+Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu dia a dia.
+
 ## Índice
 - ### Deck de Consciência
   - #### [Cocriação de Agentes de IA](tipos-de-prompt/cocriacao.md)
