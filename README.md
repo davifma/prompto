@@ -28,7 +28,16 @@ Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu d
       - [Limites](partes-de-prompt/controle/limites.md)
     - ##### Criação
       - [Formato](partes-de-prompt/controle/formato.md)
-      - [Formato](partes-de-prompt/ciacao/assunto.md) 
+      - [Formato](partes-de-prompt/ciacao/assunto.md)
+- ### Variações
+  - ### Deck Básico
+    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+    - [Conselheiro](tipos-de-prompt/conselheiro.md)
+    - [Criativo](tipos-de-prompt/criativo.md)
+    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)
