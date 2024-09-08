@@ -39,9 +39,7 @@ Ajustando-o eu poderia acrescentar mais Contexto, por exemplo.
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-<img src="../imagens/cards/014.png"  width="318" height="187">
-
-[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
 Então eu poderia continuar esse processo de Ajustes até alcançar ao resultado desejado. Poderia adicionar um formato e testar novamente, então adicionar um Exemplo e, talvez, finalmente ficar feliz com esse resultado.
 
