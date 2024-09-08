@@ -28,9 +28,11 @@ Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu d
   - #### Cards de Informação
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
+      - [Dados Externos](partes-de-prompt/controle/dados-externos.md)
   - #### Cards de Criação
       - [Formato](partes-de-prompt/controle/formato.md)
-      - [Formato](partes-de-prompt/ciacao/assunto.md)
+      - [Assunto](partes-de-prompt/ciacao/assunto.md)
+      - [Equipamento](partes-de-prompt/ciacao/equipamemto.md)
 - ### Variações
   - #### Deck Básico
     - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
