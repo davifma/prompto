@@ -38,7 +38,7 @@ Ajustando-o eu poderia acrescentar mais Contexto, por exemplo.
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-[<img src="../imagens/cards/014.png"  width="318" height="187">]
+<img src="../imagens/cards/014.png"  width="318" height="187">
 
 [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
@@ -63,9 +63,16 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+<img src="../imagens/cards/014.png"  width="318" height="187">
+
+[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na 
+inauguração de um restaurante de comida francesa e fusões modernas**
+
+<img src="../imagens/cards/014.png"  width="318" height="187">
 
 [<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+
+<img src="../imagens/cards/014.png"  width="318" height="187">
 
 [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
 
