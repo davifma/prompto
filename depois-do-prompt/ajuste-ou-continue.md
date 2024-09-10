@@ -5,6 +5,8 @@ Temos duas possibilidades, a primeira mais pessimista acontecerá quando a respo
 
 Já, em outra possibilidade, onde o proMpt consegiu o resultado esperado, caso valha a pena e, principalmente, se tartar-se de um trabalho mais complexo e longo, então Continue a conversa para refinar ou aprofundar esse resultado.
 
+<img src="../imagens/cards/014.png"  width="318" height="187"> <img src="../imagens/cards/015.png"  width="318" height="187"> 
+
 ## Ajuste
 Esse Card é um lembrete de que esse é um trabalho evolucionário, caso em uma primeira requisição, em seu primeiro proMpt, você ainda não tenha alcançado o resultado desejado basta Ajustá-lo e repetir esse processo quantas vezes for necessário, contanto que tenhamos um bom custo benefício.
 
@@ -93,3 +95,10 @@ Ingredientes principais:
 Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, porém você não precisa incluir algum elemento para fazer um ajuste, também pode retirar, inverter a ordem ou reescrever alguma parte, mudando qualquer um desses elementos, o limite é apenas a sua imaginação, por isso entendo que essa ferramenta deve facilitar a escrita de ["infinitos proMpts"](../um-mapa-para-infinitos-prompts.md) efetivamente.
 
 ## Continue a conversa
+Outra possibilidade é que sua requisição tenha sido satisfatóriamente atendida, nesse caso, vale pesar se continuar essa conversa vale a pena.
+
+- Mesmo satisfeito, eu preciso e/ou poderia me aprofundar mais nisso?
+- Tem outos pontos relacionados ao mesmo problema que eu desejo e/ou necessito explorar?
+- Continuar essa exploração vai economizar ou gastar o meu tempo?
+
+Tem muito mais questões que pode se fazer para decidir se, mesmo satisfeito com o resultado, vale a pena continuar explorando aquela conversa com a IA.
