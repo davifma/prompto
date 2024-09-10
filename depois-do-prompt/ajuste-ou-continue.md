@@ -148,4 +148,10 @@ Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser fe
 <img src="../imagens/cards/015.png"  width="318" height="187"> 
 
 Essa conversa poderia ser levada a diante por muitas mensagens, lapidando ou aprofundando os resultados e um processo útil e único de melhoria continua.
+## Aprenda com a IA enquanto ela aprende com você
+Por isso eu insisto muito em indicar o uso intencional das IAs, com a popularização e facilitação de acesso as IAs Generativas (GenIas), por exemplo, eu entendo que essa é a grande oportunidade para aprendermos com elas, como elas já vem há muito tempo aprendendo conosco.
+
+Sempre que você usa uma IA, intencionalmente ou não, ela está aprendendo. Então, pelo menos quando for intencional, façamos o mesmo.
+
+
 
