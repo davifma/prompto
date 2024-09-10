@@ -102,3 +102,27 @@ Outra possibilidade é que sua requisição tenha sido satisfatóriamente atendi
 - Continuar essa exploração vai economizar ou gastar o meu tempo?
 
 Tem muito mais questões que pode se fazer para decidir se, mesmo satisfeito com o resultado, vale a pena continuar explorando aquela conversa com a IA.
+
+No próprio prompt que acabamos de finalizar.
+
+```
+Como um chefe de cozinha descreva o que é um Ovo pochê para um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas traga a resposta em um parágrafo único com os ingredientes listados no final?
+
+Escreva seguindo o exemplo:
+A feijoada é um prato típico da culinária brasileira que consiste num guisado de feijão preto com vários tipos de carne de porco e de boi. É servida com farofa, arroz branco, couve refogada e laranja fatiada.
+Ingredientes principais:
+* feijão-preto;
+* paio;
+* carne de porco
+* carne de boi
+
+```
+
+Embora eu já esteja feliz com o resultado, eu poderia continuar essa conversa e explorar novas possibilidades. Em continuação eu escrevo um novo proMpt, inclusive mais simples, pois entendo que o Agente de IA (Agente) acumulará o aprendizado com o proMpt anterior.
+
+```
+Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser feitos com os mesmos ingredientes do ovo pochê, indique-os e já escreva suas descrições conforme o modelo anterior. Não repita nenhum prepado, preciso de pratos diferente usando os mesmos ingredientes base.
+```
+
+Essa conversa poderia ser levada a diante por muitas mensagens, lapidando ou aprofundando os resultados e um processo útil e único de melhoria continua.
+
