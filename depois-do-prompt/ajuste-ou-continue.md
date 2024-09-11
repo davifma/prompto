@@ -157,8 +157,31 @@ Na minha percepção esse é um processo simples de melhoria contínua, uma busc
 
 <img src="../imagens/exemplos/shu-ha-ri.png" alt="Shu (Obediência) -> Ha (Adaptação) -> Ri (Superação)">
 
-## Referências
+Nesta etapa de uso da IA eu diria que estamos em algum lugar entre o Ha e o Ri, adaptando e buscanco a superação. O obejtivo desse material e todos os Decks aqui mostrados é, justamente, te ajudar a percorrer essas etapas de evolução no uso das GenIas, desde obedecer a alguns padrões para conseguir os primeiros resultados realmente produtivos, até superá-los e, se tudo correr bem, você nem precisar mais deste material de apoio.
 
-SHU-HA-RI. Perplexity, 2024. Disponível em:
-https://www.perplexity.ai/search/shu-ha-ri-rIusHjlWRGiYJGALhZqGTg. Acesso em: 11 set
+<img src="..imagens/exemplos/shu-ha-ri-ia.png" alt="Obedecer às regras. Adaptar-se. Superar e inovar.">
+
+O desejo enquanto escrevo este material é que todos possam inovar em suas vidas e profissões com um pouco do aprendizado que possam ter tido por aqui.
+
+## Leia também
+## Índice
+- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
+  - #### [O Básico bem feito](prompt-basico.md)
+  - #### [Completo ou complexo?](prompts-complexos.md) 
+
+## Relações
+<table>
+<tr>
+  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Ha</td><td>Shu-Ha-Ri</td><td>	Indicação do contexto, da realidade, na qual o resultado do Prompt será aplicado.</td>
+</tr>
+  <tr>
+  <td>Ri</td><td>Shu-Ha-Ri</td><td>	Indicação do contexto, da realidade, na qual o resultado do Prompt será aplicado.</td>
+</tr>
+</table>
+## Referências
+SHU-HA-RI. Perplexity, 2024. Disponível em: https://www.perplexity.ai/search/shu-ha-ri-rIusHjlWRGiYJGALhZqGTg. Acesso em: 11 set
 
