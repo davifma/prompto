@@ -155,11 +155,11 @@ Sempre que você usa uma IA, intencionalmente ou não, ela está aprendendo. Ent
 
 Na minha percepção esse é um processo simples de melhoria contínua, uma busca por transcendência em nossas atividades, como no conceito Shu-Ha-Ri, em que buscamos em uma escalada superar a nossa competência atual, em busca de melhores resultados e práticas.
 
-<img src="../imagens/exemplos/shu-ha-ri.png" alt="Shu (Obediência) -> Ha (Adaptação) -> Ri (Superação)">
+<img src="../imagens/exemplos/shu-ha-ri.png" alt="Shu (Obediência) -> Ha (Adaptação) -> Ri (Superação)" align="center">
 
 Nesta etapa de uso da IA eu diria que estamos em algum lugar entre o Ha e o Ri, adaptando e buscanco a superação. O obejtivo desse material e todos os Decks aqui mostrados é, justamente, te ajudar a percorrer essas etapas de evolução no uso das GenIas, desde obedecer a alguns padrões para conseguir os primeiros resultados realmente produtivos, até superá-los e, se tudo correr bem, você nem precisar mais deste material de apoio.
 
-<img src="../imagens/exemplos/shu-ha-ri-ia.png" alt="Obedecer às regras. Adaptar-se. Superar e inovar.">
+<img src="../imagens/exemplos/shu-ha-ri-ia.png" alt="Obedecer às regras. Adaptar-se. Superar e inovar." align="center">
 
 O desejo enquanto escrevo este material é que todos possam inovar em suas vidas e profissões com um pouco do aprendizado que possam ter tido por aqui.
 
