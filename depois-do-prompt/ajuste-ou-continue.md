@@ -1,7 +1,7 @@
 # Ajuste o proMpt ou Continue a conversa
 ***O que fazer depois que a primeira requisição já foi feita e tenho uma resposta?***
 
-Temos duas possibilidades, a primeira mais pessimista acontecerá quando a resposta que o seu proMpt proporcionou não foi adequade não atingiu as suas expectativas, nesse caso meu conselho é que você faça Ajuste em seu prompt.
+Temos duas possibilidades, a primeira mais pessimista acontecerá quando a resposta que o seu proMpt proporcionou não foi adequada, não atingiu as suas expectativas, nesse caso meu conselho é que você faça Ajuste em seu prompt.
 
 Já, em outra possibilidade, onde o proMpt consegiu o resultado esperado, caso valha a pena e, principalmente, se tartar-se de um trabalho mais complexo e longo, então Continue a conversa para refinar ou aprofundar esse resultado.
 
@@ -153,5 +153,12 @@ Por isso eu insisto muito em indicar o uso intencional das IAs, com a populariza
 
 Sempre que você usa uma IA, intencionalmente ou não, ela está aprendendo. Então, pelo menos quando for intencional, façamos o mesmo.
 
+Na minha percepção esse é um processo simples de melhoria contínua, uma busca por transcendência em nossas atividades, como no conceito Shu-Ha-Ri, em que buscamos em uma escalada superar a nossa competência atual, em busca de melhores resultados e práticas.
 
+<img src="../imagens/exemplos/shu.ha-ri.png" alt="Shu (Obediência) -> Ha (Adaptação) -> Ri (Superação)">
+
+## Referências
+
+SHU-HA-RI. Perplexity, 2024. Disponível em:
+https://www.perplexity.ai/search/shu-ha-ri-rIusHjlWRGiYJGALhZqGTg. Acesso em: 11 set
 
