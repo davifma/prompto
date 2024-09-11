@@ -182,6 +182,7 @@ O desejo enquanto escrevo este material é que todos possam inovar em suas vidas
   <td>Ri</td><td>Shu-Ha-Ri</td><td>	Indicação do contexto, da realidade, na qual o resultado do Prompt será aplicado.</td>
 </tr>
 </table>
+
 ## Referências
 SHU-HA-RI. Perplexity, 2024. Disponível em: https://www.perplexity.ai/search/shu-ha-ri-rIusHjlWRGiYJGALhZqGTg. Acesso em: 11 set
 
