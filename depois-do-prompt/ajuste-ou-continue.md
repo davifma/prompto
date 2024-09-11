@@ -155,7 +155,7 @@ Sempre que você usa uma IA, intencionalmente ou não, ela está aprendendo. Ent
 
 Na minha percepção esse é um processo simples de melhoria contínua, uma busca por transcendência em nossas atividades, como no conceito Shu-Ha-Ri, em que buscamos em uma escalada superar a nossa competência atual, em busca de melhores resultados e práticas.
 
-<img src="../imagens/exemplos/shu.ha-ri.png" alt="Shu (Obediência) -> Ha (Adaptação) -> Ri (Superação)">
+<img src="../imagens/exemplos/shu-ha-ri.png" alt="Shu (Obediência) -> Ha (Adaptação) -> Ri (Superação)">
 
 ## Referências
 
