@@ -159,7 +159,7 @@ Na minha percepção esse é um processo simples de melhoria contínua, uma busc
 
 Nesta etapa de uso da IA eu diria que estamos em algum lugar entre o Ha e o Ri, adaptando e buscanco a superação. O obejtivo desse material e todos os Decks aqui mostrados é, justamente, te ajudar a percorrer essas etapas de evolução no uso das GenIas, desde obedecer a alguns padrões para conseguir os primeiros resultados realmente produtivos, até superá-los e, se tudo correr bem, você nem precisar mais deste material de apoio.
 
-<img src="..imagens/exemplos/shu-ha-ri-ia.png" alt="Obedecer às regras. Adaptar-se. Superar e inovar.">
+<img src="../imagens/exemplos/shu-ha-ri-ia.png" alt="Obedecer às regras. Adaptar-se. Superar e inovar.">
 
 O desejo enquanto escrevo este material é que todos possam inovar em suas vidas e profissões com um pouco do aprendizado que possam ter tido por aqui.
 
