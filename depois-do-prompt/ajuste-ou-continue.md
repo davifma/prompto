@@ -164,7 +164,6 @@ Nesta etapa de uso da IA eu diria que estamos em algum lugar entre o Ha e o Ri, 
 O desejo enquanto escrevo este material é que todos possam inovar em suas vidas e profissões com um pouco do aprendizado que possam ter tido por aqui.
 
 ## Leia também
-## Índice
 - ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - #### [O Básico bem feito](prompt-basico.md)
