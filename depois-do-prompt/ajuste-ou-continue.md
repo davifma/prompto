@@ -175,10 +175,10 @@ O desejo enquanto escrevo este material é que todos possam inovar em suas vidas
   <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
 </tr>
 <tr>
-  <td>Ha</td><td>Shu-Ha-Ri</td><td>	Indicação do contexto, da realidade, na qual o resultado do Prompt será aplicado.</td>
+  <td>Ha</td><td>Shu-Ha-Ri</td><td>	Romper/Modificar, explorar e modificar as regras que aprendeu.</td>
 </tr>
   <tr>
-  <td>Ri</td><td>Shu-Ha-Ri</td><td>	Indicação do contexto, da realidade, na qual o resultado do Prompt será aplicado.</td>
+  <td>Ri</td><td>Shu-Ha-Ri</td><td>	Separar/Superar, pode criar suas próprias abordagens.</td>
 </tr>
 </table>
 
