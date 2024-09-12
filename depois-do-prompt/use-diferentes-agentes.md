@@ -34,3 +34,6 @@ Por exemplo, quando quero preparar uma digulgação sobre IAs, um evento ou novo
 Dessa forma eu potencilizo as minhas ações, consigo diversas opniões diferentes, mesmo que do ponto de vista humano, às vezes, eu esteja trabalhando sosinho.
 
 Aqui é importante lembrar que as IAs não são factuais, por isso, como humano na equação, sempre cabe a mim validar e fazer a curadoria daquilo que é gerado por elas.
+
+## Referências
+Diferencie Modelos de Agentes. Perplexity AI, 2024. Disponível em: https://www.perplexity.ai/search/diferencie-modelos-de-agentes-6rwdS4HtTdKDRleW3fNfAA. Acesso em: 12 set. 2024.
