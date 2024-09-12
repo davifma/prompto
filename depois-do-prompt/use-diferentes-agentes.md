@@ -36,5 +36,25 @@ Dessa forma eu potencilizo as minhas ações, consigo diversas opniões diferent
 
 Aqui é importante lembrar que as IAs não são factuais, por isso, como humano na equação, sempre cabe a mim validar e fazer a curadoria daquilo que é gerado por elas.
 
+## Relações
+<table>
+<tr>
+  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
+</tr>
+<tr>
+  <td>Ha</td><td>Shu-Ha-Ri</td><td>	Romper/Modificar, explorar e modificar as regras que aprendeu.</td>
+</tr>
+<tr>
+  <td>Options</td><td>GROW</td><td> Exploração de alternativas para alcançar as metas.</td>
+</tr>  
+<tr>
+  <td>WILL</td><td>GROW</td><td> Compromisso com o plano de ação.</td>
+</tr>  
+</table>
+
 ## Referências
-Diferencie Modelos de Agentes. Perplexity AI, 2024. Disponível em: https://www.perplexity.ai/search/diferencie-modelos-de-agentes-6rwdS4HtTdKDRleW3fNfAA. Acesso em: 12 set. 2024.
+PERPLEXITY. Diferencie Modelos de Agentes. Perplexity AI, 2024. Disponível em: https://www.perplexity.ai/search/diferencie-modelos-de-agentes-6rwdS4HtTdKDRleW3fNfAA. Acesso em: 12 set. 2024.
+
+PERPLEXITY. SHU-HA-RI. Perplexity, 2024. Disponível em: https://www.perplexity.ai/search/shu-ha-ri-rIusHjlWRGiYJGALhZqGTg. Acesso em: 11 set
+
+PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
