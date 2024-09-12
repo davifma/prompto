@@ -33,7 +33,9 @@ Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu d
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Assunto](partes-de-prompt/ciacao/assunto.md)
       - [Equipamento](partes-de-prompt/ciacao/equipamemto.md)
-- ### [Ajuste ou continue](depois-do-prompt/ajuste-ou-continue.md)
+- ### Deck de Transcendência
+  - [Ajuste ou continue](depois-do-prompt/ajuste-ou-continue.md)
+  - [Use diferentes Agentes e Modelos](depois-do-prompt/use-diferentes-agentes.md)
 - ### Variações
   - #### Deck Básico
     - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
