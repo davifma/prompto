@@ -26,7 +26,7 @@ Nesse caso, só de nos lembrarmos do nosso [Deck de base](README.md#deck-de-base
 Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
@@ -34,8 +34,34 @@ Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com 
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
+Mesmo já tendo um resultado promissor com esse, ainda podemos melhorar, adequa-lo ainda mais.
 
+```
+Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas, me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações, como no exemplo abaixo sugerindo apenas cinco peças chave no total.
 
+                Tendencia 1       Tendencia 2   Tendencia 3    Explicação
+Tendencia 1     Peça01+Peça02     PeçaN+PeçaN   Peça?+Peça?    Essas combinações são assim por que...
+Tendencia 2     Peça01+Peça03     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+...             ...               ...           ...            ...
+Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
+```
+
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+
+[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+
+Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
 
 ## Referências
 KANBAN University. The official Kanban guide. Disponível em: https://kanban.university/wp-content/uploads/2021/04/The-Official-Kanban-Guide_Portuguese_A4.pdf. Acesso em: 12 set. 2024.
