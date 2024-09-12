@@ -1,7 +1,7 @@
 # Use diferentes Agentes
 ***O uso de diferentes Agentes de Inteligência Artificial (Agentes) ou de diferentes Modelos de Inteligência Artificial (Modelos) deve enriquecer a sua construção dialogica com essa tecnologia***
 
-Mesmo suporndo que você chegou a um resultado satisfatório, já explorou alguns proMpts diferentes ajustando e continucando com suas conversas, se você está usando apenas um Agente é provavel que ainda possa explorar ainda mais as capacidades da Inteligência Artificial (IA).
+Mesmo supondo que você chegou a um resultado satisfatório, já explorou alguns proMpts diferentes ajustando e continucando com suas conversas, se você está usando apenas um Agente é provavel que ainda possa explorar ainda mais as capacidades da Inteligência Artificial (IA).
 
 Agentes são aquelas entidades autonômas que aplicam Modelos para interagir com ao ambiente. Por exemplo, o ChatGPT, desenvolvido pela OpenAI, é um Agente que utiliza o Modelo GPT (Generative Pre-trained), na versão GPT-4 enquanto escrevo este, para gerar suas respostas aos sinais captados do ambiente.
 
