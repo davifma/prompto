@@ -18,18 +18,18 @@ Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu d
   - [Criativo](tipos-de-prompt/criativo.md)
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - ### Deck de Produção
-  - #### Cards de base
+  - #### Deck de base
     - [Papel](partes-de-prompt/papel.md)
     - [Ação](partes-de-prompt/acao.md)
     - [Contexto](partes-de-prompt/contexto.md)
-  - #### Cards de Controle
+  - #### Deck de Controle
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Limites](partes-de-prompt/controle/limites.md)
-  - #### Cards de Informação
+  - #### Deck de Informação
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
       - [Dados Externos](partes-de-prompt/controle/dados-externos.md)
-  - #### Cards de Criação
+  - #### Deck de Criação
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Assunto](partes-de-prompt/ciacao/assunto.md)
       - [Equipamento](partes-de-prompt/ciacao/equipamemto.md)
