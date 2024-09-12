@@ -91,7 +91,49 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
 
-Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
+[<img src="imagens/cards/016.png"  width="318" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
 
+Eu poderia parar por aqui, ou eu poderia usar Agentes diferentes para enriquecer essa conversa, como por exemplo, usar outro Agentes de IA para analizar ou sugerir alterações nos dois guarda-roupas propostos, ou usar um Agente [Tarefeiro](tipos-de-prompt/tarefeiro.md) para fazer uma pesquisa das peças citadas e seus valores. 
+
+Quando juntamos o uso intencional de IA com a quantidade de modelos e Agentes disponíveis, temos uma gama infinita de possibilidades para evolucionar nossas atividades e o proprio uso dessa tecnologia.
+
+Sempre nos lembrando que, como humanos, somos os responsáveis pelos resultados que forem gerados sempre.
+
+Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
+## Leia também
+- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
+  - #### [O Básico bem feito](prompt-basico.md)
+  - #### [Completo ou complexo?](prompts-complexos.md) 
+  - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- ### Deck de Consciência
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+- ### Deck de Produção
+  - #### Deck de base
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
+  - #### Deck de Controle
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+  - #### Deck de Informação
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+- ### Deck de Transcendência
+  - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
+  - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+  - [Use diferentes Agentes](depois-do-prompt/use-diferentes-agentes.md)
+- ### Variações
+  - #### Deck Básico
+    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+    - [Conselheiro](tipos-de-prompt/conselheiro.md)
+    - [Criativo](tipos-de-prompt/criativo.md)
+    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
 ## Referências
 KANBAN University. The official Kanban guide. Disponível em: https://kanban.university/wp-content/uploads/2021/04/The-Official-Kanban-Guide_Portuguese_A4.pdf. Acesso em: 12 set. 2024.
