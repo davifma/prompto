@@ -61,7 +61,7 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
-Como termos falado bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
+Como falamos bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
 
 Talvez, para esse caso específico, você já esteja satisfeito com o resultado, que tal, então, [Continuar a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa), por exemplo (no mesmo chat):
 
