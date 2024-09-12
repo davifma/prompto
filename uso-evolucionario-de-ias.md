@@ -85,6 +85,8 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/015.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
 
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
