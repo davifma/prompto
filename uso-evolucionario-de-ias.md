@@ -135,5 +135,6 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
     - [Papel](partes-de-prompt/papel.md)
     - [Ação](partes-de-prompt/acao.md)
     - [Contexto](partes-de-prompt/contexto.md)
+
 ## Referências
 KANBAN University. The official Kanban guide. Disponível em: https://kanban.university/wp-content/uploads/2021/04/The-Official-Kanban-Guide_Portuguese_A4.pdf. Acesso em: 12 set. 2024.
