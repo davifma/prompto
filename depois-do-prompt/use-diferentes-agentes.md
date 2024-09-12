@@ -1,5 +1,6 @@
 # Use diferentes Agentes
 ***O uso de diferentes Agentes de Inteligência Artificial (Agentes) ou de diferentes Modelos de Inteligência Artificial (Modelos) deve enriquecer a sua construção dialogica com essa tecnologia***
+
 <img src="../imagens/cards/016.png"  width="318" height="187" align="left">
 Mesmo supondo que você chegou a um resultado satisfatório, já explorou alguns proMpts diferentes ajustando e continucando com suas conversas, se você está usando apenas um Agente é provavel que ainda possa explorar ainda mais as capacidades da Inteligência Artificial (IA).
 
