@@ -4,7 +4,7 @@
 
 Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar a usá-las intencionalmente.
 
-Essa é uma ferramenta para o letramento sobre o uso intencional de IAs no seu dia a dia.
+Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencional de IAs no seu dia a dia.
 
 ## Índice
 - ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
