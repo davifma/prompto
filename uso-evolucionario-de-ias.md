@@ -61,6 +61,34 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
+Como termos falado bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
+
+Talvez, para esse caso específico, você já esteja satisfeito com o resultado, que tal, então, [Continuar a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa), por exemplo (no mesmo chat):
+
+```
+Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse guarda-roupas para o inverno.
+```
+
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+
+[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/015.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
+
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
+
 Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
 
 ## Referências
