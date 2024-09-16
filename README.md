@@ -50,6 +50,8 @@ Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencio
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)
   - [PACIF](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266196&cot=14)
+ 
+  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/prompto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
   - [PACEF](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266197&cot=14)
   - [PREP](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266199&cot=14)
   - [Dynamic Prompting](https://twitter.com/LinusEkenstam)
