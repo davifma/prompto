@@ -12,33 +12,33 @@ Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencio
   - #### [O Básico bem feito](prompt-basico.md)
   - #### [Completo ou complexo?](prompts-complexos.md) 
   - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
-- ### Deck de Consciência
+- ### Caminho da Consciência
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-- ### Deck de Produção
-  - #### Deck de base
+- ### Caminho da Produção
+  - #### Caminho de embasamento
     - [Papel](partes-de-prompt/papel.md)
     - [Ação](partes-de-prompt/acao.md)
     - [Contexto](partes-de-prompt/contexto.md)
-  - #### Deck de Controle
+  - #### Caminho para controle
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Limites](partes-de-prompt/controle/limites.md)
-  - #### Deck de Informação
+  - #### Caminho para Informação
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
       - [Dados Externos](partes-de-prompt/controle/dados-externos.md)
-  - #### Deck de Criação
+  - #### Caminho para Criação
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Assunto](partes-de-prompt/ciacao/assunto.md)
       - [Equipamento](partes-de-prompt/ciacao/equipamemto.md)
-- ### Deck de Transcendência
+- ### Caminho para Transcendência
   - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
   - [Use diferentes Agentes](depois-do-prompt/use-diferentes-agentes.md)
 - ### Variações
-  - #### Deck Básico
+  - #### Trilha Básica
     - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
     - [Conselheiro](tipos-de-prompt/conselheiro.md)
     - [Criativo](tipos-de-prompt/criativo.md)
