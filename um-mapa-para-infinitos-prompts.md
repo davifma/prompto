@@ -31,7 +31,7 @@ Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento,
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
 
-Embora sejam Cards do **Deck de Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-proMpt/README.md) seriam o que podemos chamar de **Deck Básico**, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](proMpt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
+Embora sejam Cards do **Caminho da Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-proMpt/README.md) seriam o que podemos chamar de **Deck Básico**, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](proMpt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
 
 De verdade, para a maioria dos meus casos de uso de IA esse Deck é uma boa representação dos elementos que compõem esses proMpts.
 
@@ -96,7 +96,7 @@ Todavia, ainda cabe lembrar, que não importa o quão bem escrita seja uma instr
     - [Conselheiro](tipos-de-proMpt/conselheiro.md)
     - [Criativo](tipos-de-proMpt/criativo.md)
     - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
-- ### Deck de Produção
+- ### Caminho da Produção
   - #### [O Básico bem feito](proMpt-basico.md) 
     - [Papel](partes-de-proMpt/papel.md)
     - [Ação](partes-de-proMpt/acao.md)
