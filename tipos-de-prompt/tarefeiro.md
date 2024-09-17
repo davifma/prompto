@@ -1,9 +1,9 @@
 # Tarefeiro
-***Prompts ou Agentes para "Tarefas", ou prompt do tipo "Tarefa", para solicitações de atividades comuns e repetitivas.***
+***Prompts ou Agentes para "Tarefas", ou proMpt do tipo "Tarefa", para solicitações de atividades comuns e repetitivas.***
 
   <img src="https://github.com/user-attachments/assets/6ed92c7d-7ee0-4156-8d9d-2d23ffbc0be8" align="right" width="375" height="637">
 
-A ideia, ou intenção desse tipo de prompt é utilizar a Inteligência Artifícial (IA) como uma ferramenta para aquelas atividades mais rotineiras, mais comuns, que não exigem que ela proponha uma informação nova, como uma opnião por exemplo ou que o sistema simule uma criação, apenas que faça algo específico e bem definido.
+A ideia, ou intenção desse tipo de proMpt é utilizar a Inteligência Artifícial (IA) como uma ferramenta para aquelas atividades mais rotineiras, mais comuns, que não exigem que ela proponha uma informação nova, como uma opnião por exemplo ou que o sistema simule uma criação, apenas que faça algo específico e bem definido.
 
 Por exemplo, se eu tiver um texto contendo nome, e-mail e telefone de alguns contatos e quiser excluir todos os telefones, deixando apenas os nomes e os e-mails eu poderia solicitar essa alteração para uma IA Generativa, caso essa lista seja muito grande isso, com certeza, economizaria o meu tempo.
 
@@ -11,11 +11,11 @@ No caso deste documento mesmo, eu precisei pesquisar sobre a formatação de tex
 ```
 Transforme o link em uma referência dentro das normas ABNT https://www.alura.com.br/artigos/escrever-bom-readme
 ```
-Esses são prompts de escrita rápida para solicitações simples, mas, mesmo eles podem ser estruturados com elementos específicos para alcancarmos resultados mais interessantes, precisos e satisfatórios.
+Esses são proMpts de escrita rápida para solicitações simples, mas, mesmo eles podem ser estruturados com elementos específicos para alcancarmos resultados mais interessantes, precisos e satisfatórios.
 
-Ficando a resalva aqui que, principalmente para o caso de tarefas repetitivas, se a escrita do prompt for muito complexa pode torná-lo inviável e menos efetivo no sentido de economia da economia de tempo que desejamos ter.
+Ficando a resalva aqui que, principalmente para o caso de tarefas repetitivas, se a escrita do proMpt for muito complexa pode torná-lo inviável e menos efetivo no sentido de economia da economia de tempo que desejamos ter.
 
-Então, talvez até mais que em outros tipos de prompt, é importante que seja específico nas suas solicitações e lembre-se de verificar o resultado sempre que possível, pois as IAs generativas não são factuais, o que leva a erros. Nesse caso vale pesar o quanto de tempo você vai economizar com a delegação dessa tarefa para uma IA e quanto tempo vai gastar com a escrita dessa delegação, com a arquiterura desse prompt.
+Então, talvez até mais que em outros tipos de proMpt, é importante que seja específico nas suas solicitações e lembre-se de verificar o resultado sempre que possível, pois as IAs generativas não são factuais, o que leva a erros. Nesse caso vale pesar o quanto de tempo você vai economizar com a delegação dessa tarefa para uma IA e quanto tempo vai gastar com a escrita dessa delegação, com a arquiterura desse proMpt.
 
 Também entendo que pensando da metologia GROW, essa definição, a definição de um tipo de Prompt antes de iniciar o uso de uma IA está incluída nas "Metas" no "Goal" indicando qual seria o seu objetivo, tendo uma boa definição e clareza do propósito desta interação com a IA. Ao pensar em "Tipos de Prompt", pergunte-se: O que eu desejo alcançar com essa atividade? Gerar uma história, responder a perguntas ou criar conteúdo específico, por exemplo?
 ## Relações

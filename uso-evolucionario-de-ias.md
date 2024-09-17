@@ -6,11 +6,11 @@ evolucionária".
 
 A ideia principal aqui é que você não mude a forma como faz as coisas da noite para o dia. Não é uma questão de "a partir de agora vamos usar Inteligencias Atificiais (IAs) para resolver isso", mas sim uma questão de "como nós podemos usar a IA para melhorar a forma como já realizamos as tarefas, fazendo-as com mais qualidade e em menos tempo" e esse é um processo evolucionário, que começa com o primeiro passo de simplesmente usar uma IA. 
 
-Tudo deveria começar com uma reflexão sobre como uma IA pode me ajudar a resolver determinado problema e, a partir daí, saber então qual o tipo de Agente de IA (Agente) seria mais adequado. Essa reflexão pode ser individual, nesse caso muito natural e, até, quase imperceptível, porem vale pensar se eu necessito de um [Tarefeiro](tipos-de-prompt/tarefeiro.md), para em ajudar com tarefas simples e repetitivas, se seria mais indicado um [Conselheiro](tipos-de-prompt.md) que me indique caminhos e me de sugestões sobre determinado assunto ou um [Criativo](tipos-de-prompt.md) capaz de fazer as peças criativas que vou precisar para determinado trabalho.
+Tudo deveria começar com uma reflexão sobre como uma IA pode me ajudar a resolver determinado problema e, a partir daí, saber então qual o tipo de Agente de IA (Agente) seria mais adequado. Essa reflexão pode ser individual, nesse caso muito natural e, até, quase imperceptível, porem vale pensar se eu necessito de um [Tarefeiro](tipos-de-proMpt/tarefeiro.md), para em ajudar com tarefas simples e repetitivas, se seria mais indicado um [Conselheiro](tipos-de-proMpt.md) que me indique caminhos e me de sugestões sobre determinado assunto ou um [Criativo](tipos-de-proMpt.md) capaz de fazer as peças criativas que vou precisar para determinado trabalho.
 
-Caso o uso da IA seja para uma equipe ou projeto que envolva mais pessoas, eu recomendo usar essa Inteligência Coletiva (muito mais poderosa que qualquer IA) e cocriar essa necessidade, una o grupo para fazer esse levantamento. Uma possível solução é o [Ai Planing Poker](tipos-de-prompt/cocriacao.md#ai-planing-poker) usando nosso [Deck de Consciência](README.md#deck-de-consciência).
+Caso o uso da IA seja para uma equipe ou projeto que envolva mais pessoas, eu recomendo usar essa Inteligência Coletiva (muito mais poderosa que qualquer IA) e cocriar essa necessidade, una o grupo para fazer esse levantamento. Uma possível solução é o [Ai Planing Poker](tipos-de-proMpt/cocriacao.md#ai-planing-poker) usando nosso [Deck de Consciência](README.md#deck-de-consciência).
 
-Sabendo qual é a sua necessidade e qual é o [Tipo de proMpt ou Agente](tipos-de-prompt/README.md) que melhor deve atender a sua necessidade, então começa  mesmo o trabalho de uso das IAs.
+Sabendo qual é a sua necessidade e qual é o [Tipo de proMpt ou Agente](tipos-de-proMpt/README.md) que melhor deve atender a sua necessidade, então começa  mesmo o trabalho de uso das IAs.
 
 Como em nosso exemplo: 
 
@@ -18,7 +18,7 @@ Como em nosso exemplo:
 Quais são as tendências de moda para o outono?
 ```
 
-Um pedido de ajuda simplista para um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) é o start necessário para podermos evoluvionar. 
+Um pedido de ajuda simplista para um Agente [Conselheiro](tipos-de-proMpt/conselheiro.md) é o start necessário para podermos evoluvionar. 
 
 Nesse caso, só de nos lembrarmos do nosso [Deck de base](README.md#deck-de-base) já é possível termos uma enorme evolução.
 
@@ -26,13 +26,13 @@ Nesse caso, só de nos lembrarmos do nosso [Deck de base](README.md#deck-de-base
 Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
 Mesmo já tendo um resultado promissor com esse, ainda podemos melhorar, adequa-lo ainda mais.
 
@@ -47,94 +47,94 @@ Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combi
 Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
-[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-proMpt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-proMpt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 Como falamos bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
 
-Talvez, para esse caso específico, você já esteja satisfeito com o resultado, que tal, então, [Continuar a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa), por exemplo (no mesmo chat):
+Talvez, para esse caso específico, você já esteja satisfeito com o resultado, que tal, então, [Continuar a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa), por exemplo (no mesmo chat):
 
 ```
 Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse guarda-roupas para o inverno.
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
-[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-proMpt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-proMpt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/015.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/015.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md)
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **adeque esse guarda-roupas para o inverno**
 
-[<img src="imagens/cards/016.png"  width="318" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
+[<img src="imagens/cards/016.png"  width="318" height="187">](depois-do-proMpt/use-diferentes-agentes.md) 
 
-Eu poderia parar por aqui, ou eu poderia usar Agentes diferentes para enriquecer essa conversa, como por exemplo, usar outro Agentes de IA para analizar ou sugerir alterações nos dois guarda-roupas propostos, ou usar um Agente [Tarefeiro](tipos-de-prompt/tarefeiro.md) para fazer uma pesquisa das peças citadas e seus valores. 
+Eu poderia parar por aqui, ou eu poderia usar Agentes diferentes para enriquecer essa conversa, como por exemplo, usar outro Agentes de IA para analizar ou sugerir alterações nos dois guarda-roupas propostos, ou usar um Agente [Tarefeiro](tipos-de-proMpt/tarefeiro.md) para fazer uma pesquisa das peças citadas e seus valores. 
 
 Quando juntamos o uso intencional de IA com a quantidade de modelos e Agentes disponíveis, temos uma gama infinita de possibilidades para evolucionar nossas atividades e o proprio uso dessa tecnologia.
 
 Sempre nos lembrando que, como humanos, somos os responsáveis pelos resultados que forem gerados sempre.
 
-Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
+Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-proMpt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
 ## Leia também
-- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
-  - #### [O Básico bem feito](prompt-basico.md)
-  - #### [Completo ou complexo?](prompts-complexos.md) 
-  - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- ### [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+  - #### [O Básico bem feito](proMpt-basico.md)
+  - #### [Completo ou complexo?](proMpts-complexos.md) 
+  - #### [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
 - ### Deck de Consciência
-  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
-  - [Conselheiro](tipos-de-prompt/conselheiro.md)
-  - [Criativo](tipos-de-prompt/criativo.md)
-  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
+  - [Conselheiro](tipos-de-proMpt/conselheiro.md)
+  - [Criativo](tipos-de-proMpt/criativo.md)
+  - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
 - ### Deck de Produção
   - #### Deck de base
-    - [Papel](partes-de-prompt/papel.md)
-    - [Ação](partes-de-prompt/acao.md)
-    - [Contexto](partes-de-prompt/contexto.md)
+    - [Papel](partes-de-proMpt/papel.md)
+    - [Ação](partes-de-proMpt/acao.md)
+    - [Contexto](partes-de-proMpt/contexto.md)
   - #### Deck de Controle
-      - [Formato](partes-de-prompt/controle/formato.md)
-      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Formato](partes-de-proMpt/controle/formato.md)
+      - [Limites](partes-de-proMpt/controle/limites.md)
   - #### Deck de Informação
-      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
-      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
+      - [Limites](partes-de-proMpt/controle/limites.md)
 - ### Deck de Transcendência
-  - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
-  - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
-  - [Use diferentes Agentes](depois-do-prompt/use-diferentes-agentes.md)
+  - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
+  - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
+  - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
 - ### Variações
   - #### Deck Básico
-    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
-    - [Conselheiro](tipos-de-prompt/conselheiro.md)
-    - [Criativo](tipos-de-prompt/criativo.md)
-    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-    - [Papel](partes-de-prompt/papel.md)
-    - [Ação](partes-de-prompt/acao.md)
-    - [Contexto](partes-de-prompt/contexto.md)
+    - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
+    - [Conselheiro](tipos-de-proMpt/conselheiro.md)
+    - [Criativo](tipos-de-proMpt/criativo.md)
+    - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
+    - [Papel](partes-de-proMpt/papel.md)
+    - [Ação](partes-de-proMpt/acao.md)
+    - [Contexto](partes-de-proMpt/contexto.md)
 
 ## Referências
 KANBAN University. The official Kanban guide. Disponível em: https://kanban.university/wp-content/uploads/2021/04/The-Official-Kanban-Guide_Portuguese_A4.pdf. Acesso em: 12 set. 2024.

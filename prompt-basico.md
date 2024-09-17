@@ -1,11 +1,11 @@
 # O Básico bem feito
 ***Com poucos cuidados você pode passar a alcaçar resultados muito melhores com o uso de Inteligência Artificial (IA)***
 
-O primeiro passo para ter um bom prompt é saber, realmente, qual é o seu objetivo, isso pode tanto te ajudar a escolher um Agente de IA (Agente) mais especializado ou simplesmente ter em mente qual é o tipo de proMpt que pretende escrever, antes de começar.
+O primeiro passo para ter um bom proMpt é saber, realmente, qual é o seu objetivo, isso pode tanto te ajudar a escolher um Agente de IA (Agente) mais especializado ou simplesmente ter em mente qual é o tipo de proMpt que pretende escrever, antes de começar.
 
 Escolher um agente mais adequado até pode ser uma atividade um pouco mais complexa, mas saber o tipo de proMpt que vai escrever com antecedência deve se tornar natural, mas, em um primeiro momento, enquanto ainda precisar de apoio lembre-se dos tipos de proMpts fundamentais.
 
-[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-proMpt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-proMpt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-proMpt/mais-escolhas.md) 
 
 Definido o tipo de proMpt você já terá meio caminho para uma solicitação muito mais efetiva. Vamos supor que você optou por um proMpt "Conselheiro", quais seriam os proximos passos? Bom, um exemplo de proMpt Conselheiro seria:
 ```
@@ -13,18 +13,18 @@ Quais são as tendências de moda para o outono?
 ```
 Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmente eu terei uma resposta bastante aberta, mas posso melhorar muito essa resposta aplicando três elementos simples ao meu proMpt.
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
 
 Embora divirja da ordem mostrada acima vou iniciar melhorando a ação, que na verdade é o que eu já iniciei.
 ```
 Liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
 
-Provavelmente com esse novo prompt onde a ação está muito melhor definida você terá um resultado mais focado, pois reduzimos de "moda" para "moda masculina", um universo muito menor, e solicitamos exemplos também para melhorar a compreensão desse resultado. Agora vou dar mais um passo simples e definir um papel para essa IA.
+Provavelmente com esse novo proMpt onde a ação está muito melhor definida você terá um resultado mais focado, pois reduzimos de "moda" para "moda masculina", um universo muito menor, e solicitamos exemplos também para melhorar a compreensão desse resultado. Agora vou dar mais um passo simples e definir um papel para essa IA.
 ```
 Como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
@@ -43,20 +43,20 @@ Lembrando que enquanto esse processo não se torna natural você tem esse recurs
 
 [<img src="imagens/cards/3.png" width="187" height="318">](conselheiro.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md)
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
 
 ## Leia também
-- [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-  - [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
-  - [conselheiro](tipos-de-prompt/conselheiro.md)
+- [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
+  - [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
+  - [conselheiro](tipos-de-proMpt/conselheiro.md)
 - Partes de proMpts
-  - [Papel](partes-de-prompt/papel.md)
-  - [Ação](partes-de-prompt/acao.md)
-  - [Contexto](partes-de-prompt/contexto.md)
+  - [Papel](partes-de-proMpt/papel.md)
+  - [Ação](partes-de-proMpt/acao.md)
+  - [Contexto](partes-de-proMpt/contexto.md)
   
 
 

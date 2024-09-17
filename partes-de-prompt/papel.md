@@ -23,11 +23,11 @@ Como um professor de culinária pode me explicar o que é um Ovo pochê?
 
 Sim, provavelmente a resposta será um pouco diferente para Papeis diferentes, pois a busca e filtro de informações tende a ser diferente também.
 
-Eu acredito que esse é um dos itens "Básicos" para um bom prompt, ou seja, todo bom prompt deveria no mínimo informa para a IA qual é o papél dela na requisição que foi feita, assim, certamente você terá resultados mais alinhados com os objetivos que tenha para essa atividade.
+Eu acredito que esse é um dos itens "Básicos" para um bom proMpt, ou seja, todo bom proMpt deveria no mínimo informa para a IA qual é o papél dela na requisição que foi feita, assim, certamente você terá resultados mais alinhados com os objetivos que tenha para essa atividade.
 
-Tanto que este componente, com diferentes nomes, está presente na maioria das "receitas" de prompt que eu estudei, a Persona o PACEF, o Role no PREP e Papel mesmo no PACIF.
+Tanto que este componente, com diferentes nomes, está presente na maioria das "receitas" de proMpt que eu estudei, a Persona o PACEF, o Role no PREP e Papel mesmo no PACIF.
 
-Usar a definição de um Papel para a IA em seus prompts deve torná-los ainda mais específicos de uma forma muito natural e simples, além de faz com que você trate a IA de forma similar a que trataria um parceiro humano melhorando a sinergia, ainda assim lembre-se de que o Humano é você e por tanto o responsável pelos resultados obtidos, inclusive por verificá-los, uma vez que as IAs não são factuais.
+Usar a definição de um Papel para a IA em seus proMpts deve torná-los ainda mais específicos de uma forma muito natural e simples, além de faz com que você trate a IA de forma similar a que trataria um parceiro humano melhorando a sinergia, ainda assim lembre-se de que o Humano é você e por tanto o responsável pelos resultados obtidos, inclusive por verificá-los, uma vez que as IAs não são factuais.
 
 ## Relações
 <table>

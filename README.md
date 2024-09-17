@@ -1,4 +1,4 @@
-# prompto.github.io
+# proMpto.github.io
 ***Como conseguir o melhor resultado no uso de Inteligências Artifíciais (IA)?***
 <img src="https://github.com/user-attachments/assets/222528d3-56ea-459e-a42d-88fba5eb14c5" align="right" width="375" height="637">
 
@@ -7,45 +7,45 @@ Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar
 Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencional de IAs no seu dia a dia.
 
 ## Índice
-- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
-  - #### [O Básico bem feito](prompt-basico.md)
-  - #### [Completo ou complexo?](prompts-complexos.md) 
-  - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- ### [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+  - #### [O Básico bem feito](proMpt-basico.md)
+  - #### [Completo ou complexo?](proMpts-complexos.md) 
+  - #### [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
 - ### Caminho da Consciência
-  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
-  - [Conselheiro](tipos-de-prompt/conselheiro.md)
-  - [Criativo](tipos-de-prompt/criativo.md)
-  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
+  - [Conselheiro](tipos-de-proMpt/conselheiro.md)
+  - [Criativo](tipos-de-proMpt/criativo.md)
+  - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
 - ### Caminho da Produção
   - #### Caminho de embasamento
-    - [Papel](partes-de-prompt/papel.md)
-    - [Ação](partes-de-prompt/acao.md)
-    - [Contexto](partes-de-prompt/contexto.md)
+    - [Papel](partes-de-proMpt/papel.md)
+    - [Ação](partes-de-proMpt/acao.md)
+    - [Contexto](partes-de-proMpt/contexto.md)
   - #### Caminho para controle
-      - [Formato](partes-de-prompt/controle/formato.md)
-      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Formato](partes-de-proMpt/controle/formato.md)
+      - [Limites](partes-de-proMpt/controle/limites.md)
   - #### Caminho para Informação
-      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
-      - [Limites](partes-de-prompt/controle/limites.md)
-      - [Dados Externos](partes-de-prompt/controle/dados-externos.md)
+      - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
+      - [Limites](partes-de-proMpt/controle/limites.md)
+      - [Dados Externos](partes-de-proMpt/controle/dados-externos.md)
   - #### Caminho para Criação
-      - [Formato](partes-de-prompt/controle/formato.md)
-      - [Assunto](partes-de-prompt/ciacao/assunto.md)
-      - [Equipamento](partes-de-prompt/ciacao/equipamemto.md)
+      - [Formato](partes-de-proMpt/controle/formato.md)
+      - [Assunto](partes-de-proMpt/ciacao/assunto.md)
+      - [Equipamento](partes-de-proMpt/ciacao/equipamemto.md)
 - ### Caminho para Transcendência
-  - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
-  - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
-  - [Use diferentes Agentes](depois-do-prompt/use-diferentes-agentes.md)
+  - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
+  - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
+  - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
 - ### Variações
   - #### Trilha Básica
-    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
-    - [Conselheiro](tipos-de-prompt/conselheiro.md)
-    - [Criativo](tipos-de-prompt/criativo.md)
-    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-    - [Papel](partes-de-prompt/papel.md)
-    - [Ação](partes-de-prompt/acao.md)
-    - [Contexto](partes-de-prompt/contexto.md)
+    - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
+    - [Conselheiro](tipos-de-proMpt/conselheiro.md)
+    - [Criativo](tipos-de-proMpt/criativo.md)
+    - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
+    - [Papel](partes-de-proMpt/papel.md)
+    - [Ação](partes-de-proMpt/acao.md)
+    - [Contexto](partes-de-proMpt/contexto.md)
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)
@@ -57,4 +57,4 @@ Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencio
 - ### Externo
   - #### [Linkedin](midia/linkedin.md)
 <hr>
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/prompto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/proMpto/">proMpto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>

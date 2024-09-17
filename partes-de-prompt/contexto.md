@@ -32,7 +32,7 @@ Como um professor de culinária explique para um aluno iniciante em uma aula em 
 
 Já para o segundo ao adicionar a informação de que o resultado será usado " em uma aula em grupo com diferentes níveis de conhecimento" deve fazer com que a IA tenha essa preocupação de atender todo o contexto, os "diferentes níveis de conhecimento", também alterando significativamente sua resposta.
 
-O contexto, ou algo que se assemelhe, é um componente presente na maioria das "receitas" para escrita de prompts, está presente no PACIF e no PACEF, no PREP como "proMpt" mesmo e inclusive no "Grow" quando pensamos em definir claramente a "Realidade" em que se está inserido. Assim, podemos facilmente imaginar, que ter "Contexto" é uma característica básica para um proMpt bem escrito.
+O contexto, ou algo que se assemelhe, é um componente presente na maioria das "receitas" para escrita de proMpts, está presente no PACIF e no PACEF, no PREP como "proMpt" mesmo e inclusive no "Grow" quando pensamos em definir claramente a "Realidade" em que se está inserido. Assim, podemos facilmente imaginar, que ter "Contexto" é uma característica básica para um proMpt bem escrito.
 
 Adicionar ou considerar o "Contexto" de aplicação do resultado esperado daquele proMpt novamente é apenas mais uma forma de sermos mais específicos, e quanto mais específicos mais assertivos ou focados tendem a ser as respostas dos Agentes de IA. Também, sempre vale lembrar que você é o humano na história, por tanto o responsável por checar, validar e garantir a qualidade e veracidade das informações, assim como sua adequação final ao prórprio contexto.
 

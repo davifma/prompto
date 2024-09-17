@@ -13,15 +13,15 @@ Porém, podemos pedir que um Agente "CRIE" pratimente qualquer coisa, principalm
 Escreva um versinho sobre inteligência artificial.
 ```
 
-Aqui teremos um prompt criativo apenas com uma ação definida e o assunto. 
+Aqui teremos um proMpt criativo apenas com uma ação definida e o assunto. 
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md) 
+[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-proMpt/criativo.md) 
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho**
+[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md) **Escreva um versinho**
 
-[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
+[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-proMpt/assunto.md) **sobre inteligência artificial**
 
-Por mais simples que seja um prompt criativo, dificilmente você consequirá realizá-lo sem um assunto definido. Mesmo nesse prompt mais simples ele já está presente. 
+Por mais simples que seja um proMpt criativo, dificilmente você consequirá realizá-lo sem um assunto definido. Mesmo nesse proMpt mais simples ele já está presente. 
 
 Vamos ver um outro exemplo, agora criando uma imagem:
 
@@ -29,23 +29,23 @@ Vamos ver um outro exemplo, agora criando uma imagem:
 Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto".
 ```
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
+[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-proMpt/criativo.md)
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie a imagem**
+[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md) **Crie a imagem**
 
-[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **imagem com uma porporção de 16x9**
+[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-proMpt/controle/formato.md) **imagem com uma porporção de 16x9**
 
-[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto"**
+[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-proMpt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Deck de Cards com o logo "proMpto"**
 
 Perceba que aqui o assunto é muito mais específico e bem definido, porém você consegue imaginar essa solicitação sem o assunto?
 
 Pelo que temos visto por aqui, se a "Ação" é a parte mais básica de qualquer proMpt, me parece que o "Assunto" é a parte primordial para um bom proMpt criativo. Pensando assim, essa seria a menor estrutura para pedirmos que um Agente crie algo.
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md) 
+[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-proMpt/criativo.md) 
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md)
+[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md)
 
-[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md)
+[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-proMpt/assunto.md)
 
 A proposta do uso de Assunto aparece no "Dynamic Prompting" proposto por Linus Ekenstam, que indica que para criação de imagens é necessário ter um foco principal para sua criação, baseado no conceito de "figura" do html5, onde a tag FIGURE pode *"ser usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc."*
 

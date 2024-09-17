@@ -12,13 +12,13 @@ Ou seja, enquanto o Agente é a interface com o ambiente (ou usuário) o Modelo 
 
 Sabendo disso pode ser fácil pensar que ao usar diferentes Agentes podemos ter resultados diferentes e o mesmo para Modelos, ou ainda mais. Usar essa característica para potencializar os resultados que você precisa pode ser considerado uma boa, e comum, prática de uso de IAs. Talvez pouco divulgada, pois não é interessante para uma fornecedora de software, a fornecedora da IA, ficar te estimulando a usar os concorrente.
 
-De qualquer forma, temos inumeros tipos de Agentes, que consolidamos nos tês tipos básicos ([Tarefeiro](../tipos-de-prompt/tarefeiro.md), [Conselheiro](../tipos-de-prompt/conselheiro.md) e [Criativo](../tipos-de-prompt/criativo.md)), e algums Modelos disponíveis no mercado, alguns para usos específicos (como criação de imagens, por exemplo).
+De qualquer forma, temos inumeros tipos de Agentes, que consolidamos nos tês tipos básicos ([Tarefeiro](../tipos-de-proMpt/tarefeiro.md), [Conselheiro](../tipos-de-proMpt/conselheiro.md) e [Criativo](../tipos-de-proMpt/criativo.md)), e algums Modelos disponíveis no mercado, alguns para usos específicos (como criação de imagens, por exemplo).
 
 Seria um disperdívio desconsiderarmos o potencial disso no nosso uso intencional diário de IAs.
 
 Aqui eu vejo dois caminhos. Eu posso usar Agentes diferentes para funções diferentes. 
 
-Eu, por exemplo, tenho meus agentes de mercado favoritos, o ChatGPT para atividades gerais, como ([Tarefeiro](../tipos-de-prompt/tarefeiro.md) ou [Conselheiro](../tipos-de-prompt/conselheiro.md), o nightcafe.studio e o leonardo.ai como [Criativos](../tipos-de-prompt/criativo.md) para imagens, o perplexity.ai como [Tarefeiro](../tipos-de-prompt/tarefeiro.md) para pesquisas e o, mais recente amigo, napkin.ai como  [Criativos](../tipos-de-prompt/criativo.md) para formatação de documentos e facilitação gráfica.
+Eu, por exemplo, tenho meus agentes de mercado favoritos, o ChatGPT para atividades gerais, como ([Tarefeiro](../tipos-de-proMpt/tarefeiro.md) ou [Conselheiro](../tipos-de-proMpt/conselheiro.md), o nightcafe.studio e o leonardo.ai como [Criativos](../tipos-de-proMpt/criativo.md) para imagens, o perplexity.ai como [Tarefeiro](../tipos-de-proMpt/tarefeiro.md) para pesquisas e o, mais recente amigo, napkin.ai como  [Criativos](../tipos-de-proMpt/criativo.md) para formatação de documentos e facilitação gráfica.
 
 Aqui eu listei vários Agentes que usam ou não (eu não sei) diferentes Modelos com foco em soluções de problemas específicos, desde pesquisas na Web até a criação de documentos ou imagens. Assim, perceba que não é necessário usar apenas um Agente, você pode distribuir o trabalho entre vários deles, formando assim diversas parcerias digitais.
 

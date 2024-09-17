@@ -1,7 +1,7 @@
 # Ajuste o proMpt ou Continue a conversa
 ***O que fazer depois que a primeira requisição já foi feita e tenho uma resposta?***
 
-Temos duas possibilidades, a primeira mais pessimista acontecerá quando a resposta que o seu proMpt proporcionou não foi adequada, não atingiu as suas expectativas, nesse caso meu conselho é que você faça Ajuste em seu prompt.
+Temos duas possibilidades, a primeira mais pessimista acontecerá quando a resposta que o seu proMpt proporcionou não foi adequada, não atingiu as suas expectativas, nesse caso meu conselho é que você faça Ajuste em seu proMpt.
 
 Já, em outra possibilidade, onde o proMpt consegiu o resultado esperado, caso valha a pena e, principalmente, se tartar-se de um trabalho mais complexo e longo, então Continue a conversa para refinar ou aprofundar esse resultado.
 
@@ -20,11 +20,11 @@ Uma forma de repensar um proMpt pode ser a inclusão de novos elementos. Em um p
 Como um chefe de cozinha descreva para o cardápio o que é um Ovo pochê?
 ```
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 Eu posso não gostar desse resultado e, neste caso, muito provavelmente isso acontece por eu não ter elaborado tão bem o meu proMpt.
 
@@ -35,13 +35,13 @@ Como um chefe de cozinha descreva o que é um Ovo pochê para um cardápio que s
 Ajustando-o eu poderia acrescentar mais Contexto, por exemplo.
 
 ### Ajuste 1
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
 Então eu poderia continuar esse processo de Ajustes até alcançar ao resultado desejado. Poderia adicionar um formato e testar novamente, então adicionar um Exemplo e, talvez, finalmente ficar feliz com esse resultado.
 
@@ -58,41 +58,41 @@ Ingredientes principais:
 
 ```
 ### Ajuste 2
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
 ### Ajuste 3
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
-<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-proMpt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
 ### Ajuste 4
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
-[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-proMpt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
-<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
+<img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-proMpt/informacao/exemplos.md) **Exemplo da feijoada**
 
-Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, porém você não precisa incluir algum elemento para fazer um ajuste, também pode retirar, inverter a ordem ou reescrever alguma parte, mudando qualquer um desses elementos, o limite é apenas a sua imaginação, por isso entendo que essa ferramenta deve facilitar a escrita de ["infinitos proMpts"](../um-mapa-para-infinitos-prompts.md) efetivamente.
+Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, porém você não precisa incluir algum elemento para fazer um ajuste, também pode retirar, inverter a ordem ou reescrever alguma parte, mudando qualquer um desses elementos, o limite é apenas a sua imaginação, por isso entendo que essa ferramenta deve facilitar a escrita de ["infinitos proMpts"](../um-mapa-para-infinitos-proMpts.md) efetivamente.
 
 ## Continue a conversa
 Outra possibilidade é que sua requisição tenha sido satisfatóriamente atendida, nesse caso, vale pesar se continuar essa conversa vale a pena.
@@ -103,7 +103,7 @@ Outra possibilidade é que sua requisição tenha sido satisfatóriamente atendi
 
 Tem muito mais questões que pode se fazer para decidir se, mesmo satisfeito com o resultado, vale a pena continuar explorando aquela conversa com a IA.
 
-No próprio prompt que acabamos de finalizar.
+No próprio proMpt que acabamos de finalizar.
 
 ```
 Como um chefe de cozinha descreva o que é um Ovo pochê para um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas traga a resposta em um parágrafo único com os ingredientes listados no final?
@@ -118,17 +118,17 @@ Ingredientes principais:
 
 ```
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
-[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
+[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
-[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-proMpt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
-[<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
+[<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-proMpt/informacao/exemplos.md) **Exemplo da feijoada**
 
 <img src="../imagens/cards/015.png"  width="318" height="187"> 
 
@@ -137,13 +137,13 @@ Embora eu já esteja feliz com o resultado, eu poderia continuar essa conversa e
 ```
 Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser feitos com os mesmos ingredientes do ovo pochê, indique-os e já escreva suas descrições conforme o modelo anterior. Não repita nenhum prepado, preciso de pratos diferente usando os mesmos ingredientes base.
 ```
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
 
-[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **para o mesmo cardápio**
+[<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **para o mesmo cardápio**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **indique novos pratos que possam ser feitos com os mesmos ingredientes.**
+[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-proMpt/acao.md) **indique novos pratos que possam ser feitos com os mesmos ingredientes.**
 
-[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/limites.md) **sem repetir os preparos**
+[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-proMpt/controle/limites.md) **sem repetir os preparos**
 
 <img src="../imagens/cards/015.png"  width="318" height="187"> 
 
@@ -164,10 +164,10 @@ Nesta etapa de uso da IA eu diria que estamos em algum lugar entre o Ha e o Ri, 
 O desejo enquanto escrevo este material é que todos possam inovar em suas vidas e profissões com um pouco do aprendizado que possam ter tido por aqui.
 
 ## Leia também
-- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
-  - #### [O Básico bem feito](prompt-basico.md)
-  - #### [Completo ou complexo?](prompts-complexos.md) 
+- ### [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+  - #### [O Básico bem feito](proMpt-basico.md)
+  - #### [Completo ou complexo?](proMpts-complexos.md) 
 
 ## Relações
 <table>

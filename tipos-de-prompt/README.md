@@ -17,7 +17,7 @@ E, indo além, você pode criar (treinar) os seus próprios Agentes para fins es
 Logo, note que quando está interagindo com uma IA, em um conceito ligeiramente mais profundo está interagindo com um Agente, desenhado para um fim específico e como, hoje, qualquer um de nós pode "desenhar" esses Agentes de acordo com a nossa necessidade, parte da intenção desse projeto é facilitar esse desenho.
 
 ## O que são proMpts
-> Um prompt é a forma como um usuário interage com um sistema de IA, como chatbots ou assistentes virtuais. Ele consiste em palavras e frases que orientam a IA sobre o que o usuário deseja saber ou realizar.
+> Um proMpt é a forma como um usuário interage com um sistema de IA, como chatbots ou assistentes virtuais. Ele consiste em palavras e frases que orientam a IA sobre o que o usuário deseja saber ou realizar.
 
 Novamente de acordo com um dos meus Agentes favoritos.
 
@@ -55,7 +55,7 @@ Para mim, pensando em Agentes, eu consigo identificar 15 subtipos de Agentes par
 ![Combinações Conselheiro](https://github.com/user-attachments/assets/aa7c45cf-de5d-49f6-ae76-0cc28bb2170e)
 ![Combinações Criativo](https://github.com/user-attachments/assets/61c8bac7-bda9-4ed6-8460-f9336879d051)
 
-Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts esteja limitada apenas a criatividade humana, quanto as suas aturezas ou tipos eu creio que haja uma maior binariedade, ou seja, um prompt será Tarefeiro (para executar alto), ou Conselheiro (para dar uma informação) ou Criativo (para criar algo), creio que seja rara a mistura desses tipos, porém podemos adicionar um modificador de escolhas a qualquer um deles, mas do meu ponto de vista faz mais sentido para o Conselheiro.
+Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts esteja limitada apenas a criatividade humana, quanto as suas aturezas ou tipos eu creio que haja uma maior binariedade, ou seja, um proMpt será Tarefeiro (para executar alto), ou Conselheiro (para dar uma informação) ou Criativo (para criar algo), creio que seja rara a mistura desses tipos, porém podemos adicionar um modificador de escolhas a qualquer um deles, mas do meu ponto de vista faz mais sentido para o Conselheiro.
 
 <img src="https://github.com/user-attachments/assets/d77dfceb-0ea8-498d-8a29-fe71bf09bee2" width="280" height="238">
 <img src="https://github.com/user-attachments/assets/e5f9db74-68f8-4719-b8f6-d789f92c2800" width="280" height="238">
@@ -103,13 +103,13 @@ Ponderando o quanto será gasto e ganho de vida usando a IA você deve ter um sa
 ## Referências
 PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
 
-WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/prompts-chatgpt/>. Acesso em: 14 ago. 2024.
+WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/proMpts-chatgpt/>. Acesso em: 14 ago. 2024.
 
-PERPLEXITY.AI. Quais são os tipos de prompt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-prompt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
+PERPLEXITY.AI. Quais são os tipos de proMpt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-proMpt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
 
 PERPLEXITY.AI. O que são agentes de IA? Disponível em: <https://www.perplexity.ai/search/o-que-sao-agentes-de-ia-3JdzK5TiSeuYuUazKtS9Qg>. Acesso em: 14 ago. 2024.
 
-PERPLEXITY.AI. O que são prompts de IA? Disponível em: <https://www.perplexity.ai/search/o-que-sao-prompts-de-ia-qdKlEue_RxyyQGws3VV0dg>. Acesso em: 14 ago. 2024.
+PERPLEXITY.AI. O que são proMpts de IA? Disponível em: <https://www.perplexity.ai/search/o-que-sao-proMpts-de-ia-qdKlEue_RxyyQGws3VV0dg>. Acesso em: 14 ago. 2024.
 
 GITHUB. Basic writing and formatting syntax: quoting text. Disponível em: <https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text>. Acesso em: 14 ago. 2024.
 

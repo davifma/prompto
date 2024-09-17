@@ -11,9 +11,9 @@ Uma amostra clara dessa questão é que muitos Agentes de IA (Agentes) já tem e
 
 Aqui você está vendo na prática a IA aprendendo para te atender melhor.
 
-Mas, principalmente, se você estiver com dificuldades para obter um resultado da foma como deseja da IA, mesmo tendo definido corretamente que tipo de Agente deveria usar, já criou um prompt com Papel, Açção e Contextos bem definidos e, até incluiu o Formato desejado (o que supostamente garantiria uma entrega correta) e mesmo assim ainda não conseguiu exatamente o que desejava da IA. 
+Mas, principalmente, se você estiver com dificuldades para obter um resultado da foma como deseja da IA, mesmo tendo definido corretamente que tipo de Agente deveria usar, já criou um proMpt com Papel, Açção e Contextos bem definidos e, até incluiu o Formato desejado (o que supostamente garantiria uma entrega correta) e mesmo assim ainda não conseguiu exatamente o que desejava da IA. 
 
-Uma possibilidade simples é mostrar ao Agente como você deseja o resultado, já na entrada do prompt fornecer um ou mais "Exemplos" de como espera receber essa resposta.
+Uma possibilidade simples é mostrar ao Agente como você deseja o resultado, já na entrada do proMpt fornecer um ou mais "Exemplos" de como espera receber essa resposta.
 
 ```
 Como um chefe de cozinha descreva o que é um Ovo pochê para um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas traga a resposta em um parágrafo único com os ingredientes listados no final?
