@@ -116,13 +116,13 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
     - [Papel](partes-de-proMpt/papel.md)
     - [Ação](partes-de-proMpt/acao.md)
     - [Contexto](partes-de-proMpt/contexto.md)
-  - #### Deck de Controle
+  - #### Caminho para  Controle
       - [Formato](partes-de-proMpt/controle/formato.md)
       - [Limites](partes-de-proMpt/controle/limites.md)
-  - #### Deck de Informação
+  - #### Caminho para  Informação
       - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
       - [Limites](partes-de-proMpt/controle/limites.md)
-- ### Deck de Transcendência
+- ### Caminho para  Transcendência
   - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
   - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
