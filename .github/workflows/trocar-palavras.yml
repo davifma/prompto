@@ -28,14 +28,19 @@ jobs:
           sed -i "s/$OLD_WORD/$NEW_WORD/g" "$FILE"
         done
 
-    # Passo 3: Comitar as mudanças no repositório
+    # Passo 3: Verificar mudanças e comitar apenas se houver modificações
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Replaced '$OLD_WORD' with '$NEW_WORD' in all markdown files"
-        git push
+        
+        # Verifica se há mudanças no diretório
+        if git diff --quiet; then
+          echo "No changes to commit."
+        else
+          git add .
+          git commit -m "Replaced '$OLD_WORD' with '$NEW_WORD' in all markdown files"
+          git push
+        fi
       env:
-        # Necessário para autorizar o push no repositório
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
