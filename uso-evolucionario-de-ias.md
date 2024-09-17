@@ -20,7 +20,7 @@ Quais são as tendências de moda para o outono?
 
 Um pedido de ajuda simplista para um Agente [Conselheiro](tipos-de-proMpt/conselheiro.md) é o start necessário para podermos evoluvionar. 
 
-Nesse caso, só de nos lembrarmos do nosso [Deck de base](README.md#deck-de-base) já é possível termos uma enorme evolução.
+Nesse caso, só de nos lembrarmos do nosso [Caminho de embasamento](README.md#deck-de-base) já é possível termos uma enorme evolução.
 
 ```
 Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
@@ -112,7 +112,7 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
   - [Criativo](tipos-de-proMpt/criativo.md)
   - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
 - ### Deck de Produção
-  - #### Deck de base
+  - #### Caminho de embasamento
     - [Papel](partes-de-proMpt/papel.md)
     - [Ação](partes-de-proMpt/acao.md)
     - [Contexto](partes-de-proMpt/contexto.md)
