@@ -15,7 +15,7 @@ Assim eu acabo afunilando, relacionando, todos esses usos a três tipos básicos
 
 [<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-proMpt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-proMpt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-proMpt/mais-escolhas.md) 
 
-Você ainda pode ter a necessidade de diminuir a possibilidade de respostas que esses Agentes vão te trazer, por isso adicionei "mais escolhas". Esse [**Caminho da Consciência**](tipos-de-proMpt/README.md) eu considero como o Deck Básico ou Inícial para trabalhamos com IAs, seguindo a analogia do mapa, antes de desenharmos a nossa rota precisamos saber para onde desejamos ir, qual será o destino, ter **consciência** dos nossos objetivos, esse Deck nos ajuda a pensar nisso, inclusive permitindo cocriar essconhecimento com nossos times usando um [**AI Planing Poker**](tipos-de-proMpt/cocriacao.md#ai-planing-poker) por exemplo.
+Você ainda pode ter a necessidade de diminuir a possibilidade de respostas que esses Agentes vão te trazer, por isso adicionei "mais escolhas". Esse [**Caminho da Consciência**](tipos-de-proMpt/README.md) eu considero como o Trilha Básica  ou Inícial para trabalhamos com IAs, seguindo a analogia do mapa, antes de desenharmos a nossa rota precisamos saber para onde desejamos ir, qual será o destino, ter **consciência** dos nossos objetivos, esse Deck nos ajuda a pensar nisso, inclusive permitindo cocriar essconhecimento com nossos times usando um [**AI Planing Poker**](tipos-de-proMpt/cocriacao.md#ai-planing-poker) por exemplo.
 
 Vale pensarmos, a IA é só a ferramenta, ela não é o fim, ela é o caminho. Antes de decidirmos o caminho é necessário sabermos o fim desejado, qual o meu objetivo, essa primeira parte do nosso mapa pretende ajudar nessa decisão consciente.
 
@@ -31,7 +31,7 @@ Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento,
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
 
-Embora sejam Cards do **Caminho da Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-proMpt/README.md) seriam o que podemos chamar de **Deck Básico**, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](proMpt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
+Embora sejam Cards do **Caminho da Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-proMpt/README.md) seriam o que podemos chamar de **Trilha Básica **, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](proMpt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
 
 De verdade, para a maioria dos meus casos de uso de IA esse Deck é uma boa representação dos elementos que compõem esses proMpts.
 

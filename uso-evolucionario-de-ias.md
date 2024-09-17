@@ -127,7 +127,7 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
   - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
   - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
 - ### Variações
-  - #### Deck Básico
+  - #### Trilha Básica 
     - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
     - [Conselheiro](tipos-de-proMpt/conselheiro.md)
     - [Criativo](tipos-de-proMpt/criativo.md)
