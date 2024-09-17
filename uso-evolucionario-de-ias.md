@@ -8,7 +8,7 @@ A ideia principal aqui é que você não mude a forma como faz as coisas da noit
 
 Tudo deveria começar com uma reflexão sobre como uma IA pode me ajudar a resolver determinado problema e, a partir daí, saber então qual o tipo de Agente de IA (Agente) seria mais adequado. Essa reflexão pode ser individual, nesse caso muito natural e, até, quase imperceptível, porem vale pensar se eu necessito de um [Tarefeiro](tipos-de-proMpt/tarefeiro.md), para em ajudar com tarefas simples e repetitivas, se seria mais indicado um [Conselheiro](tipos-de-proMpt.md) que me indique caminhos e me de sugestões sobre determinado assunto ou um [Criativo](tipos-de-proMpt.md) capaz de fazer as peças criativas que vou precisar para determinado trabalho.
 
-Caso o uso da IA seja para uma equipe ou projeto que envolva mais pessoas, eu recomendo usar essa Inteligência Coletiva (muito mais poderosa que qualquer IA) e cocriar essa necessidade, una o grupo para fazer esse levantamento. Uma possível solução é o [Ai Planing Poker](tipos-de-proMpt/cocriacao.md#ai-planing-poker) usando nosso [Deck de Consciência](README.md#deck-de-consciência).
+Caso o uso da IA seja para uma equipe ou projeto que envolva mais pessoas, eu recomendo usar essa Inteligência Coletiva (muito mais poderosa que qualquer IA) e cocriar essa necessidade, una o grupo para fazer esse levantamento. Uma possível solução é o [Ai Planing Poker](tipos-de-proMpt/cocriacao.md#ai-planing-poker) usando nosso [Caminho da Consciência](README.md#deck-de-consciência).
 
 Sabendo qual é a sua necessidade e qual é o [Tipo de proMpt ou Agente](tipos-de-proMpt/README.md) que melhor deve atender a sua necessidade, então começa  mesmo o trabalho de uso das IAs.
 
@@ -106,7 +106,7 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
   - #### [O Básico bem feito](proMpt-basico.md)
   - #### [Completo ou complexo?](proMpts-complexos.md) 
   - #### [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
-- ### Deck de Consciência
+- ### Caminho da Consciência
   - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
   - [Conselheiro](tipos-de-proMpt/conselheiro.md)
   - [Criativo](tipos-de-proMpt/criativo.md)
