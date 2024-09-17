@@ -1,12 +1,14 @@
 name: Trocar Palavras
 
-# Define quando a Action será executada. Nesse caso, ela é executada manualmente através do "workflow_dispatch"
+# Define quando a Action será executada. Aqui é manualmente, mas pode ser alterado para outros eventos
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write  # Garante permissões para fazer push no repositório
+
 jobs:
   replace-words:
-    # Definindo o ambiente de execução como Ubuntu (Linux)
     runs-on: ubuntu-latest
 
     steps:
@@ -17,24 +19,22 @@ jobs:
     # Passo 2: Substitui palavras em todos os arquivos .md
     - name: Find and replace words in Markdown files
       run: |
-        # Define as palavras que você quer substituir
-        OLD_WORD="prompt"  # Substitua por sua palavra antiga
+        OLD_WORD="prompt"  # Substitua pela palavra antiga
         NEW_WORD="proMpt"    # Substitua pela nova palavra
 
-        # Procura todos os arquivos .md no repositório
+        # Procura todos os arquivos .md no repositório e substitui as palavras
         find . -type f -name "*.md" | while read FILE
         do
-          # Usa 'sed' para substituir as palavras nos arquivos .md
           sed -i "s/$OLD_WORD/$NEW_WORD/g" "$FILE"
         done
 
-    # Passo 3: Verificar mudanças e comitar apenas se houver modificações
+    # Passo 3: Commit e push das mudanças (se houver)
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
-        # Verifica se há mudanças no diretório
+        # Verifica se há mudanças a serem commitadas
         if git diff --quiet; then
           echo "No changes to commit."
         else
