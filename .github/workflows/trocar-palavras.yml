@@ -19,8 +19,8 @@ jobs:
     # Passo 2: Substitui palavras em todos os arquivos .md
     - name: Find and replace words in Markdown files
       run: |
-        OLD_WORD="Deck Básico"  # Substitua pela palavra antiga
-        NEW_WORD="Trilha Básica "    # Substitua pela nova palavra
+        OLD_WORD="tipos-de-proMpt"  # Substitua pela palavra antiga
+        NEW_WORD="tipos-de-prompt"    # Substitua pela nova palavra
 
         # Procura todos os arquivos .md no repositório e substitui as palavras
         find . -type f -name "*.md" | while read FILE
