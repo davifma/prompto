@@ -20,3 +20,7 @@ Em um grupo de mais de 50 jovens estudantes universitários de tecnologia, com 1
 
 O primeiro ponto para facilitar esse processo de uso e evolução do uso das IAs foi um momento de contextualização, necessário para melhor mobilização também. Trouxe alguns Slides para me apoiar com isso.
 
+![image](imagens/exemplos/AI Planning Poker-001.jpg)
+![image](imagens/exemplos/AI Planning Poker-002.jpg)
+
+
