@@ -105,7 +105,7 @@ PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexi
 
 WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/proMpts-chatgpt/>. Acesso em: 14 ago. 2024.
 
-PERPLEXITY.AI. Quais são os tipos de proMpt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-proMpt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
+PERPLEXITY.AI. Quais são os tipos de proMpt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-prompt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
 
 PERPLEXITY.AI. O que são agentes de IA? Disponível em: <https://www.perplexity.ai/search/o-que-sao-agentes-de-ia-3JdzK5TiSeuYuUazKtS9Qg>. Acesso em: 14 ago. 2024.
 

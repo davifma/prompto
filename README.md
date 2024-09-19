@@ -7,16 +7,16 @@ Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar
 Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencional de IAs no seu dia a dia.
 
 ## Índice
-- ### [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
+- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
   - #### [O Básico bem feito](proMpt-basico.md)
   - #### [Completo ou complexo?](proMpts-complexos.md) 
-  - #### [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
+  - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
 - ### Caminho da Consciência
-  - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
-  - [Conselheiro](tipos-de-proMpt/conselheiro.md)
-  - [Criativo](tipos-de-proMpt/criativo.md)
-  - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - ### Caminho da Produção
   - #### Caminho de embasamento
     - [Papel](partes-de-proMpt/papel.md)
@@ -39,10 +39,10 @@ Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencio
   - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
 - ### Variações
   - #### Trilha Básica
-    - [Tarefeiro](tipos-de-proMpt/tarefeiro.md)
-    - [Conselheiro](tipos-de-proMpt/conselheiro.md)
-    - [Criativo](tipos-de-proMpt/criativo.md)
-    - [mais escolhas](tipos-de-proMpt/mais-escolhas.md)
+    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+    - [Conselheiro](tipos-de-prompt/conselheiro.md)
+    - [Criativo](tipos-de-prompt/criativo.md)
+    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
     - [Papel](partes-de-proMpt/papel.md)
     - [Ação](partes-de-proMpt/acao.md)
     - [Contexto](partes-de-proMpt/contexto.md)

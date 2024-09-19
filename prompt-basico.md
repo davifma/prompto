@@ -5,7 +5,7 @@ O primeiro passo para ter um bom proMpt é saber, realmente, qual é o seu objet
 
 Escolher um agente mais adequado até pode ser uma atividade um pouco mais complexa, mas saber o tipo de proMpt que vai escrever com antecedência deve se tornar natural, mas, em um primeiro momento, enquanto ainda precisar de apoio lembre-se dos tipos de proMpts fundamentais.
 
-[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-proMpt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-proMpt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-proMpt/mais-escolhas.md) 
+[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
 Definido o tipo de proMpt você já terá meio caminho para uma solicitação muito mais efetiva. Vamos supor que você optou por um proMpt "Conselheiro", quais seriam os proximos passos? Bom, um exemplo de proMpt Conselheiro seria:
 ```
@@ -50,9 +50,9 @@ Lembrando que enquanto esse processo não se torna natural você tem esse recurs
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
 
 ## Leia também
-- [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
-  - [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
-  - [conselheiro](tipos-de-proMpt/conselheiro.md)
+- [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+  - [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+  - [conselheiro](tipos-de-prompt/conselheiro.md)
 - Partes de proMpts
   - [Papel](partes-de-proMpt/papel.md)
   - [Ação](partes-de-proMpt/acao.md)

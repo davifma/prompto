@@ -20,7 +20,7 @@ Uma forma de repensar um proMpt pode ser a inclusão de novos elementos. Em um p
 Como um chefe de cozinha descreva para o cardápio o que é um Ovo pochê?
 ```
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
@@ -35,7 +35,7 @@ Como um chefe de cozinha descreva o que é um Ovo pochê para um cardápio que s
 Ajustando-o eu poderia acrescentar mais Contexto, por exemplo.
 
 ### Ajuste 1
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
@@ -58,7 +58,7 @@ Ingredientes principais:
 
 ```
 ### Ajuste 2
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
@@ -68,7 +68,7 @@ Ingredientes principais:
 
 ### Ajuste 3
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
@@ -80,7 +80,7 @@ Ingredientes principais:
 
 ### Ajuste 4
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
@@ -118,7 +118,7 @@ Ingredientes principais:
 
 ```
 
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/6.png"  width="318" height="187">](../partes-de-proMpt/papel.md) **Chefe de cozinha**
 
@@ -137,7 +137,7 @@ Embora eu já esteja feliz com o resultado, eu poderia continuar essa conversa e
 ```
 Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser feitos com os mesmos ingredientes do ovo pochê, indique-os e já escreva suas descrições conforme o modelo anterior. Não repita nenhum prepado, preciso de pratos diferente usando os mesmos ingredientes base.
 ```
-[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-proMpt/conselheiro.md)
+[<img src="../imagens/cards/3.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
 [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-proMpt/contexto.md) **para o mesmo cardápio**
 
@@ -164,7 +164,7 @@ Nesta etapa de uso da IA eu diria que estamos em algum lugar entre o Ha e o Ri, 
 O desejo enquanto escrevo este material é que todos possam inovar em suas vidas e profissões com um pouco do aprendizado que possam ter tido por aqui.
 
 ## Leia também
-- ### [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
+- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
   - #### [O Básico bem feito](proMpt-basico.md)
   - #### [Completo ou complexo?](proMpts-complexos.md) 

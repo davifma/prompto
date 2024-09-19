@@ -9,7 +9,7 @@ Para mim, o que fica muito claro, é que antes de pensar na escrita do proMpt, �
 
 Esses são pontos fundamentais para você saber que tipo de proMpt deseja criar, e a partir daí iniciar a sua redação.
 
-[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-proMpt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-proMpt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-proMpt/mais-escolhas.md) 
+[<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
 Definido isso já posso escrever o meu proMpt sem muita dor. Simplesmente vá lá e escreva. Se der certo ótimo, senão reflita, eu incluí os elementos básicos para alcançar o resultado desejado? Qual é a posição da IA sobre a minha solicitação? Eu disse como ela deveria agir? A atividade que ela deveria realizar está claro? É claro o que deve ser feito? E aplicação do resultado esperado? Está evidente em qual contexto essa resposta deve se encaixar? 
 
@@ -33,7 +33,7 @@ Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula c
 
 Nesse proMpt teriamos a seguinte estrutura já desenhada:
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md) **Minha intenção é receber uma orientação sobre moda**
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) **Minha intenção é receber uma orientação sobre moda**
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **A IA deve me dar exemplos par aum guarda roupas capsula de outono**
 
@@ -89,7 +89,7 @@ Aqui, nós usamos e temos uma estrutura de proMpt exemplificda bastante completa
 
 A estrutura que temos aqui seria algo como abaixo:
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-proMpt/conselheiro.md) 
+[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) 
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) 
 
@@ -108,8 +108,8 @@ Quanto mais complexa a sua necessidade, eu entendo que, mais específica deve se
 Todavia, não importa o quão complexos e específicos sejam seus proMpts sempre vale lembrar que o Humano de fato é você e, por isso, o responsável pelo uso do resultado gerado que pode não ser factual, as IAs, não são facutais assim cabendo sempre a curadoria desses resultados.
 
 ## Leia também
-- [Tipos de proMpts e Agentes](tipos-de-proMpt/README.md)
-  - [Cocriando sua IA](tipos-de-proMpt/cocriacao.md)
+- [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+  - [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
   - [O Básico bem feito](proMpt-basico.md)
 - Partes de proMpts
   - Para controlar mais o resultado 

@@ -18,7 +18,7 @@ Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "
 ```
 Aqui temos uma estrutura mais específica que pode impactar bastante no resultado final.
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-proMpt/criativo.md)
+[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
 [<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md) **Crie uma foto** 
 
@@ -42,7 +42,7 @@ Escreva um versinho sobre inteligência artificial e mostre esse verso como se f
 
 Aqui adicionamos apenas o equipamento e, sim, teremos um resultado diferente. 
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-proMpt/criativo.md)
+[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
 [<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md) **Escreva um versinho** 
 

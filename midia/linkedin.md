@@ -22,7 +22,7 @@
 
 [Quando pensamos em integrar a Inteligência Artificial (IA) ao nosso ambiente de trabalho, a primeira pergunta que surge é: como essa tecnologia pode melhorar nossas práticas e processos?](https://www.linkedin.com/posts/davifma_agilidade-transformaaexaetodigital-aiplanningpoker-activity-7230906282637950976-vIZo)
 
-[Você já pensou em como a Inteligência Artifícial (IA) pode transformar a maneira como trabalhamos, colaboramos e inovamos?](https://www.linkedin.com/posts/davifma_tipos-de-proMpts-e-agentes-activity-7230543894122291201-TA0T)
+[Você já pensou em como a Inteligência Artifícial (IA) pode transformar a maneira como trabalhamos, colaboramos e inovamos?](https://www.linkedin.com/posts/davifma_tipos-de-prompts-e-agentes-activity-7230543894122291201-TA0T)
 
 [Ao utilizar o modificador de "Escolhas" em proMpts, adicionamos uma camada de foco que direciona a IA para uma resposta mais específica e útil.](https://www.linkedin.com/posts/davifma_criativo-activity-7229456761663967233-FfbT)
 
@@ -30,6 +30,6 @@
 
 [Quando falamos em proMpts do tipo "Conselheiro", estamos nos referindo a interações com IA que buscam uma opinião, exploram alternativas ou validam caminhos.](https://www.linkedin.com/posts/davifma_conselheiro-activity-7227665711358214144-6FAm)
 
-[Para tarefas repetitivas e rotineiras, o uso de Inteligência Artificial (IA) pode ser um divisor de águas.](https://www.linkedin.com/posts/davifma_proMptotipos-de-proMpttarefeiromd-at-main-activity-7227310698031136770-xJLP)
+[Para tarefas repetitivas e rotineiras, o uso de Inteligência Artificial (IA) pode ser um divisor de águas.](https://www.linkedin.com/posts/davifma_proMptotipos-de-prompttarefeiromd-at-main-activity-7227310698031136770-xJLP)
 
 [O que um(a) Dev precisa agora?](https://www.linkedin.com/posts/activity-7224088557248794624-BKFu)
