@@ -24,5 +24,7 @@ O primeiro ponto para facilitar esse processo de uso e evolução do uso das IAs
 
 Básicamente usei esses dois Slides para contar a mesma história que abriu esse texto. Em seguida entrei no que interessa, que é falar sobre as possibilidades que as IAs nos dão, culminando nos três tipos de base [tarefeiro](../../../../tipos-de-prompt/tarefeiro.md), [conselheiro](../../../../tipos-de-prompt/conselheiro.md) e [criativo](../../../../tipos-de-prompt/tarefeiro.md).
 
+Para apoiar essa construção e diálogo eu trouxe alguns Slides que intercalamos com a construção coletiva dos participantes.
+
 
 
