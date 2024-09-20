@@ -99,28 +99,38 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 ## Expectativas de soluções por IA
 <table>
   <tr>
- <td><img src="../../../../imagens/cards/3.png" width="33%" height="33%"></td>
- <td><img src="../../../../imagens/cards/2.png" width="33%" height="33%"></td>
- <td><img src="../../../../imagens/cards/4.png" width="33%" height="33%"></td>
+ <td><img src="../../../../imagens/cards/3.png" width="100%"></td>
+ <td><img src="../../../../imagens/cards/2.png" width="100%"></td>
+ <td><img src="../../../../imagens/cards/4.png" width="100%"></td>
 </tr>
 <tr>
   <td>
-- Tirar dúvidas
-- Buscar soluções no Projeto
-- Aconselhar sobre as necessidades
-- Gerar Textos para o produto
-- Desenvolvimento:
-  - Buscar bugs
+
+    Tirar dúvidas
+
+    Buscar soluções no Projeto
+    
+    Aconselhar sobre as necessidades
+    
+    Gerar Textos para o produto
+    
+    Desenvolvimento:
+  
+     - Buscar bugs
  </td>
 <td>
-- Organizar a documentação
-- Organizar as tarefas
-- Desenvolvimento:
+  Organizar a documentação
+  
+  Organizar as tarefas
+  
+  Desenvolvimento:
+  
   - Gerar código
+    
   - Correção de estruturas de código (normatização)
 </td>
 <td>
-- Criar roteiros e rotinas
+  Criar roteiros e rotinas
 </td>
   </tr>
 </table>
