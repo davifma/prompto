@@ -96,6 +96,8 @@ Além disso, ainda tivemos um feedback claro de quais atividades seriam mais esp
 
 Como podemos ver, de cada perfil de agente esperasse algo:
 
+## Expectativas de soluções por IA
+### Conselheiro
 <img src="../../../../imagens/cards/3.png" width="33%" height="33%" align="left">
 - Tirar dúvidas
 - Buscar soluções no Projeto
@@ -103,13 +105,15 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 - Gerar Textos para o produto
 - Desenvolvimento:
   - Buscar bugs
-<hr>
+
+### Tarefeiro
 <img src="../../../../imagens/cards/2.png" width="33%" height="33%" align="left"> 
 - Organizar a documentação
 - Organizar as tarefas
 - Desenvolvimento:
   - Gerar código
   - Correção de estruturas de código (normatização)
-<hr>
+
+### Criativo
 <img src="../../../../imagens/cards/4.png" width="33%" height="33%" align="left">
 - Criar roteiros e rotinas
