@@ -96,7 +96,7 @@ Além disso, ainda tivemos um feedback claro de quais atividades seriam mais esp
 
 Como podemos ver, de cada perfil de agente esperasse algo:
 
-## Expectativas de soluções por IA
+## Expectativas da equipe de soluções por IA
 <table>
   <tr>
  <td><img src="../../../../imagens/cards/3.png"></td>
