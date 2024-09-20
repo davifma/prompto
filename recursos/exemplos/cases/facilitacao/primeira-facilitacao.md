@@ -34,7 +34,7 @@ Entendo que esse trabalho maior de contextualização será necessário sempre q
 
 O próximo passo seria o [AI Planing Poker](../../../../tipos-de-prompt/cocriacao.md#ai-planing-poker).
 
-<img src="../../../../imagens/exemplos/time-001.PNG" width="49%" height="49%" align="left">
+<img src="../../../../imagens/exemplos/time-001.PNG" width="49%" height="49%" align="right">
 
 >[!CAUTION]
 > Aqui entendo que cometi um erro, devido a natureza acadêmica desse encontro eu pensei em usar a construção do baralho como recurso lúdico, como faço em outros casos, todavia aqui não há construção, as cartas, os passos, os tipos são sempre os mesmos três, por isso a experiência não foi tão rica e acabou tomando muito tempo.
