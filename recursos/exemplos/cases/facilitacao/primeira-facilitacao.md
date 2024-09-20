@@ -107,7 +107,7 @@ Como podemos ver, de cada perfil de agente esperasse algo:
   - Buscar bugs
 
 ### Tarefeiro
-<img src="../../../../imagens/cards/2.png" width="33%" height="33%" align="left"> 
+<img src="../../../../imagens/cards/2.png" width="33%" height="33%" align="left" style="clear:left"> 
 - Organizar a documentação
 - Organizar as tarefas
 - Desenvolvimento:
@@ -115,5 +115,5 @@ Como podemos ver, de cada perfil de agente esperasse algo:
   - Correção de estruturas de código (normatização)
 
 ### Criativo
-<img src="../../../../imagens/cards/4.png" width="33%" height="33%" align="left">
+<img src="../../../../imagens/cards/4.png" width="33%" height="33%" align="left"  style="clear:left">
 - Criar roteiros e rotinas
