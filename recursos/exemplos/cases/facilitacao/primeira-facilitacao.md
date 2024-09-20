@@ -105,18 +105,15 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 </tr>
 <tr>
   <td>
-
-    - Tirar dúvidas
-    
-    - Buscar soluções no Projeto
-
-    - Aconselhar sobre as necessidades
-    
-    - Gerar Textos para o produto
-    
-    - Desenvolvimento:
-    
-      - Buscar bugs
+    <ul>
+     <li>Tirar dúvidas</li>    
+     <li>Buscar soluções no Projeto</li>
+     <li>Aconselhar sobre as necessidades</li>
+     <li>Gerar Textos para o produto</li>
+     <li>Desenvolvimento:
+      <ul><li>Buscar bugs</li></ul>
+    </li>
+    </ul>
  </td>
 <td>
   Organizar a documentação
