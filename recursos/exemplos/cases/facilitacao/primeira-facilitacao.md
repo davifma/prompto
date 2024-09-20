@@ -90,6 +90,26 @@ O grupo deixou bem claro que certamente uma IA com fortes características de [C
 
 Com base nisso, e nas ferramentas de IAs que já haviamos levantado no começo da conversa já podemos ter uma boa ideia de quais são as ferramentas mais recomendadas para adoção. 
 
-O perfil de ferramenta desejada, ou de ferramentas necessárias, seria representado abaixo:
+Além disso, ainda tivemos um feedback claro de quais atividades seriam mais esperadas dessas IAs. Como um bonus imprevisto, dividias por áreas de conhecimento.
 
-<img src="../../../../imagens/cards/3.png" width="33%" height="33%"> <img src="../../../../imagens/cards/2.png" width="33%" height="33%"> <img src="../../../../imagens/cards/4.png" width="33%" height="33%">  
+<img src="../../../../imagens/exemplos/necessidades-de-ia-001.PNG" width="33%" height="33%">
+
+Como podemos ver, de cada perfil de agente esperasse algo:
+
+<img src="../../../../imagens/cards/3.png" width="33%" height="33%" align="left">
+- Tirar dúvidas
+- Buscar soluções no Projeto
+- Aconselhar sobre as necessidades
+- Gerar Textos para o produto
+- Desenvolvimento:
+  - Buscar bugs
+
+<img src="../../../../imagens/cards/2.png" width="33%" height="33%" align="left"> 
+- Organizar a documentação
+- Organizar as tarefas
+- Desenvolvimento:
+  - Gerar código
+  - Correção de estruturas de código (normatização)
+
+<img src="../../../../imagens/cards/4.png" width="33%" height="33%" align="left">
+- Criar roteiros e rotinas
