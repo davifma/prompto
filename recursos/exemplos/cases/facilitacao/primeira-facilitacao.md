@@ -22,7 +22,7 @@ O primeiro ponto para facilitar esse processo de uso e evolução do uso das IAs
 
 <img src="../../../../imagens/exemplos/ai-planning-poker-001.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-002.jpg" width="49%" height="49%">
 
-Básicamente usei esses dois Slides para contar a mesma história que abriu esse texto. Em seguida entrei no que interessa, que é falar sobre as possibilidades que as IAs nos dão, culminando nos três tipos de base [tarefeiro](../../../../tipos-de-prompt/tarefeiro.md), [conselheiro](../../../../tipos-de-prompt/conselheiro.md) e [criativo](../../../../tipos-de-prompt/tarefeiro.md).
+Básicamente usei esses dois Slides para contar a mesma história que abriu esse texto. Em seguida entrei no que interessa, que é falar sobre as possibilidades que as IAs nos dão, culminando nos três tipos de base [tarefeiro](../../../../tipos-de-prompt/tarefeiro.md), [conselheiro](../../../../tipos-de-prompt/conselheiro.md) e [criativo](../../../../tipos-de-prompt/criativo.md).
 
 Para apoiar essa construção e diálogo eu trouxe alguns Slides que intercalamos com a construção coletiva dos participantes.
 
@@ -48,6 +48,44 @@ De qualquer maneira, com as cartas em mãos seguimos para o [jogo](../../../../t
 
 <img src="../../../../imagens/exemplos/baralho-artesanal-001.PNG">
 
+Com todos os participantes munidos de suas cartas representando os tres tipos basais de uso de IAs, nós iniciamos a [AI Planing Poker](../../../../tipos-de-prompt/cocriacao.md#ai-planing-poker) com um questionamento.
 
+> Pensando no contexto geral dos nossos projetos qual dos três tipos de Agentes basais nos ajudariam mais? Escolham o agente em segredo entre os três e quando todos tiverem escolhido nós ergueremos as cartas.
 
+Infelizmente, na empolgação da facilitação acabei não fotografando esse momento. Mas, todos ergueram e, no nosso caso, a maioria esmagadora escolheu o [conselheiro](../../../../tipos-de-prompt/conselheiro.md). Continuei questionando.
 
+> Apenas quem escolheu o Conselheiro, como esse tipo de Agente pode nos ajudar?
+
+Fui anotando as respostas. O segundo mais votado foi o [tarefeiro](../../../../tipos-de-prompt/tarefeiro.md), então repeti o processo.
+
+> Apenas quem escolheu o Tarefeiro, como esse tipo de Agente pode nos ajudar?
+
+Novamente anotei. Embora apenas uma pessoa tenha escolhido o criativo, precisamos ouví-la.
+
+> Você, como esse o Criativo pode nos ajudar?
+
+Anotei sua resposta e segui.
+
+> Depois dessa conversa, alguém gostaria de alterar o Agente que escolheu? Não precisa dizer a alteração, apenas se gostaria de alterar.
+
+Alguns sinalizaram que sim, então continuei.
+
+> Todos mundo escolhe novamente o Agente que acredita ser mais útil em nossos projetos, não precisa mudar o que escolheu anteriormente, pode manter, mas se quiser também pode mudar.
+
+Aguardei todos e mostramos. Novamente uma maioria esmagadora de [Conselheiros](../../../../tipos-de-prompt/conselheiro.md), um pouco mais de [Tarefeiros](../../../../tipos-de-prompt/tarefeiro.md) que antes e nenhum criativo agora.
+
+Repeti e anotei.
+
+> Apenas quem escolheu o Conselheiro, como esse tipo de Agente pode nos ajudar?
+> Apenas quem escolheu o Tarefeiro, como esse tipo de Agente pode nos ajudar?
+> Depois dessa conversa, alguém gostaria de alterar o Agente que escolheu?
+
+Como todos sinalizaram que estavam satisfeitos e não queriam mudar então finalizamos. Qual o resultado?
+
+Bom, primeiro tivemos um diagnóstico de qual seria o perfil do Agente, ou quais Agentes seriam mais úteis, para os projetos do ponto de vista dos envolvidos.
+
+<img src="../../../../imagens/exemplos/agente-conselheiro-tarefeiro-criacao.PNG" width="33%" height="33%" align="left">
+
+O grupo deixou bem claro que certamente uma IA com fortes características de [Conselheiro](../../../../tipos-de-prompt/conselheiro.md) seria o mais importante, mas algumas atividades de um [Tarefeiro](../../../../tipos-de-prompt/tarefeiro.md) seriam desejadas e talvez, com resalvas, o uso de um [Criativo](../../../../tipos-de-prompt/criativo.md).
+
+Com base nisso, e nas ferramentas de IAs que já haviamos levantado no começo da conversa já podemos ter uma boa ideia de quais são as ferramentas mais recomendadas para adoção.
