@@ -124,10 +124,7 @@ Como podemos ver, de cada perfil de agente esperasse algo:
   Organizar as tarefas
   
   Desenvolvimento:
-  
   - Gerar código
-  - 
-    
   - Correção de estruturas de código (normatização)
 </td>
 <td>
