@@ -88,4 +88,8 @@ Bom, primeiro tivemos um diagnóstico de qual seria o perfil do Agente, ou quais
 
 O grupo deixou bem claro que certamente uma IA com fortes características de [Conselheiro](../../../../tipos-de-prompt/conselheiro.md) seria o mais importante, mas algumas atividades de um [Tarefeiro](../../../../tipos-de-prompt/tarefeiro.md) seriam desejadas e talvez, com resalvas, o uso de um [Criativo](../../../../tipos-de-prompt/criativo.md).
 
-Com base nisso, e nas ferramentas de IAs que já haviamos levantado no começo da conversa já podemos ter uma boa ideia de quais são as ferramentas mais recomendadas para adoção.
+Com base nisso, e nas ferramentas de IAs que já haviamos levantado no começo da conversa já podemos ter uma boa ideia de quais são as ferramentas mais recomendadas para adoção. 
+
+O perfil de ferramenta desejada, ou de ferramentas necessárias, seria representado abaixo:
+
+<img src="../../../../imagens/cards/3.png" width="33%" height="33%"> <img src="../../../../imagens/cards/2.png" width="33%" height="33%"> <img src="../../../../imagens/cards/4.png" width="33%" height="33%">  
