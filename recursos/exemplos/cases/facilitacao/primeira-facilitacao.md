@@ -99,24 +99,18 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 ## Expectativas de soluções por IA
 <table>
   <tr>
- <td><img src="../../../../imagens/cards/3.png" width="100%"></td>
- <td><img src="../../../../imagens/cards/2.png" width="100%"></td>
- <td><img src="../../../../imagens/cards/4.png" width="100%"></td>
+ <td><img src="../../../../imagens/cards/3.png"></td>
+ <td><img src="../../../../imagens/cards/2.png"></td>
+ <td><img src="../../../../imagens/cards/4.png"></td>
 </tr>
 <tr>
   <td>
-
-    Tirar dúvidas
-
-    Buscar soluções no Projeto
-    
-    Aconselhar sobre as necessidades
-    
-    Gerar Textos para o produto
-    
-    Desenvolvimento:
-  
-     - Buscar bugs
+    - Tirar dúvidas
+    - Buscar soluções no Projeto
+    - Aconselhar sobre as necessidades
+    - Gerar Textos para o produto
+    - Desenvolvimento:
+      - Buscar bugs
  </td>
 <td>
   Organizar a documentação
