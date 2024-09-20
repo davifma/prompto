@@ -116,14 +116,16 @@ Como podemos ver, de cada perfil de agente esperasse algo:
     </ul>
  </td>
 <td>
-  Organizar a documentação
-  
-  Organizar as tarefas
-  
-  Desenvolvimento:
-  - Gerar código
-  - Correção de estruturas de código (normatização)
-  
+  <ul>
+    <li>Organizar a documentação</li>
+    <li>Organizar as tarefas</li>
+    <li>Desenvolvimento:
+      <ul>
+        <li>Gerar código</li>
+        <li>Correção de estruturas de código (normatização)</li>
+      </ul>
+    </li>
+  </ul>
 </td>
 <td>
   Criar roteiros e rotinas
@@ -131,4 +133,6 @@ Como podemos ver, de cada perfil de agente esperasse algo:
   </tr>
 </table>
 
-Assim, com uma ferramenta lúdica e rápida, excluindo meus erros de primeira facilitação, você consegue ter um diagnóstico muito claro sobre como realmente uma IA pode auxiliar a sua equipe e quais são, de fato, suas necessidades nesse cenário.
+Como próximos passos, convidei ao grupo que, agora um uma diretriz geral sobre o uso de IAs, repetissem a experiência com seus núcleos menores e mais diretos de ação, com as equipes de seus projetos específicos, assim poderiam ter uma visão mais focada de suas necessidades específicas.
+
+Assim, com uma ferramenta lúdica e rápida, excluindo meus erros de primeira facilitação, conseguimos ter um diagnóstico muito claro sobre como realmente uma IA pode auxiliar esse grupo e quais são, de fato, suas necessidades nesse cenário.
