@@ -105,6 +105,7 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 </tr>
 <tr>
   <td>
+
     - Tirar dúvidas
     
     - Buscar soluções no Projeto
@@ -125,6 +126,7 @@ Como podemos ver, de cada perfil de agente esperasse algo:
   Desenvolvimento:
   
   - Gerar código
+  - 
     
   - Correção de estruturas de código (normatização)
 </td>
@@ -133,3 +135,5 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 </td>
   </tr>
 </table>
+
+Assim, com uma ferramenta lúdica e rápida, excluindo meus erros de primeira facilitação, você consegue ter um diagnóstico muito claro sobre como realmente uma IA pode auxiliar a sua equipe e quais são, de fato, suas necessidades nesse cenário.
