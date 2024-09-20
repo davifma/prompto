@@ -105,9 +105,11 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 - Gerar Textos para o produto
 - Desenvolvimento:
   - Buscar bugs
+  
+<hr style="clear:both">
 
 ### Tarefeiro
-<img src="../../../../imagens/cards/2.png" width="33%" height="33%" align="left" style="clear:left"> 
+<img src="../../../../imagens/cards/2.png" width="33%" height="33%" align="left"> 
 - Organizar a documentação
 - Organizar as tarefas
 - Desenvolvimento:
