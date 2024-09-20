@@ -28,4 +28,8 @@ Para apoiar essa construção e diálogo eu trouxe alguns Slides que intercalamo
 
 <img src="../../../../imagens/exemplos/lousa-000.png" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-003.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/lousa-001.png" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-004.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-005.jpg" width="49%" height="49%">
 
+Como podem notar pela sequência de imagens, iniciamos falando sobre os agentes de IA que todos já conheciam, então nós classificamos os seus usos e então eu demonstrei como todos esses possíveis usos findam nos três tipos básicos de uso que este material mapeia.
+
+
+
 
