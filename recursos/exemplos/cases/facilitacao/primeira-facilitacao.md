@@ -26,5 +26,6 @@ Básicamente usei esses dois Slides para contar a mesma história que abriu esse
 
 Para apoiar essa construção e diálogo eu trouxe alguns Slides que intercalamos com a construção coletiva dos participantes.
 
+<img src="../../../../imagens/exemplos/lousa-000.png" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-003.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/lousa-001.png" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-004.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-005.jpg" width="49%" height="49%">
 
 
