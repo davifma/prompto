@@ -28,7 +28,24 @@ Para apoiar essa construção e diálogo eu trouxe alguns Slides que intercalamo
 
 <img src="../../../../imagens/exemplos/lousa-000.png" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-003.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/lousa-001.png" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-004.jpg" width="49%" height="49%"> <img src="../../../../imagens/exemplos/ai-planning-poker-005.jpg" width="49%" height="49%">
 
-Como podem notar pela sequência de imagens, iniciamos falando sobre os agentes de IA que todos já conheciam, então nós classificamos os seus usos e então eu demonstrei como todos esses possíveis usos findam nos três tipos básicos de uso que este material mapeia.
+Como podem notar pela sequência de imagens, iniciamos falando sobre os agentes de IA que todos já conheciam, então nós classificamos os seus usos e então eu demonstrei como todos esses possíveis usos findam nos três tipos base de uso que este material mapeia.
+
+Entendo que esse trabalho maior de contextualização será necessário sempre que percebermos ausencia ou diferenças grandes de conhecimento no uso intencional de IAs, o objetivo aqui é deixar todo mundo na mesma página.
+
+O próximo passo seria o [AI Planing Poker](../../../../tipos-de-prompt/cocriacao.md#ai-planing-poker).
+
+<img src="../../../../imagens/exemplos/time-001.PNG" width="49%" height="49%" align="left">
+>[!CAUTION]
+> Aqui entendo que cometi um erro, devido a natureza acadêmica desse encontro eu pensei em usar a construção do baralho como recurso lúdico, como faço em outros casos, todavia aqui não há construção, as cartas, os passos, os tipos são sempre os mesmos três, por isso a experiência não foi tão rica e acabou tomando muito tempo.
+
+Em alternativa, nas próximas vezes que eu não tiver as cartas impressas eu usarei o [smart-ai-planing-poker.pdf](../../../../recursos/ferramentas/smart-ai-planing-poker.pdf), basta pedir que todos baixem uma cópia em seus mobiles e, pronto, todos tem os recursos necessários para o jogo.
+
+>[!NOTE]
+>Enquanto escrevia este me ocorreu que outra solução seria usar a propria IA, como a [OratóriaFMA](http://bit.ly/oratoriafma) por exemplo, para criar as cartas, já explorando um pouco a construção de proMpts implicitamente.
+
+De qualquer maneira, com as cartas em mãos seguimos para o [jogo](../../../../tipos-de-prompt/cocriacao.md#ai-planing-poker).
+
+<img src="../../../../imagens/exemplos/baralho-artesanal-001.PNG">
 
 
 
