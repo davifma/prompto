@@ -18,7 +18,7 @@ Como incluir um local pode influenciar? Vamos testar.
 ```
 Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para Cards com o logo "proMpto" e a camera usada é uma Câmera Instantânea com uma lente grande angular. Eles estão no alto do Corcovado no Rio de Janeiro, em 2024.
 ```
-!(../../imagens/exemplos/foto-com-local.png)
+<img src="../../imagens/exemplos/foto-com-local.png">
 
 Nesse caso temos um proMpt bastante interessante e complexo.
 
