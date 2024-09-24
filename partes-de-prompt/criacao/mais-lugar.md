@@ -1,5 +1,6 @@
 # Lugar
 *(Criação)*
+
 ***Qual o local, ano ou era que a criação deveria refletir.***
 
 <img src="../../imagens/cards/017.png"  width="318" height="187" align="left">
