@@ -4,7 +4,9 @@
 
 Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar a usá-las intencionalmente.
 
-Essa é uma abordagem lúdica e evolucionária para o letramento no uso intencional de IAs no seu dia a dia.
+Essa é uma abordagem lúdica e evolucionária. 
+
+Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a dia.
 
 ## Índice
 - ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
