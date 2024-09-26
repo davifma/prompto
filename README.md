@@ -8,7 +8,7 @@ Essa é uma abordagem lúdica e evolucionária.
 
 Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a dia.
 
-## Índice
+## Jornada
 - ### Trilha Principal
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
