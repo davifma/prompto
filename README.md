@@ -9,45 +9,45 @@ Essa é uma abordagem lúdica e evolucionária.
 Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a dia.
 
 ## Índice
-- ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
-  - #### [O Básico bem feito](proMpt-basico.md)
-  - #### [Completo ou complexo?](proMpts-complexos.md) 
-  - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
-- ### Caminho da Consciência
+- ### Trilha Principal
+- #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+- #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+  - ##### [O Básico bem feito](proMpt-basico.md)
+  - ##### [Completo ou complexo?](proMpts-complexos.md) 
+  - ##### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- #### Caminho da Consciência
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-- ### Caminho da Produção
-  - #### Caminho de embasamento
+- #### Caminho da Produção
+  - ##### Caminho de embasamento
     - [Papel](partes-de-proMpt/papel.md)
     - [Ação](partes-de-proMpt/acao.md)
     - [Contexto](partes-de-proMpt/contexto.md)
-  - #### Caminho para controle
+  - ##### Caminho para controle
       - [Formato](partes-de-proMpt/controle/formato.md)
       - [Limites](partes-de-proMpt/controle/limites.md)
-  - #### Caminho para Informação
+  - ##### Caminho para Informação
       - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
       - [Limites](partes-de-proMpt/controle/limites.md)
       - [Dados Externos](partes-de-proMpt/controle/dados-externos.md)
-  - #### Caminho para Criação
+  - ##### Caminho para Criação
       - [Formato](partes-de-proMpt/controle/formato.md)
       - [Assunto](partes-de-proMpt/ciacao/assunto.md)
       - [Equipamento](partes-de-proMpt/ciacao/equipamemto.md)
-- ### Caminho para Transcendência
+- #### Caminho para Transcendência
   - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
   - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
-- ### Variações
-  - #### Trilha Básica
-    - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
-    - [Conselheiro](tipos-de-prompt/conselheiro.md)
-    - [Criativo](tipos-de-prompt/criativo.md)
-    - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-    - [Papel](partes-de-proMpt/papel.md)
-    - [Ação](partes-de-proMpt/acao.md)
-    - [Contexto](partes-de-proMpt/contexto.md)
+- ### Trilha Básica
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Papel](partes-de-proMpt/papel.md)
+  - [Ação](partes-de-proMpt/acao.md)
+  - [Contexto](partes-de-proMpt/contexto.md)
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)
