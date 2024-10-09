@@ -5,7 +5,7 @@ Temos duas possibilidades, a primeira mais pessimista acontecerá quando a respo
 
 Já, em outra possibilidade, onde o proMpt consegiu o resultado esperado, caso valha a pena e, principalmente, se tartar-se de um trabalho mais complexo e longo, então Continue a conversa para refinar ou aprofundar esse resultado.
 
-<img src="../imagens/cards/01003.png"  width="318" height="187">  |  <img src="../imagens/cards/015.png"  width="318" height="187"> 
+<img src="../imagens/cards/01003.png"  width="318" height="187">  |  <img src="../imagens/cards/01004.png"  width="318" height="187"> 
 
 ## Ajuste
 Esse Card é um lembrete de que esse é um trabalho evolucionário, caso em uma primeira requisição, em seu primeiro proMpt, você ainda não tenha alcançado o resultado desejado basta Ajustá-lo e repetir esse processo quantas vezes for necessário, contanto que tenhamos um bom custo benefício.
@@ -96,7 +96,7 @@ Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, poré
 
 ## Continue a conversa
 Outra possibilidade é que sua requisição tenha sido satisfatóriamente atendida, nesse caso, vale pesar se continuar essa conversa vale a pena.
-<img src="../imagens/cards/015.png"  width="318" height="187" align="left"> 
+<img src="../imagens/cards/01004.png"  width="318" height="187" align="left"> 
 - Mesmo satisfeito, eu preciso e/ou poderia me aprofundar mais nisso?
 - Tem outos pontos relacionados ao mesmo problema que eu desejo e/ou necessito explorar?
 - Continuar essa exploração vai economizar ou gastar o meu tempo?
@@ -130,7 +130,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
 
-<img src="../imagens/cards/015.png"  width="318" height="187"> 
+<img src="../imagens/cards/01004.png"  width="318" height="187"> 
 
 Embora eu já esteja feliz com o resultado, eu poderia continuar essa conversa e explorar novas possibilidades. Em continuação eu escrevo um novo proMpt, inclusive mais simples, pois entendo que o Agente de IA (Agente) acumulará o aprendizado com o proMpt anterior.
 
@@ -145,7 +145,7 @@ Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser fe
 
 [<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/limites.md) **sem repetir os preparos**
 
-<img src="../imagens/cards/015.png"  width="318" height="187"> 
+<img src="../imagens/cards/01004.png"  width="318" height="187"> 
 
 Essa conversa poderia ser levada a diante por muitas mensagens, lapidando ou aprofundando os resultados e um processo útil e único de melhoria continua.
 ## Aprenda com a IA enquanto ela aprende com você

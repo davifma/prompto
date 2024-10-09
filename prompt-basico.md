@@ -5,7 +5,7 @@ O primeiro passo para ter um bom proMpt é saber, realmente, qual é o seu objet
 
 Escolher um agente mais adequado até pode ser uma atividade um pouco mais complexa, mas saber o tipo de proMpt que vai escrever com antecedência deve se tornar natural, mas, em um primeiro momento, enquanto ainda precisar de apoio lembre-se dos tipos de proMpts fundamentais.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
 Definido o tipo de proMpt você já terá meio caminho para uma solicitação muito mais efetiva. Vamos supor que você optou por um proMpt "Conselheiro", quais seriam os proximos passos? Bom, um exemplo de proMpt Conselheiro seria:
 ```

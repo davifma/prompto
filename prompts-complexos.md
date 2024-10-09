@@ -9,7 +9,7 @@ Para mim, o que fica muito claro, é que antes de pensar na escrita do proMpt, �
 
 Esses são pontos fundamentais para você saber que tipo de proMpt deseja criar, e a partir daí iniciar a sua redação.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
 Definido isso já posso escrever o meu proMpt sem muita dor. Simplesmente vá lá e escreva. Se der certo ótimo, senão reflita, eu incluí os elementos básicos para alcançar o resultado desejado? Qual é a posição da IA sobre a minha solicitação? Eu disse como ela deveria agir? A atividade que ela deveria realizar está claro? É claro o que deve ser feito? E aplicação do resultado esperado? Está evidente em qual contexto essa resposta deve se encaixar? 
 

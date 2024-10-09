@@ -13,7 +13,7 @@ Por isso eu trago tipos básicos de proMpts, ou seja, para o que você pode usar
 
 Assim eu acabo afunilando, relacionando, todos esses usos a três tipos básicos para proMpts ou agentes, e é simples, buscamos as IAs para realizar tarefas simples, demoradas ou repetitivas em nosso lugar, para nos trazer informações e direcionamentos sobre assuntos nos quais presimos de apoio e para criar artefatos que consumiriam nosso tempo ou que não temos o conhecimento técnico ou talento necessário para criá-los sozinhos.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
 Você ainda pode ter a necessidade de diminuir a possibilidade de respostas que esses Agentes vão te trazer, por isso adicionei "mais escolhas". Esse [**Caminho da Consciência**](tipos-de-prompt/README.md) eu considero como o Trilha Básica  ou Inícial para trabalhamos com IAs, seguindo a analogia do mapa, antes de desenharmos a nossa rota precisamos saber para onde desejamos ir, qual será o destino, ter **consciência** dos nossos objetivos, esse Deck nos ajuda a pensar nisso, inclusive permitindo cocriar essconhecimento com nossos times usando um [**AI Planing Poker**](tipos-de-prompt/cocriacao.md#ai-planing-poker) por exemplo.
 
@@ -64,7 +64,7 @@ Essas são algumas perguntas que você pode se fazer, que são representações 
 
 Assim, neste ponto já temos um guia bastante completo para as nossas aventuras pelos caminhos das IAs.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
 [<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
