@@ -99,7 +99,7 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 ## Expectativas da equipe de soluções por IA
 <table>
   <tr>
- <td><img src="../../../../imagens/cards/3.png"></td>
+ <td><img src="../../../../imagens/cards/002.png"></td>
  <td><img src="../../../../imagens/cards/001.png"></td>
  <td><img src="../../../../imagens/cards/4.png"></td>
 </tr>

@@ -39,7 +39,7 @@ E, certamente, poderiamos ter ainda muitos mais outros tipos.
 
 Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita de proMpts que venho narrando aqui eu consolidei os proMpts em três tipos basais (que variam todos os outros acima e muitos mais) com a possibilidade de mais um modificador que poderia ser aplicado nesses.
 
-[<img src="../imagens/cards/001.png" width="187" height="187">](tarefeiro.md) [<img src="../imagens/cards/00001.png" width="187" height="187">](conselheiro.md) [<img src="../imagens/cards/003.png" width="187" height="187">](criativo.md)
+[<img src="../imagens/cards/001.png" width="187" height="187">](tarefeiro.md) [<img src="../imagens/cards/00001.png" width="187" height="187">](conselheiro.md) [<img src="../imagens/cards/00002.png" width="187" height="187">](criativo.md)
 
 [<img src="../imagens/cards/004.png" width="187" height="187">](mais-escolhas.md) 
 
@@ -53,7 +53,7 @@ Para mim, pensando em Agentes, eu consigo identificar 15 subtipos de Agentes par
 
 ![Combinações Tarefeiro](../imagens/cards/001.png)
 ![Combinações Conselheiro](../imagens/cards/00001.png)
-![Combinações Criativo](../imagens/cards/003.png)
+![Combinações Criativo](../imagens/cards/00002.png)
 
 Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts esteja limitada apenas a criatividade humana, quanto as suas aturezas ou tipos eu creio que haja uma maior binariedade, ou seja, um proMpt será Tarefeiro (para executar alto), ou Conselheiro (para dar uma informação) ou Criativo (para criar algo), creio que seja rara a mistura desses tipos, porém podemos adicionar um modificador de escolhas a qualquer um deles, mas do meu ponto de vista faz mais sentido para o Conselheiro.
 

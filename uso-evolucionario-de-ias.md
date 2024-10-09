@@ -26,7 +26,7 @@ Nesse caso, só de nos lembrarmos do nosso [Caminho de embasamento](README.md#de
 Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
@@ -47,7 +47,7 @@ Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combi
 Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
@@ -69,7 +69,7 @@ Talvez, para esse caso específico, você já esteja satisfeito com o resultado,
 Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse guarda-roupas para o inverno.
 ```
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
@@ -85,7 +85,7 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/015.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
 
-[<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
