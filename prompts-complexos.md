@@ -83,7 +83,7 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 Limitando as possibilidades algumas vezes você póderá ter um resultado mais realista, além disso, o mundo real traz suas limitações tmabém e é bastante válido repplicá-las em nossas tarefas e nas tarefas das IAs.
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+[<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 Aqui, nós usamos e temos uma estrutura de proMpt exemplificda bastante completa, que pode ser muito útil para solução de problemas mais complexos, é legal pensar que nem sempre todos esses elementos serão necessários e sua escolha deve passar a ser natural com o tempo e prática, mas esse pode ser um bom guia para melhorar o desempenho de seus proMpts inicialmente, expeciamente se você não é uma pessoa de área tecnica acostumada com a escrita de logicas esse caminho pode ser bem mais natural e simples.
 
@@ -101,7 +101,7 @@ A estrutura que temos aqui seria algo como abaixo:
 
 [<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) 
+[<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) 
 
 Quanto mais complexa a sua necessidade, eu entendo que, mais específica deve ser a escrita dos seus proMpts e ter esses elementos, essas partes, possíveis para bum bom proMpt em mente certamente deve facilitar essa atividade. Além disso é sempre importante lembrar que os Agentes de IA (Agentes), sobretudo generativas, de alguma forma buscam imitar uma resposta humana, assim, trata-los de forma semelhante a um humando em nossas instruções também deve ajudar. 
 

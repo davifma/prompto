@@ -59,7 +59,7 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 Como falamos bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
 
@@ -81,13 +81,13 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/01004.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
 
 [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
+[<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
 [<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
 

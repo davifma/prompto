@@ -62,7 +62,7 @@ Nesse caso eu não precisei copiar, colar, ou digitar a lista, apenas anexei ao 
 
 [<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Leia o arquivo anexo e crie um relatório com a quantidade de pessoas e a média de idade delas por estado**
 
-[<img src="../../imagens/cards/11.png"  width="318" height="187">](../../partes-de-prompt/controle/limites.md) **não precisa explicar o processo apenas mostre o relatório.**
+[<img src="../../imagens/cards/010.png"  width="318" height="187">](../../partes-de-prompt/controle/limites.md) **não precisa explicar o processo apenas mostre o relatório.**
 
 [<img src="../../imagens/cards/1003.png"  width="318" height="187">](../../partes-de-prompt/informacao/dados-externos.md) **Arquivo ["lista_pessoas.txt"](../../recursos/exemplos/lista_pessoas.txt) anexado**
 
