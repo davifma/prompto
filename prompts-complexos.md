@@ -66,7 +66,7 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 Adicionar um exemplo pode ser a forma mais simples, no final, de direcionar corretamente a IA para o resultado que você espera.
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+[<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
 Ainda poderiamos literalmente limitar as iformações a serem retornadas.
 
@@ -99,7 +99,7 @@ A estrutura que temos aqui seria algo como abaixo:
 
 [<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
+[<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) 
 

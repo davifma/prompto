@@ -39,7 +39,7 @@ Porém em muitos momentos podemos necessitar de bem mais especificidade para alc
 
 [<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
+[<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)
 
@@ -74,7 +74,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
+[<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)
 

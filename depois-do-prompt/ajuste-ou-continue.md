@@ -90,7 +90,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/008.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
-<img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
+<img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/009.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
 
 Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, porém você não precisa incluir algum elemento para fazer um ajuste, também pode retirar, inverter a ordem ou reescrever alguma parte, mudando qualquer um desses elementos, o limite é apenas a sua imaginação, por isso entendo que essa ferramenta deve facilitar a escrita de ["infinitos proMpts"](../um-mapa-para-infinitos-prompts.md) efetivamente.
 
@@ -128,7 +128,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/008.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
-[<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
+[<img src="../imagens/cards/009.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
 
 <img src="../imagens/cards/01004.png"  width="318" height="187"> 
 
