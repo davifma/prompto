@@ -100,7 +100,7 @@ Como podemos ver, de cada perfil de agente esperasse algo:
 <table>
   <tr>
  <td><img src="../../../../imagens/cards/3.png"></td>
- <td><img src="../../../../imagens/cards/2.png"></td>
+ <td><img src="../../../../imagens/cards/001.png"></td>
  <td><img src="../../../../imagens/cards/4.png"></td>
 </tr>
 <tr>
