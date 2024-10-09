@@ -110,7 +110,7 @@ Todavia, não importa o quão complexos e específicos sejam seus proMpts sempre
 ## Leia também
 - [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
   - [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
-  - [O Básico bem feito](proMpt-basico.md)
+  - [O Básico bem feito](prompt-basico.md)
 - Partes de proMpts
   - Para controlar mais o resultado 
     - [Formato](partes-de-proMpt/controle/formato.md)

@@ -54,7 +54,7 @@ Perceba que a informação trabalhada pela IA não estaria disponível para ela,
 
 Todavia, em vez de "copiar e colar" a lista, hoje, grande parte dos agentes de IA permite que eu faça um upload (envio) de arquivos em minhas solicitações, então, outro exemplo seria o seguinte:
 
-<img src="../../imagens/exemplos/proMpt-dados-externos-anexados.PNG" alt="Leia o arquivo anexo e crie um relatório com a quantidade de pessoas e a média de idade delas por estado, não precisa explicar o processo apenas mostre o relatório.">
+<img src="../../imagens/exemplos/prompt-dados-externos-anexados.PNG" alt="Leia o arquivo anexo e crie um relatório com a quantidade de pessoas e a média de idade delas por estado, não precisa explicar o processo apenas mostre o relatório.">
 
 Nesse caso eu não precisei copiar, colar, ou digitar a lista, apenas anexei ao proMpt, que é uma forma comum de fornecer Dados Externos para os Agentes atuais. Aqui também temos um proMpt, mesmo pequeno, um pouco mais complexo e elaborado.
 
