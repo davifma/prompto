@@ -101,7 +101,7 @@ Todavia, ainda cabe lembrar, que não importa o quão bem escrita seja uma instr
     - [Papel](partes-de-proMpt/papel.md)
     - [Ação](partes-de-proMpt/acao.md)
     - [Contexto](partes-de-proMpt/contexto.md)
-  - #### [Completo ou complexo?](proMpts-complexos.md) 
+  - #### [Completo ou complexo?](prompts-complexos.md) 
     - ##### Controle
       - [Formato](partes-de-proMpt/controle/formato.md)
       - [Limites](partes-de-proMpt/controle/limites.md)

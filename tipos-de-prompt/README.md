@@ -103,7 +103,7 @@ Ponderando o quanto será gasto e ganho de vida usando a IA você deve ter um sa
 ## Referências
 PERPLEXITY. GROW é um acrônimo para GOAL? Disponível em: https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g. Acesso em: 12 out. 2023.
 
-WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/proMpts-chatgpt/>. Acesso em: 14 ago. 2024.
+WENI.AI. Prompts para ChatGPT: conheça os tipos e crie conversas inteligentes Disponível em: <https://weni.ai/blog/prompts-chatgpt/>. Acesso em: 14 ago. 2024.
 
 PERPLEXITY.AI. Quais são os tipos de proMpt que podemos escrever para IAs? Disponível em: <https://www.perplexity.ai/search/quais-sao-os-tipos-de-prompt-q-qDTBdIJbQLWlQA6h1uGafg>. Acesso em: 14 ago. 2024.
 

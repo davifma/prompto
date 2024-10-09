@@ -13,7 +13,7 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - ##### [O Básico bem feito](prompt-basico.md)
-  - ##### [Completo ou complexo?](proMpts-complexos.md) 
+  - ##### [Completo ou complexo?](prompts-complexos.md) 
   - ##### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
 - #### Caminho da Consciência
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)

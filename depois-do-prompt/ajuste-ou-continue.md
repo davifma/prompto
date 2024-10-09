@@ -167,7 +167,7 @@ O desejo enquanto escrevo este material é que todos possam inovar em suas vidas
 - ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - #### [O Básico bem feito](prompt-basico.md)
-  - #### [Completo ou complexo?](proMpts-complexos.md) 
+  - #### [Completo ou complexo?](prompts-complexos.md) 
 
 ## Relações
 <table>
