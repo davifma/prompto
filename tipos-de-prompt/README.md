@@ -51,9 +51,9 @@ Resumidamente treinamos Agentes ou solicitamos que as IAs nos ajudem com tarefas
 
 Para mim, pensando em Agentes, eu consigo identificar 15 subtipos de Agentes partindo e incluindo esses três, mas, entendo que se incluirmos o modificador de limitação de escolhas seriam 30, mas eu não vejo grande utilidade nisso, toda via a possíbilidade é real.
 
-![Combinações Tarefeiro](https://github.com/user-attachments/assets/b49a2e02-026e-4ebf-b037-11c2dbb756da)
-![Combinações Conselheiro](https://github.com/user-attachments/assets/aa7c45cf-de5d-49f6-ae76-0cc28bb2170e)
-![Combinações Criativo](https://github.com/user-attachments/assets/61c8bac7-bda9-4ed6-8460-f9336879d051)
+![Combinações Tarefeiro](imagens/cards/001.png)
+![Combinações Conselheiro](imagens/cards/001.png)
+![Combinações Criativo](imagens/cards/001.png)
 
 Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts esteja limitada apenas a criatividade humana, quanto as suas aturezas ou tipos eu creio que haja uma maior binariedade, ou seja, um proMpt será Tarefeiro (para executar alto), ou Conselheiro (para dar uma informação) ou Criativo (para criar algo), creio que seja rara a mistura desses tipos, porém podemos adicionar um modificador de escolhas a qualquer um deles, mas do meu ponto de vista faz mais sentido para o Conselheiro.
 
