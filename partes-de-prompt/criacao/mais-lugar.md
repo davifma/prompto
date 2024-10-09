@@ -28,13 +28,13 @@ Nesse caso temos um proMpt bastante interessante e complexo.
 
 [<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md) **Crie uma foto** 
+[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto** 
 
-[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-proMpt/controle/formato.md) **uma foto no tamanho 54x86mm**
+[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
 
-[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-proMpt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
+[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 
-[<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-proMpt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
+[<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
 <img src="../../imagens/cards/017.png"  width="318" height="187">**no alto do Corcovado no Rio de Janeiro, em 2024**
 
@@ -58,11 +58,11 @@ Apenas essa mudança já gera um proMpt e resultados completamente diferentes.
 
 [<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-proMpt/acao.md) **Escreva um versinho** 
+[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho** 
 
-[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-proMpt/assunto.md) **sobre inteligência artificial**
+[<img src="../../imagens/cards/12.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
 
-[<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-proMpt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
+[<img src="../../imagens/cards/13.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
 
 <img src="../../imagens/cards/017.png"  width="318" height="187"> **a inclusão de um estado brasileiro**
 

@@ -25,11 +25,11 @@ De mais de 40 passos, ou partes, para uma boa escrita de proMpts em teoria, obse
 
 Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento, definir uma ação clara para a IA realizar e indicar o contexto no qual aquilo está acontecendo e será aplicado.
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Embora sejam Cards do **Caminho da Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-prompt/README.md) seriam o que podemos chamar de **Trilha Básica **, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](prompt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
 
@@ -37,17 +37,17 @@ De verdade, para a maioria dos meus casos de uso de IA esse Deck é uma boa repr
 
 Porém em muitos momentos podemos necessitar de bem mais especificidade para alcançarmos o resultado desejado em nossas consultas às IAs generativas, por isso nosso mapa tem muito mais indicações para que você possa fazer esse caminho com mais facilidade, esses são os demais Cards do nosso **Deack de Produção**.
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-proMpt/controle/formato.md)
+[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-proMpt/informacao/exemplos.md)
+[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md)
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)
 
-[<img src="imagens/cards/12.png"  width="318" height="187">](partes-de-proMpt/criacao/assunto.md)
+[<img src="imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/criacao/assunto.md)
 
-[<img src="imagens/cards/13.png"  width="318" height="187">](partes-de-proMpt/criacao/equipamento.md)
+[<img src="imagens/cards/13.png"  width="318" height="187">](partes-de-prompt/criacao/equipamento.md)
 
-[<img src="imagens/cards/14.png"  width="318" height="187">](partes-de-proMpt/informacao/dados-externos.md)
+[<img src="imagens/cards/14.png"  width="318" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
 Indicar em qual Formato você deseja essa resposta, dar Exemplos da resposta esperada, definir Limites e restrições para a resposta que seja sugerida, ter claro o foco e protagonismo no Assunto do que será criado, definir um Equipamento que a IA deve simular (ou usar) em sua resposta e, por fim, fornecer Dados Externos ao ecossistema que o Agente tem acesso autônomo para serem trabalhados, são elementos que podem enriquecer muito os resultados. 
 
@@ -66,23 +66,23 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/2.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/4.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/5.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md)
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md)
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-proMpt/controle/formato.md)
+[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-proMpt/informacao/exemplos.md)
+[<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md)
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)
 
-[<img src="imagens/cards/12.png"  width="318" height="187">](partes-de-proMpt/criacao/assunto.md)
+[<img src="imagens/cards/12.png"  width="318" height="187">](partes-de-prompt/criacao/assunto.md)
 
-[<img src="imagens/cards/13.png"  width="318" height="187">](partes-de-proMpt/criacao/equipamento.md)
+[<img src="imagens/cards/13.png"  width="318" height="187">](partes-de-prompt/criacao/equipamento.md)
 
-[<img src="imagens/cards/14.png"  width="318" height="187">](partes-de-proMpt/informacao/dados-externos.md)
+[<img src="imagens/cards/14.png"  width="318" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
 Embora, baseado nesse número de Cards, eu pudesse pensar que esse mapa poderia me levar apenas em 6.227.020.800 direções (ou combinações), se eu somar a essas combinações as infindáveis ideias que o seu cérebro humano pode ter para cada uma dessas peças, então eu posso afirmar sem medo algum que este é um mapa para você escrever infinitos proMpts de qualidade.
 
@@ -98,16 +98,16 @@ Todavia, ainda cabe lembrar, que não importa o quão bem escrita seja uma instr
     - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - ### Caminho da Produção
   - #### [O Básico bem feito](prompt-basico.md) 
-    - [Papel](partes-de-proMpt/papel.md)
-    - [Ação](partes-de-proMpt/acao.md)
-    - [Contexto](partes-de-proMpt/contexto.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
   - #### [Completo ou complexo?](prompts-complexos.md) 
     - ##### Controle
-      - [Formato](partes-de-proMpt/controle/formato.md)
-      - [Limites](partes-de-proMpt/controle/limites.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
     - ##### Informação
-      - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
-      - [Limites](partes-de-proMpt/controle/limites.md)
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
     - ##### Criação
-      - [Formato](partes-de-proMpt/controle/formato.md)
-      - [Formato](partes-de-proMpt/ciacao/assunto.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Formato](partes-de-prompt/ciacao/assunto.md)

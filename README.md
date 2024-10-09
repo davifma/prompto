@@ -22,20 +22,20 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - #### Caminho da Produção
   - ##### Caminho de embasamento
-    - [Papel](partes-de-proMpt/papel.md)
-    - [Ação](partes-de-proMpt/acao.md)
-    - [Contexto](partes-de-proMpt/contexto.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
   - ##### Caminho para controle
-      - [Formato](partes-de-proMpt/controle/formato.md)
-      - [Limites](partes-de-proMpt/controle/limites.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
   - ##### Caminho para Informação
-      - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
-      - [Limites](partes-de-proMpt/controle/limites.md)
-      - [Dados Externos](partes-de-proMpt/controle/dados-externos.md)
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Dados Externos](partes-de-prompt/controle/dados-externos.md)
   - ##### Caminho para Criação
-      - [Formato](partes-de-proMpt/controle/formato.md)
-      - [Assunto](partes-de-proMpt/ciacao/assunto.md)
-      - [Equipamento](partes-de-proMpt/ciacao/equipamemto.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Assunto](partes-de-prompt/ciacao/assunto.md)
+      - [Equipamento](partes-de-prompt/ciacao/equipamemto.md)
 - #### Caminho para Transcendência
   - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
@@ -45,9 +45,9 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-  - [Papel](partes-de-proMpt/papel.md)
-  - [Ação](partes-de-proMpt/acao.md)
-  - [Contexto](partes-de-proMpt/contexto.md)
+  - [Papel](partes-de-prompt/papel.md)
+  - [Ação](partes-de-prompt/acao.md)
+  - [Contexto](partes-de-prompt/contexto.md)
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)

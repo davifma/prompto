@@ -28,11 +28,11 @@ Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com 
 
 [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
 Mesmo já tendo um resultado promissor com esse, ainda podemos melhorar, adequa-lo ainda mais.
 
@@ -49,17 +49,17 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
-[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-proMpt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-proMpt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 Como falamos bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
 
@@ -71,25 +71,25 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-proMpt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-proMpt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
-[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-proMpt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/014.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-proMpt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 <img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/015.png"  width="318" height="187">](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
 
 [<img src="imagens/cards/3.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-proMpt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
+[<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-proMpt/acao.md) **adeque esse guarda-roupas para o inverno**
+[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
 
 [<img src="imagens/cards/016.png"  width="318" height="187">](depois-do-proMpt/use-diferentes-agentes.md) 
 
@@ -113,15 +113,15 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
   - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - ### Caminho da Produção
   - #### Caminho de embasamento
-    - [Papel](partes-de-proMpt/papel.md)
-    - [Ação](partes-de-proMpt/acao.md)
-    - [Contexto](partes-de-proMpt/contexto.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
   - #### Caminho para  Controle
-      - [Formato](partes-de-proMpt/controle/formato.md)
-      - [Limites](partes-de-proMpt/controle/limites.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
   - #### Caminho para  Informação
-      - [Exemplos](partes-de-proMpt/informacao/exemplos.md)
-      - [Limites](partes-de-proMpt/controle/limites.md)
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
 - ### Caminho para  Transcendência
   - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
@@ -132,9 +132,9 @@ Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tip
     - [Conselheiro](tipos-de-prompt/conselheiro.md)
     - [Criativo](tipos-de-prompt/criativo.md)
     - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
-    - [Papel](partes-de-proMpt/papel.md)
-    - [Ação](partes-de-proMpt/acao.md)
-    - [Contexto](partes-de-proMpt/contexto.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
 
 ## Referências
 KANBAN University. The official Kanban guide. Disponível em: https://kanban.university/wp-content/uploads/2021/04/The-Official-Kanban-Guide_Portuguese_A4.pdf. Acesso em: 12 set. 2024.
