@@ -39,7 +39,7 @@ E, certamente, poderiamos ter ainda muitos mais outros tipos.
 
 Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita de proMpts que venho narrando aqui eu consolidei os proMpts em três tipos basais (que variam todos os outros acima e muitos mais) com a possibilidade de mais um modificador que poderia ser aplicado nesses.
 
-[<img src="../imagens/cards/001.png" width="187" height="187">](tarefeiro.md) [<img src="../imagens/cards/002.png" width="187" height="187">](conselheiro.md)[<img src="../imagens/cards/003.png" width="187" height="187">](criativo.md)
+[<img src="../imagens/cards/001.png" width="187" height="187">](tarefeiro.md) [<img src="../imagens/cards/002.png" width="187" height="187">](conselheiro.md) [<img src="../imagens/cards/003.png" width="187" height="187">](criativo.md)
 
 [<img src="../imagens/cards/004.png" width="187" height="187">](mais-escolhas.md) 
 
