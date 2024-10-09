@@ -26,7 +26,7 @@ Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "
 
 Nesse caso temos um proMpt bastante interessante e complexo.
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
+[<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
 [<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto** 
 
@@ -56,7 +56,7 @@ Escreva um versinho sobre inteligência artificial e mostre esse verso como se f
 
 Apenas essa mudança já gera um proMpt e resultados completamente diferentes.
 
-[<img src="../../imagens/cards/4.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
+[<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
 [<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho** 
 

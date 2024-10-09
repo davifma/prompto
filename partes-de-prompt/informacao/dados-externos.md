@@ -1,6 +1,6 @@
 # Dados Externos
 ***São aquelas informações necessárias ou complementares que não estão disponíveis para consulta pública pela Inteligência Artificial (IA)***
- <img src="../../imagens/cards/14.png" align="left" width="637" height="375">
+ <img src="../../imagens/cards/1003.png" align="left" width="637" height="375">
 Esta provavelmente é uma instrução, ou recurso, que eu uso muito, ou principalmente, com proMpts Tarefeiros, quando quero que a IA manipule alguma informação que é minha, não está disponível abertamente para consulta e, por tanto, a IA não conseguiria acessar sem um envio ou solicitação exclusiva para isso.
 
 Por exemplo, imagine que eu tenho uma lista de participantes de um evento, que por algum motivo me foi fornecida em um [arquivo txt](../../recursos/exemplos/lista_pessoas.txt) e eu desejo saber a media de idade das pessoas desse evento. Eu poderia usar uma IA para isso, mas seria necessário fornecer essa lista.
@@ -48,7 +48,7 @@ Com essa simples estrutura, quase sem esforço, eu teria uma resposta sobre a m�
 
 [<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Leia a lista abaixo e cálcule a idade média das pessoas**
 
-[<img src="../../imagens/cards/14.png"  width="318" height="187">](../../partes-de-prompt/informacao/dados-externos.md) **Uma lista de trinta pessoas**
+[<img src="../../imagens/cards/1003.png"  width="318" height="187">](../../partes-de-prompt/informacao/dados-externos.md) **Uma lista de trinta pessoas**
 
 Perceba que a informação trabalhada pela IA não estaria disponível para ela, a menos que eu fornecesse. Aqui, cabe o cuidado legal e tecnico de investigar como o Agente de IA (Agente) que está sendo usado trata essas informações em relação a sigilo, confiabilidade, lgpd e afins. Além disso, a IA ainda pode cometer algum erro, então, dependendo importancia do uso desse resultado ele deveria ser revisado, mas, para usos mais comuns normalmente ela atenderá bem.
 
@@ -64,7 +64,7 @@ Nesse caso eu não precisei copiar, colar, ou digitar a lista, apenas anexei ao 
 
 [<img src="../../imagens/cards/11.png"  width="318" height="187">](../../partes-de-prompt/controle/limites.md) **não precisa explicar o processo apenas mostre o relatório.**
 
-[<img src="../../imagens/cards/14.png"  width="318" height="187">](../../partes-de-prompt/informacao/dados-externos.md) **Arquivo ["lista_pessoas.txt"](../../recursos/exemplos/lista_pessoas.txt) anexado**
+[<img src="../../imagens/cards/1003.png"  width="318" height="187">](../../partes-de-prompt/informacao/dados-externos.md) **Arquivo ["lista_pessoas.txt"](../../recursos/exemplos/lista_pessoas.txt) anexado**
 
 Adicionar Dados Externos ao proMpts que escreve, além de uma necessidade que será notável, é uma adequação ao Modelo GROW onde precisamos de informações para avaliar a Realidade atual em que determinada ação será aplicada.
 
