@@ -102,7 +102,7 @@ Sempre nos lembrando que, como humanos, somos os responsáveis pelos resultados 
 Para realizar os testes acima, caso ainda não tenha um Agente [Conselheiro](tipos-de-prompt/conselheiro.md) de sua preferência, pode utilizar a [OratórIAfma](http://bit.ly/oratoriafma). Basta copiar e colar os proMpts sugeridos aqui para ver os resultados e sua evolução. 
 ## Leia também
 - ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - #### [O Básico bem feito](proMpt-basico.md)
   - #### [Completo ou complexo?](proMpts-complexos.md) 
   - #### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)

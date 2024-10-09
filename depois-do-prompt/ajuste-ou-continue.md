@@ -92,7 +92,7 @@ Ingredientes principais:
 
 <img src="../imagens/cards/014.png"  width="318" height="187"> [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-proMpt/informacao/exemplos.md) **Exemplo da feijoada**
 
-Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, porém você não precisa incluir algum elemento para fazer um ajuste, também pode retirar, inverter a ordem ou reescrever alguma parte, mudando qualquer um desses elementos, o limite é apenas a sua imaginação, por isso entendo que essa ferramenta deve facilitar a escrita de ["infinitos proMpts"](../um-mapa-para-infinitos-proMpts.md) efetivamente.
+Essa é a forma mais obvia de ajustes a qual esses cards podem induzí-lo, porém você não precisa incluir algum elemento para fazer um ajuste, também pode retirar, inverter a ordem ou reescrever alguma parte, mudando qualquer um desses elementos, o limite é apenas a sua imaginação, por isso entendo que essa ferramenta deve facilitar a escrita de ["infinitos proMpts"](../um-mapa-para-infinitos-prompts.md) efetivamente.
 
 ## Continue a conversa
 Outra possibilidade é que sua requisição tenha sido satisfatóriamente atendida, nesse caso, vale pesar se continuar essa conversa vale a pena.
@@ -165,7 +165,7 @@ O desejo enquanto escrevo este material é que todos possam inovar em suas vidas
 
 ## Leia também
 - ### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+- ### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - #### [O Básico bem feito](proMpt-basico.md)
   - #### [Completo ou complexo?](proMpts-complexos.md) 
 

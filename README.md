@@ -11,7 +11,7 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
 ## Jornada
 - ### Trilha Principal
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
-- #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-proMpts.md)
+- #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - ##### [O Básico bem feito](proMpt-basico.md)
   - ##### [Completo ou complexo?](proMpts-complexos.md) 
   - ##### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
