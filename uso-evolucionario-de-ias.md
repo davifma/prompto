@@ -32,7 +32,7 @@ Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com 
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
 Mesmo já tendo um resultado promissor com esse, ainda podemos melhorar, adequa-lo ainda mais.
 
@@ -53,7 +53,7 @@ Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combi
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
 [<img src="imagens/cards/01003.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
@@ -75,7 +75,7 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
 [<img src="imagens/cards/01003.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
@@ -89,7 +89,7 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 [<img src="imagens/cards/11.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
 
 [<img src="imagens/cards/01005.png"  width="318" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
 

@@ -3,7 +3,7 @@
 
 ***Qual o local, ano ou era que a criação deveria refletir.***
 
-<img src="../../imagens/cards/017.png"  width="318" height="187" align="left">
+<img src="../../imagens/cards/01006.png"  width="318" height="187" align="left">
 
 Proposto como parte do Dynamic Prompting, por Linus Ekenstam, para aprimorar criação de imagens mais realistas. A ideia básica é que para criar uma boa imagem é necessária uma boa descrição do local que aquela imagem deve representar, o que pode incluir uma era ou um ano. Um bar de rock na Londres dos anos 70, certamente é diferente de um bar de rock na Amsterdã de 2000.
 
@@ -28,7 +28,7 @@ Nesse caso temos um proMpt bastante interessante e complexo.
 
 [<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto** 
+[<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto** 
 
 [<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
 
@@ -36,7 +36,7 @@ Nesse caso temos um proMpt bastante interessante e complexo.
 
 [<img src="../../imagens/cards/1002.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
-<img src="../../imagens/cards/017.png"  width="318" height="187">**no alto do Corcovado no Rio de Janeiro, em 2024**
+<img src="../../imagens/cards/01006.png"  width="318" height="187">**no alto do Corcovado no Rio de Janeiro, em 2024**
 
 Minha sugestão é testar outros locais e épocas para entender como isso afeta a imagem. Lembrando que o local pode ser menos específico ou não tão direto. Como: "um escritório em um prédio grande, com uma arquitetura industrial", ou "um jardim com muitas rosas e outras flores silvestres em meados 1972", lembre-se que q  quanto mais específico melhor.
 
@@ -58,13 +58,13 @@ Apenas essa mudança já gera um proMpt e resultados completamente diferentes.
 
 [<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho** 
+[<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho** 
 
 [<img src="../../imagens/cards/1001.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
 
 [<img src="../../imagens/cards/1002.png"  width="318" height="187">](../../partes-de-prompt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
 
-<img src="../../imagens/cards/017.png"  width="318" height="187"> **a inclusão de um estado brasileiro**
+<img src="../../imagens/cards/01006.png"  width="318" height="187"> **a inclusão de um estado brasileiro**
 
 Perceba que a inclusão de um "Lugar" para a criação é mais uma forma de tornar nossa solicitação mais específica e, por tanto, obter resultados mais próximos ao experado.
 

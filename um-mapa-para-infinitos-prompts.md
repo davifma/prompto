@@ -27,7 +27,7 @@ Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento,
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
@@ -68,7 +68,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 

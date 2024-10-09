@@ -24,7 +24,7 @@ Como um chefe de cozinha descreva para o cardápio o que é um Ovo pochê?
 
 [<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 Eu posso não gostar desse resultado e, neste caso, muito provavelmente isso acontece por eu não ter elaborado tão bem o meu proMpt.
 
@@ -39,7 +39,7 @@ Ajustando-o eu poderia acrescentar mais Contexto, por exemplo.
 
 [<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 <img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
@@ -62,7 +62,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 <img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
@@ -72,7 +72,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
@@ -84,7 +84,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
@@ -122,7 +122,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
 [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
@@ -141,7 +141,7 @@ Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser fe
 
 [<img src="../imagens/cards/8.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **para o mesmo cardápio**
 
-[<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **indique novos pratos que possam ser feitos com os mesmos ingredientes.**
+[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **indique novos pratos que possam ser feitos com os mesmos ingredientes.**
 
 [<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/limites.md) **sem repetir os preparos**
 

@@ -15,7 +15,7 @@ Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmen
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
@@ -43,7 +43,7 @@ Lembrando que enquanto esse processo não se torna natural você tem esse recurs
 
 [<img src="imagens/cards/002.png" width="187" height="318">](conselheiro.md)
 
-[<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 

@@ -17,7 +17,7 @@ Aqui teremos um proMpt criativo apenas com uma ação definida e o assunto.
 
 [<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md) 
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho**
+[<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho**
 
 [<img src="../../imagens/cards/1001.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
 
@@ -31,7 +31,7 @@ Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card 
 
 [<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie a imagem**
+[<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie a imagem**
 
 [<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **imagem com uma porporção de 16x9**
 
@@ -43,7 +43,7 @@ Pelo que temos visto por aqui, se a "Ação" é a parte mais básica de qualquer
 
 [<img src="../../imagens/cards/003.png" width="187" height="318">](../../tipos-de-prompt/criativo.md) 
 
-[<img src="../../imagens/cards/7.png"  width="318" height="187">](../../partes-de-prompt/acao.md)
+[<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md)
 
 [<img src="../../imagens/cards/1001.png"  width="318" height="187">](../../partes-de-prompt/assunto.md)
 
