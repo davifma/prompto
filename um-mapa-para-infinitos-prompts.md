@@ -29,7 +29,7 @@ Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento,
 
 [<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Embora sejam Cards do **Caminho da Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-prompt/README.md) seriam o que podemos chamar de **Trilha Básica **, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](prompt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
 
@@ -70,7 +70,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 

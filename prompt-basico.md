@@ -17,7 +17,7 @@ Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmen
 
 [<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Embora divirja da ordem mostrada acima vou iniciar melhorando a ação, que na verdade é o que eu já iniciei.
 ```
@@ -47,7 +47,7 @@ Lembrando que enquanto esse processo não se torna natural você tem esse recurs
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 ## Leia também
 - [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)

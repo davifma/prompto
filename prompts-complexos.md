@@ -19,7 +19,7 @@ Se as repostas para essas perguntas for não, vale a pena inserir cada um desses
 
 [<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
 Se, ainda assim, incluíndo esse corpo básico ao seu proMpt você não alcançou o resultado esperado, então devemos estar falando de uma solicitação mais complexa, por tanto, que necessita de mais detalhes para atender a essa complexidade.
 
@@ -39,7 +39,7 @@ Nesse proMpt teriamos a seguinte estrutura já desenhada:
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md) **A IA deve agir como um Fashionista especialista em dia-a-dia**
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **No momento estou refazendo o meu guarda-roupas para o outono**
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md) **No momento estou refazendo o meu guarda-roupas para o outono**
 
 Vamos acrescentar mais algumas informações para a IA poder trabalhar e trazer um resultado mais interessante.
 
@@ -95,7 +95,7 @@ A estrutura que temos aqui seria algo como abaixo:
 
 [<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md) 
 
-[<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) 
+[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md) 
 
 [<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
