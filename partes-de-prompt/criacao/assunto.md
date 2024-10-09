@@ -33,7 +33,7 @@ Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card 
 
 [<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie a imagem**
 
-[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **imagem com uma porporção de 16x9**
+[<img src="../../imagens/cards/008.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **imagem com uma porporção de 16x9**
 
 [<img src="../../imagens/cards/1001.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais 3 agentes de inteligência artificial o foco da imagem deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 

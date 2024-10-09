@@ -49,7 +49,7 @@ Estou refazendo o meu guarda roupas e gostaria de ter um guarda roupas capsula c
 
 Adicionamos
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
 Provavelmente já teremos um resultado bem diferente, mas podemos dar mais informação para direcionarmos ainda mais esse resultado.
 
@@ -97,7 +97,7 @@ A estrutura que temos aqui seria algo como abaixo:
 
 [<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md) 
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
+[<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
 [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 

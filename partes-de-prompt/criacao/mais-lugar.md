@@ -30,7 +30,7 @@ Nesse caso temos um proMpt bastante interessante e complexo.
 
 [<img src="../../imagens/cards/006.png"  width="318" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto** 
 
-[<img src="../../imagens/cards/9.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
+[<img src="../../imagens/cards/008.png"  width="318" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
 
 [<img src="../../imagens/cards/1001.png"  width="318" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 

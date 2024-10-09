@@ -76,7 +76,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/007.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
-<img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+<img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/008.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
 ### Ajuste 4
 
@@ -88,7 +88,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/007.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
-[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+[<img src="../imagens/cards/008.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
 <img src="../imagens/cards/01003.png"  width="318" height="187"> [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
 
@@ -126,7 +126,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/007.png"  width="318" height="187">](../partes-de-prompt/contexto.md) **um cardápio que será usado na inauguração de um restaurante de comida francesa e fusões modernas**
 
-[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
+[<img src="../imagens/cards/008.png"  width="318" height="187">](../partes-de-prompt/controle/formato.md) **parágrafo único com os ingredientes listados no final**
 
 [<img src="../imagens/cards/10.png"  width="318" height="187">](../partes-de-prompt/informacao/exemplos.md) **Exemplo da feijoada**
 
@@ -143,7 +143,7 @@ Continuando, para o mesmo cardápio, quais seriam outros pratos que podem ser fe
 
 [<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/acao.md) **indique novos pratos que possam ser feitos com os mesmos ingredientes.**
 
-[<img src="../imagens/cards/9.png"  width="318" height="187">](../partes-de-prompt/controle/limites.md) **sem repetir os preparos**
+[<img src="../imagens/cards/008.png"  width="318" height="187">](../partes-de-prompt/controle/limites.md) **sem repetir os preparos**
 
 <img src="../imagens/cards/01004.png"  width="318" height="187"> 
 

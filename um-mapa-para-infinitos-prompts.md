@@ -37,7 +37,7 @@ De verdade, para a maioria dos meus casos de uso de IA esse Deck é uma boa repr
 
 Porém em muitos momentos podemos necessitar de bem mais especificidade para alcançarmos o resultado desejado em nossas consultas às IAs generativas, por isso nosso mapa tem muito mais indicações para que você possa fazer esse caminho com mais facilidade, esses são os demais Cards do nosso **Deack de Produção**.
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
+[<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
 [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
@@ -72,7 +72,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
-[<img src="imagens/cards/9.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
+[<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
 
 [<img src="imagens/cards/10.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
 
