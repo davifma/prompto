@@ -22,7 +22,7 @@ Como um chefe de cozinha descreva para o cardápio o que é um Ovo pochê?
 
 [<img src="../imagens/cards/002.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
-[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
@@ -37,7 +37,7 @@ Ajustando-o eu poderia acrescentar mais Contexto, por exemplo.
 ### Ajuste 1
 [<img src="../imagens/cards/002.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
-[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
@@ -60,7 +60,7 @@ Ingredientes principais:
 ### Ajuste 2
 [<img src="../imagens/cards/002.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
-[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
@@ -70,7 +70,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/002.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
-[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
@@ -82,7 +82,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/002.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
-[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 
@@ -120,7 +120,7 @@ Ingredientes principais:
 
 [<img src="../imagens/cards/002.png" width="187" height="318">](../tipos-de-prompt/conselheiro.md)
 
-[<img src="../imagens/cards/006.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
+[<img src="../imagens/cards/005.png"  width="318" height="187">](../partes-de-prompt/papel.md) **Chefe de cozinha**
 
 [<img src="../imagens/cards/7.png"  width="318" height="187">](../partes-de-prompt/acao.md) **descreva para o cardápio o que é um Ovo pochê**
 

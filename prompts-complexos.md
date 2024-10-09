@@ -15,7 +15,7 @@ Definido isso já posso escrever o meu proMpt sem muita dor. Simplesmente vá l�
 
 Se as repostas para essas perguntas for não, vale a pena inserir cada um desses elementos em sua solicitação. Na verdade, algumas vezes, inserir apenas um deles já deve surtir um efeito positivo, então (principalmente se tiver tempo) deveria experiêntar inserir um de cada vez para ver os resultados e suas diferenças.
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
@@ -37,7 +37,7 @@ Nesse proMpt teriamos a seguinte estrutura já desenhada:
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) **A IA deve me dar exemplos par aum guarda roupas capsula de outono**
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md) **A IA deve agir como um Fashionista especialista em dia-a-dia**
+[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md) **A IA deve agir como um Fashionista especialista em dia-a-dia**
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) **No momento estou refazendo o meu guarda-roupas para o outono**
 
@@ -93,7 +93,7 @@ A estrutura que temos aqui seria algo como abaixo:
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md) 
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md) 
+[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md) 
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md) 
 

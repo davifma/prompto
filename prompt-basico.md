@@ -13,7 +13,7 @@ Quais são as tendências de moda para o outono?
 ```
 Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmente eu terei uma resposta bastante aberta, mas posso melhorar muito essa resposta aplicando três elementos simples ao meu proMpt.
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
@@ -45,7 +45,7 @@ Lembrando que enquanto esse processo não se torna natural você tem esse recurs
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
 [<img src="imagens/cards/8.png"  width="318" height="187">](partes-de-prompt/contexto.md)
 
