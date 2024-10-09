@@ -25,7 +25,7 @@ De mais de 40 passos, ou partes, para uma boa escrita de proMpts em teoria, obse
 
 Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento, definir uma ação clara para a IA realizar e indicar o contexto no qual aquilo está acontecendo e será aplicado.
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
@@ -66,7 +66,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
 
-[<img src="imagens/cards/6.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/papel.md)
 
 [<img src="imagens/cards/7.png"  width="318" height="187">](partes-de-prompt/acao.md)
 
