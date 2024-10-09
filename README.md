@@ -37,9 +37,9 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
       - [Assunto](partes-de-prompt/criacao/assunto.md)
       - [Equipamento](partes-de-prompt/criacao/equipamento.md)
 - #### Caminho para Transcendência
-  - [Ajuste](depois-do-proMpt/ajuste-ou-continue.md#ajuste)
-  - [Continue a conversa](depois-do-proMpt/ajuste-ou-continue.md#continue-a-conversa)
-  - [Use diferentes Agentes](depois-do-proMpt/use-diferentes-agentes.md)
+  - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
+  - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+  - [Use diferentes Agentes](depois-do-prompt/use-diferentes-agentes.md)
 - ### Trilha Básica
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
