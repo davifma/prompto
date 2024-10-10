@@ -26,13 +26,13 @@ Nesse caso, só de nos lembrarmos do nosso [Caminho de embasamento](README.md#de
 Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário como se você fosse um fashionista especialista em tendências para o dia a dia liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas.
 ```
 
-[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
 Mesmo já tendo um resultado promissor com esse, ainda podemos melhorar, adequa-lo ainda mais.
 
@@ -47,19 +47,19 @@ Tendencia 3     Peça01+Peça04     Peça?+Peça?   Peça?+Peça?    Essas combi
 Tendencia N     Peça??+Peça??     Peça?+Peça?   Peça?+Peça?    Essas combinações são assim por que...
 ```
 
-[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
-[<img src="imagens/cards/01003.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/01003.png"  width="187" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/008.png"  width="187" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/009.png"  width="187" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/010.png"  width="187" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
 Como falamos bastante, por termos feito um ajuste tornando o proMpt mais específico temos a tendência de uma resposta ainda mais adequada.
 
@@ -69,29 +69,29 @@ Talvez, para esse caso específico, você já esteja satisfeito com o resultado,
 Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse guarda-roupas para o inverno.
 ```
 
-[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md) **Estou refazendo o meu guardaroupa e gostaria de ter um guarda roupa capsula com peças chaves para o uso diário**
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)**um fashionista especialista em tendências para o dia a dia**
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md) **liste as principais tendências de moda masculina para o outono e de exemplos de cada uma delas**
 
-[<img src="imagens/cards/01003.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
+[<img src="imagens/cards/01003.png"  width="187" height="187">](depois-do-prompt/ajuste-ou-continue.md#ajuste) [<img src="imagens/cards/008.png"  width="187" height="187">](partes-de-prompt/controle/formato.md)  **me mostre esse resultado em uma tabela em texto, fazendo um cruzamento entre as peças e as possíveis combinações**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
+<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/009.png"  width="187" height="187">](partes-de-prompt/informacao/exemplos.md)  **como no exemplo abaixo (exemplo de tabela)**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
+<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/010.png"  width="187" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
-<img src="imagens/cards/placeholder.png"  width="318" height="187"> [<img src="imagens/cards/01004.png"  width="318" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/01004.png"  width="187" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
 
-[<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md)
 
-[<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
+[<img src="imagens/cards/010.png"  width="187" height="187">](partes-de-prompt/controle/limites.md) **realizando o mínimo de modificações possíveis nas peças** 
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
 
-[<img src="imagens/cards/01005.png"  width="318" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
+[<img src="imagens/cards/01005.png"  width="187" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
 
 Eu poderia parar por aqui, ou eu poderia usar Agentes diferentes para enriquecer essa conversa, como por exemplo, usar outro Agentes de IA para analizar ou sugerir alterações nos dois guarda-roupas propostos, ou usar um Agente [Tarefeiro](tipos-de-prompt/tarefeiro.md) para fazer uma pesquisa das peças citadas e seus valores. 
 

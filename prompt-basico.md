@@ -5,7 +5,7 @@ O primeiro passo para ter um bom proMpt é saber, realmente, qual é o seu objet
 
 Escolher um agente mais adequado até pode ser uma atividade um pouco mais complexa, mas saber o tipo de proMpt que vai escrever com antecedência deve se tornar natural, mas, em um primeiro momento, enquanto ainda precisar de apoio lembre-se dos tipos de proMpts fundamentais.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="187">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="187">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="187">](tipos-de-prompt/mais-escolhas.md) 
 
 Definido o tipo de proMpt você já terá meio caminho para uma solicitação muito mais efetiva. Vamos supor que você optou por um proMpt "Conselheiro", quais seriam os proximos passos? Bom, um exemplo de proMpt Conselheiro seria:
 ```
@@ -13,11 +13,11 @@ Quais são as tendências de moda para o outono?
 ```
 Aqui estou pedindo a "opnião" do Agente sobre a moda para o outono, provavelmente eu terei uma resposta bastante aberta, mas posso melhorar muito essa resposta aplicando três elementos simples ao meu proMpt.
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md)
 
 Embora divirja da ordem mostrada acima vou iniciar melhorando a ação, que na verdade é o que eu já iniciei.
 ```
@@ -41,13 +41,13 @@ Aquí nós temos o eu eu acredito ser o proMpt básico ideal, ele ainda pode ser
 
 Lembrando que enquanto esse processo não se torna natural você tem esse recurso para se recordar de cada parte de um bom proMpt, nesse caso nosso proMpt ficou algo como o seguinte:
 
-[<img src="imagens/cards/002.png" width="187" height="318">](conselheiro.md)
+[<img src="imagens/cards/002.png" width="187" height="187">](conselheiro.md)
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md)
 
 ## Leia também
 - [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)

@@ -13,7 +13,7 @@ Por isso eu trago tipos básicos de proMpts, ou seja, para o que você pode usar
 
 Assim eu acabo afunilando, relacionando, todos esses usos a três tipos básicos para proMpts ou agentes, e é simples, buscamos as IAs para realizar tarefas simples, demoradas ou repetitivas em nosso lugar, para nos trazer informações e direcionamentos sobre assuntos nos quais presimos de apoio e para criar artefatos que consumiriam nosso tempo ou que não temos o conhecimento técnico ou talento necessário para criá-los sozinhos.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="187">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="187">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="187">](tipos-de-prompt/mais-escolhas.md) 
 
 Você ainda pode ter a necessidade de diminuir a possibilidade de respostas que esses Agentes vão te trazer, por isso adicionei "mais escolhas". Esse [**Caminho da Consciência**](tipos-de-prompt/README.md) eu considero como o Trilha Básica  ou Inícial para trabalhamos com IAs, seguindo a analogia do mapa, antes de desenharmos a nossa rota precisamos saber para onde desejamos ir, qual será o destino, ter **consciência** dos nossos objetivos, esse Deck nos ajuda a pensar nisso, inclusive permitindo cocriar essconhecimento com nossos times usando um [**AI Planing Poker**](tipos-de-prompt/cocriacao.md#ai-planing-poker) por exemplo.
 
@@ -25,11 +25,11 @@ De mais de 40 passos, ou partes, para uma boa escrita de proMpts em teoria, obse
 
 Indicar qual é a função, qual papel, a IA esta desempenhando naquele momento, definir uma ação clara para a IA realizar e indicar o contexto no qual aquilo está acontecendo e será aplicado.
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md)
 
 Embora sejam Cards do **Caminho da Produção** essas partes básicas para um bom proMpt somadas ao [**Caminho da Consciência**](tipos-de-prompt/README.md) seriam o que podemos chamar de **Trilha Básica **, tendo a intenção de lembra-lo do que é necessário para fazer o "[básico bem feito](prompt-basico.md)" e ter uma jornada mais efetiva e proveitosa. 
 
@@ -37,17 +37,17 @@ De verdade, para a maioria dos meus casos de uso de IA esse Deck é uma boa repr
 
 Porém em muitos momentos podemos necessitar de bem mais especificidade para alcançarmos o resultado desejado em nossas consultas às IAs generativas, por isso nosso mapa tem muito mais indicações para que você possa fazer esse caminho com mais facilidade, esses são os demais Cards do nosso **Deack de Produção**.
 
-[<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
+[<img src="imagens/cards/008.png"  width="187" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
+[<img src="imagens/cards/009.png"  width="187" height="187">](partes-de-prompt/informacao/exemplos.md)
 
-[<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)
+[<img src="imagens/cards/010.png"  width="187" height="187">](partes-de-prompt/controle/limites.md)
 
-[<img src="imagens/cards/1001.png"  width="318" height="187">](partes-de-prompt/criacao/assunto.md)
+[<img src="imagens/cards/1001.png"  width="187" height="187">](partes-de-prompt/criacao/assunto.md)
 
-[<img src="imagens/cards/1002.png"  width="318" height="187">](partes-de-prompt/criacao/equipamento.md)
+[<img src="imagens/cards/1002.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
 
-[<img src="imagens/cards/1003.png"  width="318" height="187">](partes-de-prompt/informacao/dados-externos.md)
+[<img src="imagens/cards/1003.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
 Indicar em qual Formato você deseja essa resposta, dar Exemplos da resposta esperada, definir Limites e restrições para a resposta que seja sugerida, ter claro o foco e protagonismo no Assunto do que será criado, definir um Equipamento que a IA deve simular (ou usar) em sua resposta e, por fim, fornecer Dados Externos ao ecossistema que o Agente tem acesso autônomo para serem trabalhados, são elementos que podem enriquecer muito os resultados. 
 
@@ -64,25 +64,25 @@ Essas são algumas perguntas que você pode se fazer, que são representações 
 
 Assim, neste ponto já temos um guia bastante completo para as nossas aventuras pelos caminhos das IAs.
 
-[<img src="imagens/cards/001.png" width="187" height="318">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="318">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="318">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="318">](tipos-de-prompt/mais-escolhas.md) 
+[<img src="imagens/cards/001.png" width="187" height="187">](tipos-de-prompt/tarefeiro.md) [<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md) [<img src="imagens/cards/003.png" width="187" height="187">](tipos-de-prompt/criativo.md) [<img src="imagens/cards/004.png" width="187" height="187">](tipos-de-prompt/mais-escolhas.md) 
 
-[<img src="imagens/cards/005.png"  width="318" height="187">](partes-de-prompt/papel.md)
+[<img src="imagens/cards/005.png"  width="187" height="187">](partes-de-prompt/papel.md)
 
-[<img src="imagens/cards/006.png"  width="318" height="187">](partes-de-prompt/acao.md)
+[<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md)
 
-[<img src="imagens/cards/007.png"  width="318" height="187">](partes-de-prompt/contexto.md)
+[<img src="imagens/cards/007.png"  width="187" height="187">](partes-de-prompt/contexto.md)
 
-[<img src="imagens/cards/008.png"  width="318" height="187">](partes-de-prompt/controle/formato.md)
+[<img src="imagens/cards/008.png"  width="187" height="187">](partes-de-prompt/controle/formato.md)
 
-[<img src="imagens/cards/009.png"  width="318" height="187">](partes-de-prompt/informacao/exemplos.md)
+[<img src="imagens/cards/009.png"  width="187" height="187">](partes-de-prompt/informacao/exemplos.md)
 
-[<img src="imagens/cards/010.png"  width="318" height="187">](partes-de-prompt/controle/limites.md)
+[<img src="imagens/cards/010.png"  width="187" height="187">](partes-de-prompt/controle/limites.md)
 
-[<img src="imagens/cards/1001.png"  width="318" height="187">](partes-de-prompt/criacao/assunto.md)
+[<img src="imagens/cards/1001.png"  width="187" height="187">](partes-de-prompt/criacao/assunto.md)
 
-[<img src="imagens/cards/1002.png"  width="318" height="187">](partes-de-prompt/criacao/equipamento.md)
+[<img src="imagens/cards/1002.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
 
-[<img src="imagens/cards/1003.png"  width="318" height="187">](partes-de-prompt/informacao/dados-externos.md)
+[<img src="imagens/cards/1003.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
 Embora, baseado nesse número de Cards, eu pudesse pensar que esse mapa poderia me levar apenas em 6.227.020.800 direções (ou combinações), se eu somar a essas combinações as infindáveis ideias que o seu cérebro humano pode ter para cada uma dessas peças, então eu posso afirmar sem medo algum que este é um mapa para você escrever infinitos proMpts de qualidade.
 
