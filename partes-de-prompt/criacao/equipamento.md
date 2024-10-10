@@ -2,7 +2,7 @@
 
 ***A Inteligência Artificial (IA) deve usar, ou simular o uso, de um equipamento específico para sua criação.***
 
-[<img src="../../imagens/cards/1002.png"  width="187" height="187" align="left">](../../partes-de-prompt/equipamento.md)
+[<img src="../../imagens/cards/012.png"  width="187" height="187" align="left">](../../partes-de-prompt/equipamento.md)
 Praticamente uma exclusividade de proMpts criativos, para a maioria dos Agentes de IA (Agentes)  populares uma exclusividade da criação de imagens, esse elemento é proposto por Linus Ekenstam no "Dynamic Prompting", onde ele indica a importância de definir um "Photographic Equipment" para que a IA crie uma imagem com o resultado desejado.
 
 A intenção aqui é buscar um melhor resultado principalmente na criação de imagens mais realistas. Por exemplo, eu posso simplesmente pedir a criação de uma imagem como no proMpt abaixo:
@@ -26,7 +26,7 @@ Aqui temos uma estrutura mais específica que pode impactar bastante no resultad
 
 [<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 
-[<img src="../../imagens/cards/1002.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
 Como você pode testar nos dois exemplos acima, adicionar o equipamento ao pedido de criação de imagem pode ter um impacto significativo no resultado entregue por essa. Mas vamos tentar algo diferente do que imagens, por exemplo no seguinte proMpt:
 
@@ -48,7 +48,7 @@ Aqui adicionamos apenas o equipamento e, sim, teremos um resultado diferente.
 
 [<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
 
-[<img src="../../imagens/cards/1002.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
 
 Aqui estamos lapidando a forma como a IA deve apresentar o resultado que lhe foi solicitado, por isso é um componente mais comum, ou alinhado com, proMpts criativos.
 

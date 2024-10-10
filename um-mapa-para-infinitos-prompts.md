@@ -45,7 +45,7 @@ Porém em muitos momentos podemos necessitar de bem mais especificidade para alc
 
 [<img src="imagens/cards/011.png"  width="187" height="187">](partes-de-prompt/criacao/assunto.md)
 
-[<img src="imagens/cards/1002.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
+[<img src="imagens/cards/012.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
 
 [<img src="imagens/cards/1003.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
@@ -80,7 +80,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/011.png"  width="187" height="187">](partes-de-prompt/criacao/assunto.md)
 
-[<img src="imagens/cards/1002.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
+[<img src="imagens/cards/012.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
 
 [<img src="imagens/cards/1003.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
