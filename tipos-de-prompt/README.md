@@ -41,7 +41,7 @@ Mas, durante esse exercício de facilitar o treinamento de Agentes e a escrita d
 
 [<img src="../imagens/cards/001.png" width="187" height="187">](tarefeiro.md) [<img src="../imagens/cards/00001.png" width="187" height="187">](conselheiro.md) [<img src="../imagens/cards/002.png" width="187" height="187">](criativo.md)
 
-[<img src="../imagens/cards/00003.png" width="187" height="187">](mais-escolhas.md) 
+[<img src="../imagens/cards/003.png" width="187" height="187">](mais-escolhas.md) 
 
 Eu entendi que todo proMpt que escrevemos e todo Agente que treinamos, no fundo, está baseado ou pende para uma dessas três naturezas, desses três tipos.
 
