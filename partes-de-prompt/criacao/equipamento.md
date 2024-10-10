@@ -24,7 +24,7 @@ Aqui temos uma estrutura mais específica que pode impactar bastante no resultad
 
 [<img src="../../imagens/cards/008.png"  width="187" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
 
-[<img src="../../imagens/cards/1001.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 
 [<img src="../../imagens/cards/1002.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
@@ -46,7 +46,7 @@ Aqui adicionamos apenas o equipamento e, sim, teremos um resultado diferente.
 
 [<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho** 
 
-[<img src="../../imagens/cards/1001.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
 
 [<img src="../../imagens/cards/1002.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
 
