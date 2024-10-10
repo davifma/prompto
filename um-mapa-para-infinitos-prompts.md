@@ -47,7 +47,7 @@ Porém em muitos momentos podemos necessitar de bem mais especificidade para alc
 
 [<img src="imagens/cards/012.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
 
-[<img src="imagens/cards/1003.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
+[<img src="imagens/cards/013.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
 Indicar em qual Formato você deseja essa resposta, dar Exemplos da resposta esperada, definir Limites e restrições para a resposta que seja sugerida, ter claro o foco e protagonismo no Assunto do que será criado, definir um Equipamento que a IA deve simular (ou usar) em sua resposta e, por fim, fornecer Dados Externos ao ecossistema que o Agente tem acesso autônomo para serem trabalhados, são elementos que podem enriquecer muito os resultados. 
 
@@ -82,7 +82,7 @@ Assim, neste ponto já temos um guia bastante completo para as nossas aventuras 
 
 [<img src="imagens/cards/012.png"  width="187" height="187">](partes-de-prompt/criacao/equipamento.md)
 
-[<img src="imagens/cards/1003.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
+[<img src="imagens/cards/013.png"  width="187" height="187">](partes-de-prompt/informacao/dados-externos.md)
 
 Embora, baseado nesse número de Cards, eu pudesse pensar que esse mapa poderia me levar apenas em 6.227.020.800 direções (ou combinações), se eu somar a essas combinações as infindáveis ideias que o seu cérebro humano pode ter para cada uma dessas peças, então eu posso afirmar sem medo algum que este é um mapa para você escrever infinitos proMpts de qualidade.
 
