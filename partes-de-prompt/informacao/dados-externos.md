@@ -1,6 +1,6 @@
 # Dados Externos
 ***São aquelas informações necessárias ou complementares que não estão disponíveis para consulta pública pela Inteligência Artificial (IA)***
- <img src="../../imagens/cards/1003.png" align="left" width="637" height="375">
+ <img src="../../imagens/cards/1003.png" align="left" width="375" height="375">
 Esta provavelmente é uma instrução, ou recurso, que eu uso muito, ou principalmente, com proMpts Tarefeiros, quando quero que a IA manipule alguma informação que é minha, não está disponível abertamente para consulta e, por tanto, a IA não conseguiria acessar sem um envio ou solicitação exclusiva para isso.
 
 Por exemplo, imagine que eu tenho uma lista de participantes de um evento, que por algum motivo me foi fornecida em um [arquivo txt](../../recursos/exemplos/lista_pessoas.txt) e eu desejo saber a media de idade das pessoas desse evento. Eu poderia usar uma IA para isso, mas seria necessário fornecer essa lista.

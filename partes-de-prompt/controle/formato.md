@@ -3,7 +3,7 @@
 
 ***Como, em qual formato, a Inteligência Artificial (IA) deve entregar o resultado da requisição?***
 
-  <img src="https://github.com/user-attachments/assets/769152cf-b7af-48e3-b560-da6254f21670" align="left" width="637" height="375">
+  <img src="https://github.com/user-attachments/assets/769152cf-b7af-48e3-b560-da6254f21670" align="left" width="375" height="375">
 
 Mesmo que você já tenha um bom proMpt construído, com os elementos básicos bem definidos (Tipo, Ação, Contexto e Papel), talvez o resultado não seja exatamente o que estava esperando, para isso podemos adicionar elementos de controle, para garantir um resultado mais alinhado com as nossas expectativas.
 

@@ -3,7 +3,7 @@
 
 ***O que você não deseja que a Inteligência Artificial (IA) faça, ou forneça na resposta. Quais são os parâmetros negativos.***
 
- <img src="https://github.com/user-attachments/assets/c974ca78-55d1-4ca0-920f-9d19d684394f" align="left" width="637" height="375">
+ <img src="https://github.com/user-attachments/assets/c974ca78-55d1-4ca0-920f-9d19d684394f" align="left" width="375" height="375">
 
 Principalmente para profissionais de áreas técnicas essa deve ser uma prática, ou, ao menos, um tipo de informação bem conhecida. Impor Litmites, ou definir coisas que você deseja que não apareçam na resposta, ou formas de resultado que não estão na sua expectativa irá ajudar a dar ainda mais acertividade nas respostas que conseguirá dos Agentes de IA (Agentes) que você usa.
 

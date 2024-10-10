@@ -20,7 +20,7 @@
 
 [A forma como você define o papel de uma Inteligência Artificial em suas solicitações pode transformar significativamente a qualidade das respostas que você recebe.](https://www.linkedin.com/posts/davifma_papel-activity-7231268712949940224-wC6a)
 
-[Quando pensamos em integrar a Inteligência Artificial (IA) ao nosso ambiente de trabalho, a primeira pergunta que surge é: como essa tecnologia pode melhorar nossas práticas e processos?](https://www.linkedin.com/posts/davifma_agilidade-transformaaexaetodigital-aiplanningpoker-activity-7230906282637950976-vIZo)
+[Quando pensamos em integrar a Inteligência Artificial (IA) ao nosso ambiente de trabalho, a primeira pergunta que surge é: como essa tecnologia pode melhorar nossas práticas e processos?](https://www.linkedin.com/posts/davifma_agilidade-transformaaexaetodigital-aiplanningpoker-activity-7230906282375950976-vIZo)
 
 [Você já pensou em como a Inteligência Artifícial (IA) pode transformar a maneira como trabalhamos, colaboramos e inovamos?](https://www.linkedin.com/posts/davifma_tipos-de-prompts-e-agentes-activity-7230543894122291201-TA0T)
 

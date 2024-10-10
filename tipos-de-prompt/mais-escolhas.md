@@ -1,7 +1,7 @@
 # Escolhas
 ***Prompts que devem indicar uma entre um número limitado de opções***
 
- <img src="https://github.com/user-attachments/assets/57fee67b-8f47-4696-b525-a3dac3ef4dba" align="right" width="375" height="637">
+ <img src="https://github.com/user-attachments/assets/57fee67b-8f47-4696-b525-a3dac3ef4dba" align="right" width="375" height="375">
 
 Esse é um modificador que podemos pensar para qualquer tipo de pompt, mas pricipalmente, ao meu ver, para pormpts "Conselheiros", a ideia aqui é adicionarmos restrições.
 
