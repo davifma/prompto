@@ -53,7 +53,7 @@ Para mim, pensando em Agentes, eu consigo identificar 15 subtipos de Agentes par
 
 ![Combinações Tarefeiro](../imagens/cards/001.png)
 ![Combinações Conselheiro](../imagens/cards/002.png)
-![Combinações Criativo](../imagens/cards/002.png)
+![Combinações Criativo](../imagens/cards/003.png)
 
 Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts esteja limitada apenas a criatividade humana, quanto as suas aturezas ou tipos eu creio que haja uma maior binariedade, ou seja, um proMpt será Tarefeiro (para executar alto), ou Conselheiro (para dar uma informação) ou Criativo (para criar algo), creio que seja rara a mistura desses tipos, porém podemos adicionar um modificador de escolhas a qualquer um deles, mas do meu ponto de vista faz mais sentido para o Conselheiro.
 
