@@ -1,7 +1,7 @@
 # Conselheiro
 ***Prompts ou Agentes que buscam uma "Opnião", informações, para explorar possibilidades, alternativas e descobrir caminhos novos ou validar caminhos já conhecidos.***
 
- <img src="https://github.com/user-attachments/assets/2e87d8cc-540b-452d-8e8d-192365d45195" align="right" width="375" height="375">
+ <img src="../imagens/cards/002.png" align="right" width="375" height="375">
 
 Usamos esse tipo de proMpt quando desejamos que a Inteligência Artificial (IA) nos forneça uma opnião sobre algo. A grande vantagem aqui, é que as IAs generativas do mercado, mesmo as gratuítas, tem acesso a uma quantidade impensável de informação para um ser humano, então, de certa forma ela é capaz de simular um especialista de qualquer área de conhecimento.
 
