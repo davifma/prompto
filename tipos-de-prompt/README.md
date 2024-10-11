@@ -63,10 +63,6 @@ Já do ponto de vista da escrita de proMpts, embora a possibilidade de proMpts e
 
 [<img src="../imagens/cards/003.png" width="100" height="100">](criativo.md)[<img src="../imagens/cards/004.png" width="100" height="100">](mais-escolhas.md) 
 
-<img src="https://github.com/user-attachments/assets/d77dfceb-0ea8-498d-8a29-fe71bf09bee2" width="280" height="238">
-<img src="https://github.com/user-attachments/assets/e5f9db74-68f8-4719-b8f6-d789f92c2800" width="280" height="238">
-<img src="https://github.com/user-attachments/assets/f3c79247-e436-490b-aa06-fc40ec2bc25e" width="280" height="238">
-
 Usando um modificado de escolhas você está limitando as possibilidades de resposta da IA, exigindo que ela escolha entre as opções que você a fornecer.
 
 ## Considerando o uso de IAs
