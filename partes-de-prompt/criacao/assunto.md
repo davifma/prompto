@@ -17,6 +17,8 @@ Escreva um versinho sobre inteligência artificial.
 
 Aqui teremos um proMpt criativo apenas com uma ação definida e o assunto. 
 
+<hr>
+
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) 
 
 [<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho**
@@ -30,8 +32,6 @@ Vamos ver um outro exemplo, agora criando uma imagem:
 ```
 Crie a imagem com uma porporção de 16x9 de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco da imagem deve ser o verso do Caminho para  Cards com o logo "proMpto".
 ```
-
-<hr>
 
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md)
 
