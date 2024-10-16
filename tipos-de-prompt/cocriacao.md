@@ -53,7 +53,7 @@ Ao terminar com uma questão você poderia partir para outro problema que o mesm
 
 Nesse caso, temos em muito pouco tempo, dois produtos.
 
-A definição de um tipo de Agente que nos atenderia bem, fosse treinado por nós ou uma solução pronta ele seria principalmente um Conselheiro mas com capacidade para criações.
+A definição de um tipo de Agente que nos atenderia bem, fosse treinado por nós ou uma solução pronta ele seria principalmente um Conselheiro mas com capacidade para criações (um *Visionário Inspirador*).
 
 [<img src="../imagens/cards/002.png" width="187" height="187">](conselheiro.md)[<img src="../imagens/cards/003.png" width="187" height="187">](criativo.md)
 
