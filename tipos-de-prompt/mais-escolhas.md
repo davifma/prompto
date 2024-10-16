@@ -18,7 +18,7 @@ Qual a melhor cor para representar um agente de IA especializado em criações? 
 
 Neste cado *Escolha uma entre azul e laranja!* é nosso modificador de escolhas, ele está definindo uma restrição clara para que a IA me traga a resposta que espero de fato. Devo usar azul ou laranja?
 
-![Untitled - Conselheiro + escolhas](https://github.com/user-attachments/assets/9a3c03d1-92d9-4083-9326-61cccd91ec40)
+[<img src="../imagens/cards/002.png" width="187" height="187">](conselheiro.md)[<img src="../imagens/cards/004.png" width="187" height="187">](mais-escolhas.md)
 
 Embora eu pense que podemos aplicar esse modificador em qualquer tipo de proMpt, entendo que são menos comuns e, até, mais difíceis de usar em proMpts Tarefeiros ou Criativos.
 
