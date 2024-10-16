@@ -27,7 +27,7 @@ E é aqui que começamos o diálogo, minha sugestão é, comece pelas cartas que
 
 Vamos supor que temos quatro pessoas dessa equipe participando desse diálogo e duas escolheram o criativo, uma o conselheiro e outa não virou a carta, indicando que uma IA não poderia ajudar nesse caso.
 
-![proMpto - Frame 1 (3)](https://github.com/user-attachments/assets/65c73aa0-5f42-4d6a-93e3-7096a7da85c7)
+![Primeira Jogada](../imagens/exemplos/ai-planning-table-000.jpg)
 
 Então primeiro questionamos as pessoas que escolheram os Criativos: Por que um agente Criativo seria o melhor para nos ajudar?
 
@@ -41,7 +41,7 @@ Terminada essa rodada questione se alguém deseja mais uma rodada (para mudar de
 
 Vamos supor que dessa vez o resultado foram três conselheiros e um criativo, que foi mantido da última rodada, então você questionaria primeiro as pessoas que escolheram os conselheiros.
 
-![proMpto - Frame 1 (4)](https://github.com/user-attachments/assets/757b874c-ed2d-4b4a-ad34-09de64351310)
+![Segunda Jogada](../imagens/exemplos/ai-planning-table.jpg)
 
 Pode ser que elas repitam algumas respostas anteriores (tudo bem) e acrescentem, por exemplo: Uma IA poderia nos aconselhar sobre as melhores práticas para definirmos guias, poderia analizar como poderiamos personalizar os processos.
 
@@ -55,7 +55,9 @@ Nesse caso, temos em muito pouco tempo, dois produtos.
 
 A definição de um tipo de Agente que nos atenderia bem, fosse treinado por nós ou uma solução pronta ele seria principalmente um Conselheiro mas com capacidade para criações.
 
-![proMpto - Conselheiro que cria](https://github.com/user-attachments/assets/4b3ec78a-4121-49a0-8ce4-8d9411b8ff71)
+![Conselheiro](../imagens/cards/002.png)![Criativo](../imagens/cards/003.png)
+
+> *Visionário Inspirador*
 
 E, mais importante, temos uma lista clara de objetivos que o time pretende alcançar com o uso desse Agente.
 
