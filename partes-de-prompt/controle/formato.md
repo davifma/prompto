@@ -3,7 +3,7 @@
 
 ***Como, em qual formato, a Inteligência Artificial (IA) deve entregar o resultado da requisição?***
 
-<img src="../imagens/cards/008.png" width="375" height="375" align="left">
+<img src="../../imagens/cards/008.png" width="375" height="375" align="left">
 
 Mesmo que você já tenha um bom proMpt construído, com os elementos básicos bem definidos (Tipo, Ação, Contexto e Papel), talvez o resultado não seja exatamente o que estava esperando, para isso podemos adicionar elementos de controle, para garantir um resultado mais alinhado com as nossas expectativas.
 
