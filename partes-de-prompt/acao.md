@@ -2,7 +2,7 @@
 *(Básico)*
 ***O que você espera que o Agente de Inteligência Artificial (Agente) faça, o que ele deve realizar.***
 
-[<img src="../imagens/cards/006.png" width="375" height="375">](acao.md)
+[<img src="../imagens/cards/006.png" width="375" height="375" align="left">](acao.md)
 
 Essa é a única parte do proMpt que é certo que ninguem esquece, é literalmente o pedido que deseja fazer, o que você quer que a Inteligência Artifical (IA) faça especificamente.
 ```
