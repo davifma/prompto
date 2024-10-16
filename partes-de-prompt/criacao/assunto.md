@@ -17,7 +17,7 @@ Escreva um versinho sobre inteligência artificial.
 
 Aqui teremos um proMpt criativo apenas com uma ação definida e o assunto. 
 
-<hr>
+<br>
 
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) 
 
