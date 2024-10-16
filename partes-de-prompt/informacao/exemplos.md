@@ -3,7 +3,7 @@
 
 ***Mostre para a Inteligência Artificial (IA) como você espera que seja o resultado***
 
- <img src="https://github.com/user-attachments/assets/b2edfb8e-9a4c-4cdc-a96b-064ece248255" align="left" width="375" height="375">
+<img src="../../imagens/cards/009.png" width="375" height="375" align="left">
 
 Embora as IAs possuam acesso a uma quantidade surreal de informações que, sozinhos, nós humanos não conseguiriamos aproveitar em sua totalidade, isso não garante que as informações que ela selecionará são as mais adequadas para a resposta que é esperada.
 
