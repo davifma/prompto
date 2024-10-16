@@ -3,6 +3,8 @@
 
 ***Principalmente para proMpts criativos é necessário definir qual é o foco, o protagonismo, dessa criação.***
 
+<img src="../../imagens/cards/011.png" width="375" height="375" align="left">
+
 Peças criativas em geral tem um assunto alvo, um foco principal, um protagonista dessa "história" que está sendo contada por meio da criação. 
 
 Provavelmente os Agentes de Inteligência Artificial (Agentes) Criativos mais conhecidos são os que criam imagens. Caso você ainda não tenha um Agente Criativo de estimação pode usar o [bit.ly/oratoriafma](https://bit.ly/oratoriafma), que também consegue gerar imagens com base no modelo ChatGPT.
