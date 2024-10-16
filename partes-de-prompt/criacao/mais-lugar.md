@@ -3,7 +3,7 @@
 
 ***Qual o local, ano ou era que a criação deveria refletir.***
 
-<img src="../../imagens/cards/017.png"  width="187" height="187" align="left">
+<img src="../../imagens/cards/017.png"  width="375" height="375" align="left">
 
 Proposto como parte do Dynamic Prompting, por Linus Ekenstam, para aprimorar criação de imagens mais realistas. A ideia básica é que para criar uma boa imagem é necessária uma boa descrição do local que aquela imagem deve representar, o que pode incluir uma era ou um ano. Um bar de rock na Londres dos anos 70, certamente é diferente de um bar de rock na Amsterdã de 2000.
 
@@ -32,9 +32,9 @@ Nesse caso temos um proMpt bastante interessante e complexo.
 
 [<img src="../../imagens/cards/008.png"  width="187" height="187">](../../partes-de-prompt/controle/formato.md) **uma foto no tamanho 54x86mm**
 
-[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 
-[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
 
 <img src="../../imagens/cards/017.png"  width="187" height="187">**no alto do Corcovado no Rio de Janeiro, em 2024**
 
@@ -60,9 +60,9 @@ Apenas essa mudança já gera um proMpt e resultados completamente diferentes.
 
 [<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Escreva um versinho** 
 
-[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/assunto.md) **sobre inteligência artificial**
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md) **sobre inteligência artificial**
 
-[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **mostre esse verso como se fosse escrito com uma maquina de escrever antiga**
 
 <img src="../../imagens/cards/017.png"  width="187" height="187"> **a inclusão de um estado brasileiro**
 
