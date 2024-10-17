@@ -16,7 +16,7 @@
 
 [Se você já se perguntou como estruturar um proMpt para Inteligência Artificial, aqui está o ponto de partida: simplicidade e clareza são essenciais.](https://www.linkedin.com/posts/davifma_um-mapa-para-infinitos-prompts-activity-7241777961228550145-wmz9)
 
-(Quando trabalhamos com Inteligência Artificial (IA), muitas vezes lidamos com informações que não estão disponíveis publicamente para a máquina.)[https://www.linkedin.com/posts/davifma_dados-externos-activity-7240328402522587137-vd8u]
+[Quando trabalhamos com Inteligência Artificial (IA), muitas vezes lidamos com informações que não estão disponíveis publicamente para a máquina.](https://www.linkedin.com/posts/davifma_dados-externos-activity-7240328402522587137-vd8u)
 
 [Em qualquer processo de gestão e liderança, clareza na comunicação é essencial para obter os melhores resultados.](https://www.linkedin.com/posts/davifma_completo-ou-complexo-activity-7236428604203520000-rp-v)
 
