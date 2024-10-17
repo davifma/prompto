@@ -91,7 +91,7 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 [<img src="imagens/cards/006.png"  width="187" height="187">](partes-de-prompt/acao.md) **adeque esse guarda-roupas para o inverno**
 
-[<img src="imagens/cards/01005.png"  width="187" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
+[<img src="imagens/cards/016.png"  width="187" height="187">](depois-do-prompt/use-diferentes-agentes.md) 
 
 Eu poderia parar por aqui, ou eu poderia usar Agentes diferentes para enriquecer essa conversa, como por exemplo, usar outro Agentes de IA para analizar ou sugerir alterações nos dois guarda-roupas propostos, ou usar um Agente [Tarefeiro](tipos-de-prompt/tarefeiro.md) para fazer uma pesquisa das peças citadas e seus valores. 
 
