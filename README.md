@@ -1,5 +1,8 @@
-# proMpto.github.io
+# Alpha 
+*(proMpto)*
+
 ***Como conseguir o melhor resultado no uso de Inteligências Artifíciais (IA)?***
+
 <img src="imagens/cards/verso.png" align="right" width="375" height="375">
 
 Você já usa IAs diáriamente, talvez nem perceba, agora você precisa começar a usá-las intencionalmente.
@@ -36,7 +39,6 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Assunto](partes-de-prompt/criacao/assunto.md)
       - [Equipamento](partes-de-prompt/criacao/equipamento.md)
-      - [mais lugar](partes-de-prompt/criacao/mais-lugar.md)
 - #### Caminho para Transcendência
   - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
@@ -49,6 +51,16 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [Papel](partes-de-prompt/papel.md)
   - [Ação](partes-de-prompt/acao.md)
   - [Contexto](partes-de-prompt/contexto.md)
+- ### Trilha da Criação
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Papel](partes-de-prompt/papel.md)
+  - [Ação](partes-de-prompt/acao.md)
+  - [Contexto](partes-de-prompt/contexto.md)
+    - [mais lugar](partes-de-prompt/criacao/mais-lugar.md)
+  - [Formato](partes-de-prompt/controle/formato.md)
+  - [Assunto](partes-de-prompt/criacao/assunto.md) 
+  - [Equipamento](partes-de-prompt/criacao/equipamento.md)  
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
   - [OKR](https://www.perplexity.ai/search/como-eu-posso-usar-okrs-para-m-yzwYs5.GTP61pNkeTTgTKQ)
