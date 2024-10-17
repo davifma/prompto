@@ -18,6 +18,7 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - ##### [O Básico bem feito](prompt-basico.md)
   - ##### [Completo ou complexo?](prompts-complexos.md) 
   - ##### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- #### [Uso evolucionário de IAs](uso-evolucionario-de-ias.md) 
 - #### Caminho da Consciência
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
