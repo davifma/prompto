@@ -83,7 +83,7 @@ Agora, realizando o mínimo de modificações possíveis nas peças, adeque esse
 
 <img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/010.png"  width="187" height="187">](partes-de-prompt/controle/limites.md)  **sugerindo apenas cinco peças chave no total**
 
-<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/01004.png"  width="187" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+<img src="imagens/cards/placeholder.png"  width="187" height="187"> [<img src="imagens/cards/015.png"  width="187" height="187">](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
 
 [<img src="imagens/cards/002.png" width="187" height="187">](tipos-de-prompt/conselheiro.md)
 
