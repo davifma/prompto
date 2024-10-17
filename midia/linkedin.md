@@ -1,5 +1,29 @@
 # Posts e Artigos do Linkedin
 
+[A definição de lugar em criações com IA está se tornando uma peça-chave para a qualidade dos resultados.](https://www.linkedin.com/posts/davifma_lugar-activity-7245069675724718082-v0OB)
+
+[Já imaginou usar um baralho de cartas para definir o papel da Inteligência Artificial em um projeto?](https://www.linkedin.com/posts/davifma_nasceu-primeira-facilita%C3%A7%C3%A3o-activity-7244677054103703552-BmNZ)
+
+[🧠 Já imaginou validar suas habilidades de inglês interagindo com IAs em uma rede social?](https://www.linkedin.com/posts/davifma_inovaaexaetodigital-ianodiaadia-boletimtech-activity-7244344843097755650-ZT9j)
+
+[A Inteligência Artificial não é mais uma promessa distante. Ela está aqui, transformando a forma como trabalhamos e, consequentemente, a maneira como entregamos valor.](https://www.linkedin.com/posts/davifma_inteligenciaartificial-inovaaexaeto-agilidade-activity-7243589882550337536-kjhH) 
+
+[Você já se perguntou como introduzir IAs no seu dia a dia de forma evolucionária e intencional?](https://www.linkedin.com/posts/davifma_uso-evolucion%C3%A1rio-de-ias-activity-7243227492990283776-qXH6)
+
+[Você já está utilizando IA no seu dia a dia, mas já pensou em expandir seu horizonte testando diferentes Agentes e Modelos?](https://www.linkedin.com/posts/davifma_use-diferentes-agentes-activity-7242865148619616258-djV5)
+
+[O processo de ajuste e refinamento em interações com Inteligências Artificiais (IA) pode ser uma das práticas mais valiosas no cotidiano.](https://www.linkedin.com/posts/davifma_ajuste-o-prompt-ou-continue-a-conversa-activity-7242140306018603008-OH19)
+
+[Se você já se perguntou como estruturar um proMpt para Inteligência Artificial, aqui está o ponto de partida: simplicidade e clareza são essenciais.](https://www.linkedin.com/posts/davifma_um-mapa-para-infinitos-prompts-activity-7241777961228550145-wmz9)
+
+(Quando trabalhamos com Inteligência Artificial (IA), muitas vezes lidamos com informações que não estão disponíveis publicamente para a máquina.)[https://www.linkedin.com/posts/davifma_dados-externos-activity-7240328402522587137-vd8u]
+
+[Em qualquer processo de gestão e liderança, clareza na comunicação é essencial para obter os melhores resultados.](https://www.linkedin.com/posts/davifma_completo-ou-complexo-activity-7236428604203520000-rp-v)
+
+[Já imaginou como pequenos ajustes podem transformar o impacto de uma criação com inteligência artificial?](https://www.linkedin.com/posts/davifma_equipamento-activity-7237435543037349888-B3kK)
+
+[Muitas pessoas, ainda, com medo das Inteligências Artificiais (IA) e sempre as mesmas perguntas, questionamentos e dificuldades aparecem sempre que falamos do uso de IAs generativas.](https://www.linkedin.com/posts/davifma_promptogithubio-activity-7235617325742194688-bvyd)
+
 [Já parou para pensar que a eficácia das criações feitas com IA depende diretamente do foco que se dá ao que se pretende criar?](https://www.linkedin.com/posts/davifma_assunto-activity-7237079765961109505-8Zae)
 
 [Em qualquer processo de gestão e liderança, clareza na comunicação é essencial para obter os melhores resultados.](https://www.linkedin.com/posts/davifma_completo-ou-complexo-activity-7236428604203520000-rp-v)
