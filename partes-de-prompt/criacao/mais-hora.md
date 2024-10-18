@@ -73,7 +73,11 @@ Um som, também é uma ótima figura de expressão. E se eu pedisse que uma IA c
 Faça uma cantiga sobre inteligência artificial como se fosse gravada em um disco de vinil por um compositor de Minas Gerais às 15:00 horas em uma tarde preguiçosa.
 ```
 
-(https://suno.com/song/6b02d014-7111-40b3-9e00-d01276567216)[Toque a música aqui]
+[Toque a música aqui](https://suno.com/song/6b02d014-7111-40b3-9e00-d01276567216)
+
+Será que alterando apenas a hora, ou o momento, teriamos um resultado muito diferente? Que tal você fazer esse teste?
+
+O importante aqui é sempre nos lembrarmos que quanto mais específico o pedido mais próximo do desejado deve ser a entrega que seu Agente de IA (Agente) realizará e, claro, para isso é importante que você saiba exatamente o que deseja. Isso faz parte da função de ser o humano nessa relação, além da responsábilidade sobre aquilo que foi criado. Lembre-se, em criações por IA sempre é necessária a curadoria principalmente quanto aos direitos autorais.
 
 ## Relações
 <table>
@@ -81,7 +85,7 @@ Faça uma cantiga sobre inteligência artificial como se fosse gravada em um dis
   <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
 </tr>
 <tr>
-  <td>Place</td><td>Dynamic Prompting</td><td>	Localização da imagem, ano ou época.</td>
+  <td>Time of Day</td><td>Dynamic Prompting</td><td>	A hora é útil ajustar a iluminação.</td>
 </tr>
 <tr>
   <td>&lt;figure&gt;</td><td>HTML5</td><td>	usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc.</td>
