@@ -46,7 +46,8 @@ Agora, e se tentassemos algo mais como um momento?
 ```
 Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para Cards com o logo "proMpto" e a camera usada é uma Câmera Instantânea com uma lente grande angular. Eles estão no alto do Corcovado no Rio de Janeiro, às 15:00 horas em uma tarde preguiçosa.
 ```
-![wOZAjomTTK54MunQv9UQ--grid](https://github.com/user-attachments/assets/74f74ee8-700d-4388-b7fc-54b4f6644d71)
+
+![wOZAjomTTK54MunQv9UQ--1--i8ifx](https://github.com/user-attachments/assets/9b68dcd9-f7e7-4f3e-a1c2-f5b3cc17945b)
 
 Embora pareça que alteramos apenas o horário, mas na verdade também alteramos sua intenção, aqui devemos ter algo além de um simples ajuste de luz.
 
@@ -71,7 +72,9 @@ Um som, também é uma ótima figura de expressão. E se eu pedisse que uma IA c
 ```
 Faça uma cantiga sobre inteligência artificial como se fosse gravada em um disco de vinil por um compositor de Minas Gerais às 15:00 horas em uma tarde preguiçosa.
 ```
+
 (https://suno.com/song/6b02d014-7111-40b3-9e00-d01276567216)[Toque a música aqui]
+
 ## Relações
 <table>
 <tr>
