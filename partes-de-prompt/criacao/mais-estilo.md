@@ -73,7 +73,7 @@ Faça uma balada sobre inteligência artificial como se fosse gravada em um disc
 
 [<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md) **por um interprete de Minas Gerais às 15:00 horas em uma tarde preguiçosa**
 
-[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">]](../../partes-de-prompt/criacao/mais-atuacao.md) ele tristonho e saudoso, ***em estilo Rock Pop***.
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)<img src="../../imagens/cards/020.png"  width="187" height="187"> ele tristonho e saudoso, ***em estilo Rock Pop***.
 
 [Clique aqui para ver o resultado.](https://suno.com/song/4f03743b-906e-44a4-a1bd-77b8a88c5404)
 
