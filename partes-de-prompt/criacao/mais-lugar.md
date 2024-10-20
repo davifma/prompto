@@ -34,9 +34,7 @@ Nesse caso temos um proMpt bastante interessante e complexo.
 
 [<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md) **um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Caminho para  Cards com o logo "proMpto"**
 
-[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **camera usada é uma Câmera Instantânea com uma lente grande angular**
-
-<img src="../../imagens/cards/017.png"  width="187" height="187">**no alto do Corcovado no Rio de Janeiro, em 2024**
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md)<img src="../../imagens/cards/017.png"  width="187" height="187"> camera usada é uma Câmera Instantânea com uma lente grande angular **no alto do Corcovado no Rio de Janeiro, em 2024**
 
 Minha sugestão é testar outros locais e épocas para entender como isso afeta a imagem. Lembrando que o local pode ser menos específico ou não tão direto. Como: "um escritório em um prédio grande, com uma arquitetura industrial", ou "um jardim com muitas rosas e outras flores silvestres em meados 1972", lembre-se que q  quanto mais específico melhor.
 
