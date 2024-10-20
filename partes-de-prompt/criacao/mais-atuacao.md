@@ -34,6 +34,39 @@ Crie uma foto de um empresário com um deck do card game de "proMpto" nas mãos 
 
 ![nDaixqjDxR35YEYyEjsP--3--cckfn](https://github.com/user-attachments/assets/dd7f8ed6-5adc-4f74-a7f5-922b25fe9ecb)
 
+Em imagens já podemos ver um resultado interessante, se você mudar essa "Atuação" no "Contexto" das criação" qual seria o novo resultado. Te convido a fazer o teste.
+
+Mas, como eu disse, esse elemento pode ir além da criação de imagens, a "Atuação" como comportamento do elemento focal da criação é uma forma de deixar claro o propósito da criação sendo o mais específico possível. Assim, poderiamos usá-lo para qualquer tipo de criação, como seria em uma música por exemplo?
+
+```
+Faça uma balada sobre inteligência artificial como se fosse gravada em um disco de vinil por um interprete de Minas Gerais às 15:00 horas em uma tarde preguiçosa, ele está ébrio, bebendo e fumando.
+```
+
+[<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md)
+
+[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Faça uma balada sobre inteligência artificial**
+
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **se fosse gravada em um disco de vinil**
+
+[<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md) **por um interprete de Minas Gerais às 15:00 horas em uma tarde preguiçosa**
+
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)<img src="../../imagens/cards/019.png"  width="187" height="187">**ele está ébrio, bebendo e fumando.**
+
+[Ouça o resultado aqui](https://suno.com/song/8e3a9a1a-e653-499a-b417-712762195ecc)
+
+Certamente trocar a atitude do interprete deve alterar a música, vamos fazer esse teste.
+
+```
+Faça uma balada sobre inteligência artificial como se fosse gravada em um disco de vinil por um interprete de Minas Gerais às 15:00 horas em uma tarde preguiçosa, ele tristonho e saudoso.
+```
+
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)<img src="../../imagens/cards/019.png"  width="187" height="187">**ele tristonho e saudoso.**
+
+Apenas com essa alteração [clique para ver o novo resultado](https://suno.com/song/396b0bf0-edc2-4830-b202-c00c83c0ea7d).
+
+Creio que conseguimos ver que a adição da forma de Atuação do ponto focal da sua criação na requisição que fará para a IA tem um impacto grande no resultado obtido. 
+
+Todavia vale lembrar que os resultados que está obtendo hoje são os priores que deve obter se tiver consistencia em seus métodos, pois a IA que usa hoje certamente é pior do que a que usará amanhã, ainda assim é importante lembrar que você é o humano na equação e por tanto o responsável por essas criações, inclusive pelos direitos envolvidos que devem ser consultados.
 
 ## Relações
 <table>
