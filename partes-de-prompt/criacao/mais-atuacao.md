@@ -18,19 +18,22 @@ Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "
 Podermos adicionar mais informações sobre "o empresário" como ele atua na imagem?
 
 ```
-Crie uma foto no tamanho 54x86mm de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o foco principal da foto deve ser o verso do Deck com o logo "proMpto" e a camera usada é uma Câmera Instantânea com uma lente grande angular. Eles estão no alto do Corcovado no Rio de Janeiro, em 2024 às 00:01 do dia 1 de janeiro.
+Crie uma foto de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o empresario está satisfeito e confiante demonstrando controle sob os agentes que o acompanham, eles estão no alto do Corcovado no Rio de Janeiro, em 2024 às 00:01 do dia 1 de janeiro o foco principal da foto deve ser o verso do Deck com o logo "proMpto". A foto deve ter no tamanho 54x86mm. A camera usada é uma Câmera Instantânea com uma lente grande angular.
 ```
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) 
+[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial**
 
-[<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md)
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)<img src="../../imagens/cards/019.png"  width="187" height="187"> **o empresario está satisfeito e confiante demonstrando controle sob os agentes de inteligência artificial que o acompanham.**
 
-[<img src="../../imagens/cards/008.png"  width="187" height="187">](../../partes-de-prompt/controle/formato.md) 
+[<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md) **eles estão no alto do Corcovado no Rio de Janeiro, em 2024 às 00:01 do dia 1 de janeiro o foco principal da foto deve ser o verso do Deck com o logo "proMpto"**
 
-[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)<img src="../../imagens/cards/019.png"  width="187" height="187"> 
+[<img src="../../imagens/cards/008.png"  width="187" height="187">](../../partes-de-prompt/controle/formato.md) **A foto deve ter no tamanho 54x86mm.**
 
-[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) 
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **A camera usada é uma Câmera Instantânea com uma lente grande angular.**
+
+![nDaixqjDxR35YEYyEjsP--3--cckfn](https://github.com/user-attachments/assets/dd7f8ed6-5adc-4f74-a7f5-922b25fe9ecb)
+
 
 ## Relações
 <table>
