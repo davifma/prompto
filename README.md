@@ -62,7 +62,8 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
     - [mais hora](partes-de-prompt/criacao/mais-hora.md)
   - [Formato](partes-de-prompt/controle/formato.md)
   - [Assunto](partes-de-prompt/criacao/assunto.md)
-    - [mais atuação](partes-de-prompt/criacao/mais-atuacao.md) 
+    - [mais atuação](partes-de-prompt/criacao/mais-atuacao.md)
+    - [mais estilo](partes-de-prompt/criacao/mais-estilo.md) 
   - [Equipamento](partes-de-prompt/criacao/equipamento.md)  
 - ### Relações
   - [Modelo GROW](https://www.perplexity.ai/search/grow-e-um-acronimo-para-goal-m-0Fvr6CKGRBOUOlngLHzf6g)
