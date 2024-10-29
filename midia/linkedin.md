@@ -1,4 +1,15 @@
-# Posts e Artigos do Linkedin
+# Linkedin
+## Artigos
+[Desvendando o uso de Inteligências Artificais em uma jornada Lúdica e Visual](https://www.linkedin.com/pulse/desvendando-o-uso-de-intelig%25C3%25AAncias-artificais-em-uma-davi-0m88f/)
+
+
+## Posts
+
+[Como as Inteligências Artificiais estão mudando o jogo da criatividade?](https://www.linkedin.com/posts/davifma_estilo-activity-7255548692835762176-OeYq)
+
+[Você pode transformar suas criações com IA ao ajustar o comportamento do ponto focal](https://www.linkedin.com/posts/davifma_atua%C3%A7%C3%A3o-activity-7255186283499585536-Bqps)
+
+[🔍 Como a hora do dia pode transformar a criatividade gerada por IA? ](https://www.linkedin.com/posts/davifma_gestaetocriativa-techlideranaexa-dynamicprompting-activity-7254099137732730880-kfqi)
 
 [A definição de lugar em criações com IA está se tornando uma peça-chave para a qualidade dos resultados.](https://www.linkedin.com/posts/davifma_lugar-activity-7245069675724718082-v0OB)
 
