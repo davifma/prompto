@@ -91,7 +91,9 @@ Nesse caso a únida adição foi realmente um pedido para que a IA agisse como s
 
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial**
+[<img src="../../imagens/cards/005.png"  width="187" height="187">](../../partes-de-prompt/papel.md)<img src="../../imagens/cards/021.png"  width="187" height="187" align="left"> **Como se você fosse o Eduardo Kobra**
+
+[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **crie uma foto de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial**
 
 [<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)<img src="../../imagens/cards/020.png"  width="187" height="187"> o empresario está satisfeito e confiante demonstrando controle sob os agentes de inteligência artificial que o acompanham, ***use um estilo retrofuturista***
 
