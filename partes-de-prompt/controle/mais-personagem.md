@@ -103,9 +103,6 @@ Nesse caso a únida adição foi realmente um pedido para que a IA agisse como s
 
 [<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **A camera usada é uma Câmera Instantânea com uma lente grande angular.**
 
-![img-zZO7G1nZWzH7wRs6tUVo5Ghr](https://github.com/user-attachments/assets/5566d9c4-cd93-45e9-b4b3-3058f39a2464)
-
-
 ## Relações
 <table>
 <tr>
