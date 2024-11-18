@@ -71,8 +71,37 @@ Agora reescreva o mesmo proMpt mas mude a Personagem, pode ser o Chef Gordon Ram
 
 Em proMpts [Ciativos](../../tipos-de-prompt/criativo.md) essa diferença também será notada, isso por que você está sendo mais específico, quando pedimos a uma IA que ela simule o comportamento de alguém, ela baseará suas criações e resultados nas criações e resultados que conhece dessa pessoa, ou seja, estamos limitando a sua busca.
 
-Assim, eu posso solicitar que uma IA crie uma música como uma pessoa qualquer, como abaixo.
+Assim, eu posso solicitar que uma IA crie uma imagem como uma pessoa qualquer, como abaixo.
 
+```
+Crie uma imagem de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o empresario está satisfeito e confiante demonstrando controle sob os agentes que o acompanham, use um estilo retrofuturista, eles estão no alto do Corcovado no Rio de Janeiro, em 2024 às 00:01 do dia 1 de janeiro o foco principal da foto deve ser o verso do Deck com o logo "proMpto". A foto deve ter no tamanho 54x86mm. A camera usada é uma Câmera Instantânea com uma lente grande angular.
+```
+
+Mas também podemos pensar em uma personagem, um artista plastico conhecido e tentar simular as características de seu trabalho.
+
+```
+Como se você fosse o Eduardo Kobra crie uma imagem de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial o empresario está satisfeito e confiante demonstrando controle sob os agentes que o acompanham, use um estilo retrofuturista, eles estão no alto do Corcovado no Rio de Janeiro, em 2024 às 00:01 do dia 1 de janeiro o foco principal da foto deve ser o verso do Deck com o logo "proMpto". A foto deve ter no tamanho 54x86mm. A camera usada é uma Câmera Instantânea com uma lente grande angular.
+```
+
+Você terá um resultado completamente diferente.
+
+![image](https://github.com/user-attachments/assets/350aa6b0-4be9-4750-ade2-6e4e39922597)
+
+Nesse caso a únida adição foi realmente um pedido para que a IA agisse como se fosse uma Personagem, pessoa específica.
+
+[<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md)
+
+[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Crie uma foto de um empresário com um deck do card game de "proMpto" nas mãos e atrás dele temos mais três agentes de inteligência artificial**
+
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)<img src="../../imagens/cards/020.png"  width="187" height="187"> o empresario está satisfeito e confiante demonstrando controle sob os agentes de inteligência artificial que o acompanham, ***use um estilo retrofuturista***
+
+[<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md) **eles estão no alto do Corcovado no Rio de Janeiro, em 2024 às 00:01 do dia 1 de janeiro o foco principal da foto deve ser o verso do Deck com o logo "proMpto"**
+
+[<img src="../../imagens/cards/008.png"  width="187" height="187">](../../partes-de-prompt/controle/formato.md) **A foto deve ter no tamanho 54x86mm.**
+
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **A camera usada é uma Câmera Instantânea com uma lente grande angular.**
+
+![img-zZO7G1nZWzH7wRs6tUVo5Ghr](https://github.com/user-attachments/assets/5566d9c4-cd93-45e9-b4b3-3058f39a2464)
 
 
 ## Relações
