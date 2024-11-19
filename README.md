@@ -32,6 +32,7 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - ##### Caminho para controle
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Limites](partes-de-prompt/controle/limites.md)
+      - [mais personagem](partes-de-prompt/controle/mais-personagem.md)
   - ##### Caminho para Informação
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
