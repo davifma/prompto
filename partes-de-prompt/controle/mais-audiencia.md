@@ -54,6 +54,40 @@ Como um especialista em uso intencional de IA com Alpha escreva um roteiro de ap
 
 [<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/criacao/assunto.md) **o objetivo é a introdução do Alpha no roteiro de treinamento**
 
+Nesse caso eu teria o seguinte resultado:
+
+Para uma apresentação de 15 minutos sobre o Alpha (proMpto) para um grupo de diretores de uma indústria automotiva, focando na introdução do Alpha no roteiro de treinamento, sugiro o seguinte roteiro com tópicos principais:
+
+> 1. **Introdução**
+>    - Breve apresentação pessoal e do propósito da reunião.
+>    - Contextualização sobre a importância da IA na indústria automotiva.
+> 2. **O que é o Alpha (proMpto)**
+>    - Definição e conceito do Alpha (proMpto).
+>    - Objetivos principais do Alpha no contexto de treinamento.
+> 3. **Benefícios do Uso do Alpha na Indústria Automotiva**
+>    - Aumento da eficiência operacional.
+>    - Melhoria na tomada de decisões com base em dados.
+>    - Personalização e otimização de processos de treinamento.
+> 4. **Componentes e Estrutura do Alpha**
+>    - Explicação dos tipos de proMpts: Tarefeiro, Conselheiro, Criativo.
+>    - Importância de definir o papel, ação e contexto nos proMpts.
+> 5. **Exemplos Práticos de Aplicação**
+>    - Casos de uso específicos na indústria automotiva.
+>    - Demonstração de um proMpt básico e um proMpt complexo.
+> 6. **Implementação do Alpha no Roteiro de Treinamento**
+>    - Passos para integrar o Alpha nos programas de treinamento existentes.
+>    - Ferramentas e recursos necessários para a implementação.
+> 7. **Desafios e Considerações**
+>    - Potenciais desafios na adoção do Alpha.
+>    - Estratégias para superar resistências e garantir o sucesso.
+> 8. **Conclusão**
+>    - Recapitulação dos pontos principais.
+>    - Próximos passos e convite para perguntas e discussões.
+> 9. **Sessão de Perguntas e Respostas**
+>    - Abrir espaço para dúvidas e esclarecimentos.
+
+Este roteiro é uma estrutura básica que pode ser adaptada conforme necessário para atender às necessidades específicas da audiência e do contexto da apresentação.
+
 ```
 Como um especialista em uso intencional de IA com Alpha escreva um roteiro de apresentação do Alpha (proMpto) para um grupo de lideres de produção de uma industria automotiva, contendo apenas os tópicos principais para uma apresentação de 15 minutos, o objetivo é a introdução do Alpha no roteiro de treinamento dessa indústria.
 ```
