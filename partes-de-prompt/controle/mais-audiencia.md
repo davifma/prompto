@@ -56,8 +56,6 @@ Como um especialista em uso intencional de IA com Alpha escreva um roteiro de ap
 
 Nesse caso eu teria o seguinte resultado:
 
-Para uma apresentação de 15 minutos sobre o Alpha (proMpto) para um grupo de diretores de uma indústria automotiva, focando na introdução do Alpha no roteiro de treinamento, sugiro o seguinte roteiro com tópicos principais:
-
 > 1. **Introdução**
 >    - Breve apresentação pessoal e do propósito da reunião.
 >    - Contextualização sobre a importância da IA na indústria automotiva.
@@ -86,23 +84,54 @@ Para uma apresentação de 15 minutos sobre o Alpha (proMpto) para um grupo de d
 > 9. **Sessão de Perguntas e Respostas**
 >    - Abrir espaço para dúvidas e esclarecimentos.
 
-Este roteiro é uma estrutura básica que pode ser adaptada conforme necessário para atender às necessidades específicas da audiência e do contexto da apresentação.
+Agora vamos fazer apenas um ajuste de Audiência, e se o meu público não fossem os diretores, mas sim os lideres de produção?
 
 ```
 Como um especialista em uso intencional de IA com Alpha escreva um roteiro de apresentação do Alpha (proMpto) para um grupo de lideres de produção de uma industria automotiva, contendo apenas os tópicos principais para uma apresentação de 15 minutos, o objetivo é a introdução do Alpha no roteiro de treinamento dessa indústria.
 ```
 
-## Relações
-<table>
-<tr>
-  <th>Componente</th>	<th>Método</th>	<th>Descrição</th>
-</tr>
-<tr>
-  <td>&lt;figure&gt;</td><td>HTML5</td><td>	usado para anotar ilustrações, diagramas, fotos, listagens de códigos, etc.</td>
-</tr>  
-</table>
+Apenas essa modificação em toda estrutura:
 
-## Referências
-WORLD WIDE WEB CONSORTIUM (W3C). HTML5: Edition for Web Authors. The figure element. 09 ago. 2011. Disponível em: https://www.w3.org/TR/2011/WD-html5-author-20110809/the-figure-element.html. Acesso em: 04 set. 2024.
+[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)<img src="../../imagens/cards/022.png"  width="187" height="187"> **grupo de lideres de produção** de uma industria automotiva
+
+Vamos ver o resultado:
+
+> 1. **Introdução**
+>    - Apresentação pessoal e objetivo da apresentação.
+>    - ***Importância da IA na otimização da produção automotiva.***
+> 2. **Visão Geral do Alpha (proMpto)**
+>    - Definição do Alpha (proMpto) e seu ***propósito***.
+>    - ***Como o Alpha pode ser uma ferramenta estratégica na produção.***
+> 3. **Benefícios do Alpha na Produção Automotiva**
+>    - Aumento da eficiência e ***redução de erros***.
+>    - ***Melhoria na comunicação e coordenação entre equipes.***
+>    - ***Suporte na tomada de decisões baseadas em dados.***
+> 4. **Estrutura e Componentes do Alpha**
+>    - Explicação dos tipos de proMpts: Tarefeiro, Conselheiro, Criativo.
+>    - Importância de definir papel, ação e contexto nos proMpts.
+> 5. ***Aplicações Práticas no Chão de Fábrica***
+>    - ***Exemplos de como o Alpha pode ser usado em processos de produção.***
+>    - ***Demonstração de um proMpt aplicado a um cenário de produção.***
+> 6. **Integração do Alpha no Treinamento de Produção**
+>    - Passos para incorporar o Alpha nos treinamentos atuais.
+>    - Recursos e suporte necessários para a implementação.
+> 7. **Desafios e Soluções**
+>    - Potenciais desafios na adoção do Alpha.
+>    - Estratégias para superar resistências e maximizar benefícios.
+> 8. **Conclusão**
+>    - Recapitulação dos ***benefícios e aplicações*** do Alpha.
+>    - Próximos passos e ***convite para engajamento contínuo***.
+> 9. **Sessão de Perguntas e Respostas**
+>    - Espaço para esclarecer dúvidas e discutir ideias.
+
+Eu sinalizei com ***negrito e itálico*** as principais diferenças que encontrei no segundo roteiro, com muito mais enfoque em atividade e impactos práticos no dia a dia, devido a nova Audiência indicada.
+
+Por tanto, perceba que a Audiênci direciona o discurso e limita as possibilidades na produção que será entregue pela IA, principalmente no caso de GenAIs. Você passa a ter um resultado mais focado e mais preciso, personalizado para o público que irá ter acesso a produção em questão.
+
+Essa também é uma fote demonstração do potencial de uso da IA independente da situação ou do público que se pretenda alcançar, nos lembrando que sempre vale considerar o uso dessa tecnologia, levando em consideração os ganhos e custos, observando um bom custo benefício seu uso sempre será indicado e poderá ser personalizado.
+
+Além disso, sempre que falamos de criações com IAs, é importante ressaltar a responsábilidade do humano nesse processo, inclusive sobre os direitos do que foi realizado.
+
+Definir uma Audiência é uma entidade poderosa para melhorar o foco e o controle do resultado de suas requisições para as IAs, alcansando um resultado mais alinhado com o desejado.
 
 <hr><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/proMpto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
