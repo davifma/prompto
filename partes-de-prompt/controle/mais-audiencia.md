@@ -26,17 +26,15 @@ Faça o teste e você deve perceber uma mudança significativa na criação, ape
 
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md)
 
-[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) **Faça uma balada sobre inteligência artificial**
+[<img src="../../imagens/cards/006.png"  width="187" height="187">](../../partes-de-prompt/acao.md) Faça uma balada sobre inteligência artificial
 
-[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) **se fosse gravada em um disco de vinil**
+[<img src="../../imagens/cards/012.png"  width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md) se fosse gravada em um disco de vinil
 
-[<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md)<img src="../../imagens/cards/022.png"  width="187" height="187"> **por um interprete de Minas Gerais às 15:00 horas em uma tarde preguiçosa** | ***para um público de adolescentes e jovens da geração Z***
+[<img src="../../imagens/cards/007.png"  width="187" height="187">](../../partes-de-prompt/contexto.md)[<img src="../../imagens/cards/017.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md)<img src="../../imagens/cards/022.png"  width="187" height="187"> por um interprete de Minas Gerais às 15:00 horas em uma tarde preguiçosa | ***para um público de adolescentes e jovens da geração Z***
 
-[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)<img src="../../imagens/cards/020.png"  width="187" height="187"> ele tristonho e saudoso, **em estilo Rock Pop**.
+[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)<img src="../../imagens/cards/020.png"  width="187" height="187"> ele tristonho e saudoso, em estilo Rock Pop.
 
-[<img src="../../imagens/cards/011.png"  width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/019.png"  width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)<img src="../../imagens/cards/020.png"  width="187" height="187">
-
-[Clique aqui para ver o resultado.](https://suno.com/song/4f03743b-906e-44a4-a1bd-77b8a88c5404)
+[Clique aqui para ver o resultado.](https://suno.com/song/b570affe-c01e-43c1-a81c-abb16558f2ca)
 
 ## Relações
 <table>
