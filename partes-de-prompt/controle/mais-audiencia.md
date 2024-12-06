@@ -43,10 +43,15 @@ Como um especialista em uso intencional de IA com Alpha escreva um roteiro de ap
 ```
 
 [<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md)
+
 [<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md) **especialista em uso intencional de IA com Alpha**
+
 [<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/acao.md) **escreva um roteiro de apresentação do Alpha (proMpto)**
+
 [<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)<img src="../../imagens/cards/022.png"  width="187" height="187"> **grupo de diretores de uma industria automotiva**
+
 [<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/controle/limites.md) **apenas os tópicos principais para uma apresentação de 15 minutos**
+
 [<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/criacao/assunto.md) **o objetivo é a introdução do Alpha no roteiro de treinamento**
 
 ```
