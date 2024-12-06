@@ -36,6 +36,23 @@ Faça o teste e você deve perceber uma mudança significativa na criação, ape
 
 [Clique aqui para ver o resultado.](https://suno.com/song/b570affe-c01e-43c1-a81c-abb16558f2ca)
 
+A Audiência é um fator importante para qualquer produção, não apenas para produções criativas. Preparar uma reunião apenas com membros da diretoria ou com todo o time operacional, mesmo que seja de um mesmo assunto, deve ser bastante diferente. Pensando nesse caso, por exemplo, vamos imaginar uma situação onde eu desejo apresentar o próprio [Alpha](../../) para grupos diferentes, será que isso impactaria uma sugestão de roteiro? Vamos ver.
+
+```
+Como um especialista em uso intencional de IA com Alpha escreva um roteiro de apresentação do Alpha (proMpto) para um grupo de diretores de uma industria automotiva, contendo apenas os tópicos principais para uma apresentação de 15 minutos, o objetivo é a introdução do Alpha no roteiro de treinamento dessa indústria.
+```
+
+[<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md)
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md) **especialista em uso intencional de IA com Alpha**
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/acao.md) **escreva um roteiro de apresentação do Alpha (proMpto)**
+[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)<img src="../../imagens/cards/022.png"  width="187" height="187"> **grupo de diretores de uma industria automotiva**
+[<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/controle/limites.md) **apenas os tópicos principais para uma apresentação de 15 minutos**
+[<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/criacao/assunto.md) **o objetivo é a introdução do Alpha no roteiro de treinamento**
+
+```
+Como um especialista em uso intencional de IA com Alpha escreva um roteiro de apresentação do Alpha (proMpto) para um grupo de lideres de produção de uma industria automotiva, contendo apenas os tópicos principais para uma apresentação de 15 minutos, o objetivo é a introdução do Alpha no roteiro de treinamento dessa indústria.
+```
+
 ## Relações
 <table>
 <tr>
