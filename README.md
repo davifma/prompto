@@ -12,6 +12,15 @@ Essa é uma abordagem lúdica e evolucionária.
 Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a dia.
 
 ## Jornada
+- ### Direções
+  - #### [garanta a diversidade para evitar vieses](direcoes/garanta-a-diversidade.md)
+  - #### a IA sempre pode ajudar
+  - #### tenha clareza do propósito
+  - #### seja específico
+  - #### considere o ganho
+  - #### considere o custo
+  - #### seja o humano
+  - #### essa a pior IA que vai usar
 - ### Trilha Principal
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
