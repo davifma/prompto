@@ -21,9 +21,27 @@ A decisão de utilizar a IA deve ser tomada de forma consciente, crítica e resp
 
 ## Referências
 
+TRINCA. **6 elementos-chave para gerar valor da IA em escala: transformando ambições ousadas em resultados concretos com insights do IA Executive Summit 2024.** IA Executive Summit, 2024.
+
+Souza, Edney "InterNey". **ChatGPT do Zero aos Prompts Avançados.** Consultoria Interney, 2024.
+
+IFTL. **Como estruturar uma área de IA na sua empresa.** IFTL.Education, 2024.
+
 DOT. DIGITAL GROUP. **Desbravando a Inteligência Artificial no T&D Digital**. 2024.
 
+VWS CAPITAL. **Desbravando horizontes financeiros: a revolução da Inteligência Artificial no mercado financeiro - como a IA pode ajudar com informações e potencializar investimentos.** 2024.
+
+ASAAS. **E-book: Inteligência Artificial para empresas: Teoria, benefícios e aplicações.** 2024.
+
 CHOS/DESIRABLE FUTURES LAB. **E-book: Orquestrando a inteligência artificial**. 2024.
+
+RED HAT. **Fatores a considerar ao criar uma base para IA generativa.** 2024.
+
+ALURA PARA EMPRESAS. **Guia IA para RH: 12 prompts fundamentais para seu time aplicar agora.** 2024.
+
+POD ACADEMY. **Guia prático para identificar tarefas no seu trabalho que podem ser automatizadas com Inteligência Artificial.** 2024.
+
+ASCENTY. **IA generativa e data centers: cenário, desafios e oportunidades para o futuro.** 2024. 
 
 UDEMY BUSINESS. **Local de trabalho 2.0: A promessa da organização baseada em habilidades.** 2024.
 
