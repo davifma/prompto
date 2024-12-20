@@ -14,7 +14,7 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
 ## Jornada
 - ### Direções
   - #### [garanta a diversidade para evitar vieses](direcoes/garanta-a-diversidade.md)
-  - #### a IA sempre pode ajudar
+  - #### [a IA sempre pode ajudar/(direcoes/a-ia-sempre-pode-ajudar.md)
   - #### tenha clareza do propósito
   - #### seja específico
   - #### considere o ganho
