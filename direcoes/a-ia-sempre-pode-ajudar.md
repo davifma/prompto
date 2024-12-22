@@ -33,7 +33,7 @@ VWS CAPITAL. **Desbravando horizontes financeiros: a revolução da Inteligênci
 
 ASAAS. **E-book: Inteligência Artificial para empresas: Teoria, benefícios e aplicações.** 2024.
 
-CHOS/DESIRABLE FUTURES LAB. **E-book: Orquestrando a inteligência artificial**. 2024.
+ECHOS/DESIRABLE FUTURES LAB. **E-book: Orquestrando a inteligência artificial**. 2024.
 
 RED HAT. **Fatores a considerar ao criar uma base para IA generativa.** 2024.
 
