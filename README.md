@@ -16,11 +16,11 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - #### [garanta a diversidade para evitar vieses](direcoes/garanta-a-diversidade.md)
   - #### [a IA sempre pode ajudar](direcoes/a-ia-sempre-pode-ajudar.md)
   - #### [tenha clareza do propósito](direcoes/tenha-clareza-do-proposito.md)
-  - #### seja específico
-  - #### considere o ganho
-  - #### considere o custo
-  - #### seja o humano
-  - #### essa a pior IA que vai usar
+  - #### [seja específico](direcoes/seja-especifico.md)
+  - #### [considere o ganho](direcoes/considere-o-ganho.md)
+  - #### [considere o custo](direcoes/considere-o-custo.md)
+  - #### [seja o humano](direcoes/seja-o-humano.md)
+  - #### [essa é a pior IA que você vai usar](direcoes/essa-e-a-pior-ia-que-voce-vai-usar.md)
 - ### Trilha Principal
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
