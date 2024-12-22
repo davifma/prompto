@@ -20,7 +20,7 @@ Uma Jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - #### [considere o ganho](direcoes/considere-o-ganho.md)
   - #### [considere o custo](direcoes/considere-o-custo.md)
   - #### [seja o humano](direcoes/seja-o-humano.md)
-  - #### [essa é a pior IA que você vai usar](direcoes/essa-e-a-pior-ia-que-voce-vai-usar.md)
+  - #### [essa é a pior IA que você vai usar](direcoes/essa-a-pior-ia-que-voce-vai-usar.md)
 - ### Trilha Principal
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
