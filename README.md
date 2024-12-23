@@ -12,7 +12,7 @@ Essa é uma abordagem lúdica e evolucionária.
 Uma jornada de exploração e letramento no uso intencional de IAs para o dia a dia.
 
 ## Jornada
-- ### Direções
+- ### [Direções](direcoes/)
   - #### [Garanta a diversidade para evitar vieses](direcoes/garanta-a-diversidade.md)
   - #### [A IA sempre pode ajudar](direcoes/a-ia-sempre-pode-ajudar.md)
   - #### [Tenha clareza do propósito](direcoes/tenha-clareza-do-proposito.md)
