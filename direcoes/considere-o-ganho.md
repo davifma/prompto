@@ -1,6 +1,6 @@
-# considere o ganho
+# Considere o ganho
 
-Ao considerar o **"ganho de vida"** no uso intencional de IAs, o foco se desloca para **como o aumento da eficiência e lucro, impulsionados pela IA, podem ser convertidos em tempo livre e bem-estar**. 
+Ao considerar o **"ganho de vida"** no uso intencional de IAs, o foco se desloca para **como o aumento da eficiência e lucro, impulsionados pela IA, podem ser convertidos em tempo livre e bem-estar**.
 
 A IA pode otimizar processos, liberando tempo para atividades mais gratificantes e que apenas os humanos podem realizar. No entanto, é crucial avaliar o custo-benefício, garantindo que o tempo investido na implementação da IA seja inferior ao tempo liberado por ela, resultando em um ganho real de vida.
 
@@ -27,7 +27,7 @@ Souza, Edney "InterNey". **ChatGPT do Zero aos Prompts Avançados.** Consultoria
 
 IFTL. **Como estruturar uma área de IA na sua empresa.** IFTL.Education, 2024.
 
-LAB.CONT. **_Guia de inteligência artificial para contadores**. 2024.
+LAB.CONT. **_Guia de inteligência artificial para contadores.** 2024.
 
 ALURA PARA EMPRESAS. **Guia IA para RH: 12 prompts fundamentais para seu time aplicar agora.** 2024.
 
@@ -35,6 +35,9 @@ POD ACADEMY. **Guia prático para identificar tarefas no seu trabalho que podem 
 
 UDEMY BUSINESS. **Local de trabalho 2.0: A promessa da organização baseada em habilidades.** 2024.
 
-Marques de Almeida, Davi Fontebasso. **OKR, um guia de navegação: Como você sabe se sua empresa está na direção certa? (Seja Ágil)**. amazon.com, 2022
+Marques de Almeida, Davi Fontebasso. **OKR, um guia de navegação: Como você sabe se sua empresa está na direção certa? (Seja Ágil).** amazon.com, 2022.
 
 Marques de Almeida, Davi Fontebasso. **OKR: Leve a empresa para a direção certa!.** udemy.com, 2022.
+
+<hr>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/proMpto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
