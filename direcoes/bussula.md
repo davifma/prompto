@@ -55,13 +55,13 @@ Por exemplo:
 - **Priorize resultados tangíveis:** Foco em números ou entregas claras.
 - **Reveja sempre:** Certifique-se de que os OKRs fazem sentido ao longo do processo.
 
-### Como preencher a área "(Garanta a diversidade para evitar vieses([garanta-a-diversidade.md]"?
+## Como preencher a área "[Garanta a diversidade para evitar vieses](garanta-a-diversidade.md)"?
 Esta área é fundamental para assegurar que a IA seja inclusiva, ética e livre de preconceitos. A diversidade no planejamento e avaliação ajuda a construir soluções mais justas e representativas.
 
 Preenchendo essa área, você garante que o uso da IA seja mais ético e equilibrado, com impacto positivo para todos.
 
-#### Como garantir que o uso da IA seja inclusivo e ético?
-##### Identifique os grupos impactados
+### Como garantir que o uso da IA seja inclusivo e ético?
+#### Identifique os grupos impactados
 
 Pergunte-se:
 - Quem será afetado pelo uso da IA?
@@ -70,47 +70,47 @@ Pergunte-se:
 Por exemplo:
 - Se for uma IA para recrutamento, considere diversidade em gênero, etnia e formação acadêmica.
 
-##### Inclua grupos diversos no planejamento e avaliação
+#### Inclua grupos diversos no planejamento e avaliação
 Certifique-se de que as pessoas envolvidas na implantação, testes e treinamentos da IA representem diferentes origens e experiências.
 
 Por exemplo:
 - Adicione especialistas de diferentes áreas ou membros de grupos sub-representados na equipes.
 
-#### Dicas
+### Dicas
 - **Promova inclusão:** Construa equipes com origens e experiências variadas.
 - **Reveja continuamente:** Atualize processos para acompanhar mudanças sociais ou organizacionais.'
 
-#### Conexões
+### Conexões
 Se os dados forem tendenciosos, podem comprometer os resultados da IA e até mesmo inviabilizar os objetivos traçados anteriormente.
 
 Garantir diversidade não é apenas uma questão de ética, mas também de alcançar resultados melhores e mais eficazes. Ignorar isso pode criar problemas em todas as áreas do planejamento, desde os objetivos até a mensuração de resultados.
 
-##### Tenha Clareza do Propósito
+#### Tenha Clareza do Propósito
 O propósito definido deve levar em conta a inclusão e a ética. Se o objetivo da IA for resolver um problema relacionado a desigualdade ou acessibilidade, a diversidade torna-se ainda mais essencial no planejamento.
 
 Por Exemplo:
 - Se o objetivo da IA é ajudar no recrutamento, garantir a diversidade nos dados usados será crucial para evitar discriminação.
 
-##### OKRs
+#### OKRs
 A diversidade pode ser incorporada como um **resultado-chave (KR)**. Isso torna a diversidade parte mensurável do planejamento estratégico. 
 
 Por exemplo:
 - Garantir que 50% da equipe de teste da IA seja composta por pessoas de diferentes gêneros ou etnias.
 
-##### Seja o humano
+#### Seja o humano
 A área pode ser afetada, pois revisões humanas se tornam críticas para identificar e corrigir vieses durante todo o processo.
 
-#### **Como preencher a área "Diversity Index"?
+### **Como preencher a área "Diversity Index"?
 
 O **Diversity Index** é uma prática utilizada para medir e promover a diversidade em equipes ou projetos. Nesta subárea, você avalia diferentes aspectos da diversidade, como gênero, formação, experiência e outras características relevantes, para garantir representatividade no uso da IA.
 
 Preenchendo esta subárea, você identifica lacunas de diversidade e promove um ambiente mais inclusivo, ético e colaborativo.
 
-##### Como usar o Diversity Index para garantir a diversidade?
+#### Como usar o Diversity Index para garantir a diversidade?
 
 Essa subárea complementa o planejamento estratégico, ajudando a transformar a diversidade em algo mensurável e aplicável.
 
-###### Liste as Dimensões da Diversidade
+##### Liste as Dimensões da Diversidade
 Pergunte-se:
 
 Quais características são relevantes para avaliar a diversidade neste contexto?
@@ -121,7 +121,7 @@ Por exemplo:
 - Experiência profissional
 - Nacionalidade ou contexto cultural
 
-###### Avalie a Representatividade
+##### Avalie a Representatividade
 Pergunte-se:
 - Como cada dimensão está representada na equipe ou no projeto?
 - Existem lacunas ou grupos sub-representados?
@@ -130,7 +130,7 @@ Por exemplo:
 - Gênero: 40% mulheres, 60% homens.
 - Formação: 70% têm formação técnica, mas falta diversidade em humanidades.
 
-###### Crie um Plano de Ação
+##### Crie um Plano de Ação
 Pergunte-se:
 Como aumentar a diversidade nas áreas identificadas como deficientes?
 
@@ -138,36 +138,36 @@ Por exemplo:
 - Adicionar consultores de diferentes formações para revisar os dados usados pela IA.
 - Garantir que o time de teste seja mais equilibrado em termos de gênero e cultura.
 
-###### Dicas
+##### Dicas
 - **Use ferramentas visuais:** Mapas ou gráficos ajudam a visualizar melhor a diversidade.
 - **Promova equilíbrio:** Evite que uma dimensão domine sobre as outras.
 - **Revise periodicamente:** A diversidade deve ser monitorada continuamente.
 
-###### Conexões
-**Tenha Clareza do Propósito**
+##### Conexões
+###### Tenha Clareza do Propósito
 
 Se o objetivo da IA estiver relacionado a inclusão ou justiça social, use o **Diversity Index** para garantir que esses valores sejam representados no projeto.
 
-**OKRs**
+###### OKRs
 
 Inclua a diversidade como um **resultado-chave (KR)**. 
 
 Por exemplo:
 - Aumentar a diversidade em 30% na equipe de desenvolvimento em 6 meses.
 
-##### Como preencher a área "Vieses"?
+#### Como preencher a área "Vieses"?
 
 **"Vieses"** ajuda a identificar e corrigir preconceitos nos dados, processos ou decisões que envolvem a IA. Detectar e mitigar vieses é essencial para garantir que a IA produza resultados éticos, justos e representativos.
 
 Preenchendo esta subárea, você reduz o risco de discriminação e assegura que a IA seja inclusiva e alinhada aos valores organizacionais.
 
-###### Como identificar possíveis vieses e mitigá-los?
+##### Como identificar possíveis vieses e mitigá-los?
 
 Esta subárea complementa o processo de garantir a diversidade, focando em corrigir problemas que podem comprometer os resultados da IA.
 
 Preenchendo você cria um uso de IA mais justo e alinhado aos princípios éticos.
 
-**Identifique os Vieses**
+###### Identifique os Vieses
 
 Pergunte-se:
 
@@ -179,7 +179,7 @@ Por exemplo:
 - Dados de recrutamento podem estar enviesados se forem baseados em padrões de contratação predominantemente masculinos.
 - Algoritmos de recomendação podem reforçar desigualdades se usarem apenas dados históricos.
 
-**Analise as Consequências dos Vieses**
+###### Analise as Consequências dos Vieses
 
 Pergunte-se:
 
@@ -190,7 +190,7 @@ Por exemplo:
 - Um viés em uma IA de recrutamento pode descartar automaticamente currículos de mulheres em áreas STEM.
 - Sistemas de crédito podem penalizar minorias devido a padrões históricos injustos.
 
-**Mitigue os Vieses**
+###### Mitigue os Vieses
 
 Pergunte-se:
 
@@ -201,18 +201,18 @@ Por exemplo:
 - Revisar os dados para incluir representatividade de diferentes grupos.
 - Incorporar revisões humanas em decisões críticas.
 
-###### Dicas
+##### Dicas
 - **Use ferramentas de auditoria de IA:** Soluções como IBM AI Fairness 360 ajudam a detectar e corrigir vieses.
 - **Valide com grupos diversos:** Envolva pessoas de diferentes origens para revisar os resultados da IA.
 - **Reveja os dados regularmente:** Dados desatualizados podem introduzir novos vieses.
 
-###### Conexões
+##### Conexões
 
-**Seja o Humano**
+###### Seja o Humano
 
 A supervisão humana é essencial para revisar resultados gerados pela IA e identificar possíveis vieses que o sistema não detecte automaticamente.
 
-**Tenha Clareza do Propósito**
+###### Tenha Clareza do Propósito
 
 Se o objetivo da IA inclui justiça social ou inclusão, identificar e corrigir vieses é crucial para alcançar esses propósitos.
 
