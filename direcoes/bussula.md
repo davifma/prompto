@@ -72,7 +72,7 @@ Esta área é fundamental para assegurar que a IA seja inclusiva, ética e livre
 
 Preenchendo essa área, você garante que o uso da IA seja mais ético e equilibrado, com impacto positivo para todos.
 
-![bussula](../imagens/exemplos/bussula-diverssidade.jpg)
+![bussula](../imagens/exemplos/bussula-diversidade.jpg)
 
 ### Como garantir que o uso da IA seja inclusivo e ético?
 #### Identifique os grupos impactados
