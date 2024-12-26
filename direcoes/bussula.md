@@ -14,6 +14,8 @@ A Bússola de Implantação é mais do que uma estrutura; é um mapa para explor
 ## Como preencher a área "[Tenha clareza do propósito](tenha-clareza-do-proposito.md)"?
 Essa área é como um "norte" para todo o preenchimento do Canvas, então seja claro e objetivo!
 
+![bussula](../imagens/exemplos/bussula-clareza.jpg)
+
 ### Qual é o objetivo principal do uso da IA?
 Escreva o motivo específico pelo qual você quer usar a inteligência artificial. Pense no problema que deseja resolver ou na melhoria que espera alcançar.
 #### Identifique o problema ou necessidade:
@@ -69,6 +71,8 @@ Por exemplo:
 Esta área é fundamental para assegurar que a IA seja inclusiva, ética e livre de preconceitos. A diversidade no planejamento e avaliação ajuda a construir soluções mais justas e representativas.
 
 Preenchendo essa área, você garante que o uso da IA seja mais ético e equilibrado, com impacto positivo para todos.
+
+![bussula](../imagens/exemplos/bussula-diverssidade.jpg)
 
 ### Como garantir que o uso da IA seja inclusivo e ético?
 #### Identifique os grupos impactados
@@ -234,6 +238,8 @@ Preenchendo esta área, você organiza e prioriza as maneiras pelas quais a IA p
 
 Você está organizando o uso da IA de forma estratégica, garantindo que ela seja uma ferramenta útil e intencional.
 
+![bussula](../imagens/exemplos/bussula-sempre-pode-ajudar.jpg)
+
 ### Quais são os tipos de uso da IA?
 
 #### Classifique os tipos de uso
@@ -326,6 +332,8 @@ Esta área ajuda a identificar os benefícios tangíveis que a IA pode oferecer 
 Preenchendo esta área, você garante que a IA seja aplicada de forma estratégica, entregando resultados claros e mensuráveis.
 
 O objetivo é maximizar o valor obtido com o uso da IA, alinhando os benefícios esperados ao propósito inicial. Com esta área preenchida, você assegura que o uso da IA seja intencional e direcionado a gerar o maior valor possível.
+
+![bussula](../imagens/exemplos/bussula-ganho.jpg)
 
 ### Que benefícios tangíveis a IA proporcionará?
 
@@ -425,6 +433,8 @@ A área **"Considere o custo"** ajuda a avaliar os recursos necessários e os po
 
 Preenchendo esta área, você assegura que o uso da IA seja viável, sustentável e alinhado às metas organizacionais. Com esta área preenchida, você cria um planejamento equilibrado, garantindo que a IA seja implementada com responsabilidade e controle financeiro.
 
+![bussula](../imagens/exemplos/bussula-custo.jpg)
+
 ### Quais são os recursos necessários e os riscos envolvidos?
 
 #### Identifique os Recursos Necessários
@@ -462,7 +472,7 @@ Por exemplo:
 - **Envolva especialistas:** Trabalhe com equipes multidisciplinares para identificar riscos e soluções.
 - **Revise periodicamente:** Reavalie os custos e riscos ao longo do tempo para manter a viabilidade.
 
-### **Conexões**
+### Conexões
 
 #### Considere o Ganho
 Os custos devem ser comparados diretamente aos benefícios identificados. Certifique-se de que os ganhos superem os custos para justificar a implementação.
@@ -527,6 +537,8 @@ KPIs ajudam a monitorar o progresso dos **Objetivos e Resultados-Chave (OKRs)**.
 A área **"Seja o humano"** ajuda a definir quais decisões e tarefas devem permanecer sob responsabilidade humana. Determinar os limites da automação garante que a IA seja utilizada de forma complementar, sem comprometer a ética, empatia e controle necessário.
 
 Preenchendo esta área, você assegura que as decisões mais críticas e sensíveis sejam geridas por humanos, enquanto a IA executa tarefas que realmente podem ser automatizadas. 
+
+![bussula](../imagens/exemplos/bussula-humano.jpg)
 
 ### Como determinar os limites da automação?
 
@@ -630,6 +642,8 @@ Momentos de supervisão ajudam a detectar e corrigir vieses que podem ser introd
 A área **"Considere essa a pior IA que você vai usar"** ajuda a planejar a adaptação da IA às inovações futuras, reconhecendo que a tecnologia atual será superada com o tempo. Isso incentiva a criação de uma cultura de aprendizado contínuo, mantendo a IA sempre relevante e eficiente.
 
 Preenchendo esta área, você assegura que sua equipe esteja preparada para evoluir com as mudanças tecnológicas, garantindo que a IA se mantenha alinhada às necessidades e objetivos. Construindo uma base sólida para que sua IA evolua continuamente, mantendo-se útil e alinhada às mudanças do mercado e às necessidades organizacionais.
+
+![bussula](../imagens/exemplos/bussula-pior-ia.jpg)
 
 ### Como a IA será adaptada às inovações futuras?
 
