@@ -512,6 +512,212 @@ KPIs financeiros, como ROI, permitem acompanhar a viabilidade econômica e justi
 ##### OKR
 KPIs ajudam a monitorar o progresso dos **Objetivos e Resultados-Chave (OKRs)**. Enquanto os KRs definem o objetivo, os KPIs fornecem as métricas para avaliar se esses resultados estão sendo alcançados.
 
+## Como preencher a área "[Seja o humano](seja-o-humano.md)"?
+
+A área **"Seja o humano"** ajuda a definir quais decisões e tarefas devem permanecer sob responsabilidade humana. Determinar os limites da automação garante que a IA seja utilizada de forma complementar, sem comprometer a ética, empatia e controle necessário.
+
+Preenchendo esta área, você assegura que as decisões mais críticas e sensíveis sejam geridas por humanos, enquanto a IA executa tarefas que realmente podem ser automatizadas. 
+
+### Como determinar os limites da automação?
+
+#### Identifique Tarefas Críticas
+Pergunte-se:
+- Quais tarefas requerem julgamento humano ou implicam grandes impactos éticos ou sociais?
+- Existem áreas em que a empatia humana é indispensável?
+
+Por exemplo:
+- Aprovações finais em projetos.
+- Decisões que envolvem impacto em pessoas (ex.: recrutamento final ou demissões).
+- Interações delicadas com clientes em situações de crise.
+
+#### Avalie Riscos de Automação
+Pergunte-se:
+- Quais riscos estão associados à automação total dessa tarefa?
+- Existe risco de erro ou impacto negativo significativo se a IA tomar essa decisão?
+
+Por exemplo:
+- **Risco técnico:** Falhas em algoritmos que possam gerar decisões erradas.
+- **Risco ético:** Viés não detectado que cause discriminação.
+
+#### Determine o Papel do Humano
+Pergunte-se:
+- Como humanos e IA podem trabalhar juntos para alcançar melhores resultados?
+- Quais tarefas podem ser automatizadas parcialmente, mantendo o controle humano?
+
+Por exemplo:
+- IA realiza a triagem inicial de currículos, mas a decisão final de contratação é feita por um humano.
+- IA sugere diagnósticos baseados em dados médicos, mas o médico é responsável pelo diagnóstico final.
+
+### Dicas
+- **Estabeleça supervisão constante:** Revise regularmente os resultados da IA para garantir precisão e ética.
+- **Defina claramente os limites:** Especifique quais tarefas a IA pode executar e onde o humano entra no processo.
+- **Mantenha a empatia:** Preserve o toque humano em interações que impactem diretamente pessoas.
+
+### Conexões
+
+#### Vieses
+A supervisão humana é crucial para identificar e corrigir vieses que a IA possa reproduzir.
+
+#### Considere o Custo
+Automação excessiva pode gerar custos elevados devido a erros ou retrabalhos, reforçando a importância de definir limites claros.
+
+#### Considere o Ganho
+Os ganhos com automação devem ser equilibrados com o valor da supervisão humana, especialmente em áreas críticas.
+
+### **Como preencher a área "Ciclos de Feedback"?**
+
+A área **"Ciclos de Feedback"** é essencial para planejar a supervisão e a validação humana no uso da IA. Esses ciclos garantem que a IA esteja funcionando conforme o esperado, corrigindo possíveis erros e ajustando seu comportamento ao longo do tempo.
+
+Preenchendo esta área, você busca assegurar que o uso da IA permaneça confiável, ético e alinhado às necessidades do contexto, mesmo com mudanças ou melhorias. Criando um sistema robusto de supervisão e melhoria contínua, assegurando que a IA seja confiável e eficaz.
+
+#### Como planejar momentos de supervisão e validação humana?
+
+##### Determine os Pontos Críticos de Supervisão
+Pergunte-se:
+- Quais etapas do processo exigem revisão humana para evitar erros ou garantir a precisão?
+- Onde é mais provável que a IA cometa erros ou precise de ajustes?
+
+Por exemplo:
+- Revisar decisões feitas pela IA em processos de recrutamento.
+- Validar diagnósticos ou sugestões geradas pela IA em contextos médicos.
+
+##### Estabeleça a Frequência de Feedback
+Pergunte-se:
+- Com que frequência a IA precisa ser revisada?
+- Existem momentos específicos ou eventos que disparam a necessidade de feedback?
+
+Por exemplo:
+- Revisões semanais para avaliar o desempenho de automações.
+- Feedback em tempo real para IA que interage diretamente com clientes.
+
+##### Envolva Humanos no Ciclo de Melhoria
+Pergunte-se:
+- Como os humanos podem fornecer insights para ajustar e treinar a IA?
+- Quem na equipe será responsável por supervisionar e validar os resultados?
+
+Por exemplo:
+- Equipe de qualidade revisa os outputs da IA e sugere ajustes nos algoritmos.
+- Profissionais especializados avaliam os dados de entrada para evitar vieses.
+
+#### Dicas
+- **Documente os feedbacks:** Registre os ajustes realizados para acompanhar a evolução da IA.
+- **Crie rotinas regulares:** Agende ciclos de feedback com frequência definida e o mais curta possível.
+- **Envolva especialistas:** Pessoas com experiência no domínio devem liderar a validação.
+
+#### Conexões
+
+##### Seja o Humano
+A supervisão humana é essencial para identificar falhas e garantir que a IA esteja cumprindo seu papel com precisão e ética.
+
+##### Considere essa a Pior IA que Você Vai Usar
+Os ciclos de feedback permitem melhorar continuamente a IA, alinhando-a às necessidades atuais e futuras.
+
+##### Vieses
+Momentos de supervisão ajudam a detectar e corrigir vieses que podem ser introduzidos pela IA ao longo do tempo.
+
+## Como preencher a área "[Considere essa a pior IA que você vai usar](considere-essa-a-pior-IA.md)"?
+
+A área **"Considere essa a pior IA que você vai usar"** ajuda a planejar a adaptação da IA às inovações futuras, reconhecendo que a tecnologia atual será superada com o tempo. Isso incentiva a criação de uma cultura de aprendizado contínuo, mantendo a IA sempre relevante e eficiente.
+
+Preenchendo esta área, você assegura que sua equipe esteja preparada para evoluir com as mudanças tecnológicas, garantindo que a IA se mantenha alinhada às necessidades e objetivos. Construindo uma base sólida para que sua IA evolua continuamente, mantendo-se útil e alinhada às mudanças do mercado e às necessidades organizacionais.
+
+### Como a IA será adaptada às inovações futuras?
+
+#### Avalie a Flexibilidade da IA Atual
+Pergunte-se:
+- A tecnologia usada hoje permite atualizações e adaptações?
+- Quais aspectos da IA podem se tornar obsoletos?
+
+Por exemplo:
+- Algoritmos de aprendizado podem precisar de dados mais recentes para continuar relevantes.
+- Sistemas legados podem não suportar integrações com novas plataformas.
+
+#### Planeje Atualizações Periódicas
+Pergunte-se:
+- Com que frequência a IA deve ser revisada ou atualizada?
+- Quem será responsável por acompanhar tendências tecnológicas?
+
+Por exemplo:
+- Revisões trimestrais para identificar avanços tecnológicos aplicáveis.
+- Implementação de novos modelos de IA conforme surgem.
+
+#### Mantenha uma Cultura de Aprendizado Contínuo
+Pergunte-se:
+- Como a equipe será capacitada para lidar com mudanças tecnológicas?
+- Quais práticas de aprendizado contínuo podem ser implementadas?
+
+Por exemplo:
+- Realizar treinamentos regulares para a equipe sobre novas ferramentas de IA.
+- Participar de eventos ou conferências sobre inteligência artificial.
+
+### Dicas
+- **Revise e atualize:** Inclua revisões periódicas para evitar obsolescência tecnológica.
+- **Acompanhe tendências:** Mantenha-se informado sobre novas tecnologias e práticas do setor.
+- **Invista na equipe:** Capacite os envolvidos para implementar e usar inovações com eficiência.
+
+### **Conexões**
+
+#### **Ciclos de Feedback**
+Revisões periódicas da IA estão diretamente ligadas aos ciclos de feedback, garantindo que as inovações sejam aplicadas de forma estratégica.
+
+#### **Seja o Humano**
+A adaptação tecnológica deve sempre incluir supervisão humana para avaliar a relevância e o impacto das mudanças.
+
+#### **Considere o Ganho**
+Novas tecnologias podem trazer ganhos adicionais. Certifique-se de avaliar o impacto das inovações no valor entregue pela IA.
+
+### **Como preencher a área "Ciclos de Feedback"?**
+
+A área **"Ciclos de Feedback"** ajuda a estruturar revisões periódicas para atualizar e melhorar o desempenho da IA. Essas revisões garantem que a IA se mantenha relevante, eficiente e alinhada às necessidades, permitindo que problemas sejam corrigidos e inovações sejam incorporadas.
+
+Preenchendo esta área, você estabelece um processo contínuo de supervisão, adaptação e aprendizado, essencial para manter a eficácia da IA a longo prazo. Criando uma base sólida para supervisão e melhoria contínua, garantindo que a IA se mantenha atualizada e relevante no longo prazo.
+
+#### Como planejar revisões periódicas para atualização?
+
+##### Defina a Frequência das Revisões
+Pergunte-se:
+- Com que regularidade a IA precisa ser revisada?
+- Quais fatores determinam a necessidade de uma revisão (ex.: mudanças no mercado, novas tecnologias)?
+
+Por exemplo:
+- Revisões trimestrais para avaliar desempenho geral e impacto.
+- Revisões mensais para ajustar erros ou inconsistências em processos críticos.
+
+##### Estabeleça os Objetivos das Revisões
+Pergunte-se:
+- O que deve ser analisado durante cada ciclo de feedback?
+- Como identificar melhorias necessárias ou pontos fracos?
+
+Por exemplo:
+- Verificar se os outputs da IA estão alinhados aos objetivos.
+- Avaliar a precisão dos dados utilizados e identificar vieses.
+
+#### Envolva a Equipe nas Atualizações
+Pergunte-se:
+- Quem será responsável por liderar as revisões e implementar melhorias?
+- Como o feedback da equipe pode ser usado para ajustar a IA?
+
+Por exemplo:
+- Especialistas de domínio revisam os resultados da IA e sugerem ajustes.
+- Equipes técnicas integram novos algoritmos ou dados para melhorar o desempenho.
+
+#### Dicas
+- **Documente tudo:** Registre os resultados de cada ciclo de revisão para acompanhar a evolução da IA.
+- **Crie um cronograma fixo:** Estabeleça datas regulares para as revisões e comunique à equipe.
+- **Incorpore feedback do usuário final:** Utilize as percepções de quem interage diretamente com a IA para melhorar sua aplicação.
+
+### Conexões
+
+#### Seja o Humano
+A supervisão humana é essencial em cada ciclo de feedback, garantindo que as revisões sejam feitas com critério ético e técnico.
+
+#### Considere essa a Pior IA que Você Vai Usar
+Os ciclos de feedback são fundamentais para adaptar a IA às inovações futuras e corrigir limitações identificadas.
+
+#### Vieses
+Revisões periódicas ajudam a identificar e mitigar vieses nos algoritmos e dados utilizados pela IA.
+
+
 # Veja também
 Caminho da Consciência
 Tarefeiro
