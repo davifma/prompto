@@ -21,6 +21,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - #### [Considere o custo](direcoes/considere-o-custo.md)
   - #### [Seja o humano](direcoes/seja-o-humano.md)
   - #### [Considere essa a pior IA que você vai usar](direcoes/considere-essa-a-pior-IA.md)
+- ### [Bússula de Implantação](direcoes/bussula.md) 
 - ### Trilha Principal
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
