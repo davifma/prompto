@@ -33,6 +33,11 @@ No uso de IAs, é fundamental que o ser humano mantenha o controle, orientando a
 
 A expressão "esta é a pior IA que você vai usar" destaca a rápida evolução da inteligência artificial. Com avanços contínuos em aprendizado de máquina, hardware e modelos de linguagem, as IAs estão em constante aprimoramento. Reconhecer que a tecnologia atual é a mais limitada que utilizaremos nos incentiva a adotar uma mentalidade de aprendizado contínuo, explorando sempre as ferramentas mais recentes para impulsionar a inovação e o progresso.
 
+# [Bússula de Implantação](bussula.md)
+*Aplicando as direções para uso Intencional da Inteligência Artificial*
+
+A Bússola de Implantação é um modelo estruturado (Canvas) que orienta o uso estratégico e intencional da Inteligência Artificial nas organizações. Baseada nas direções do Alpha (proMpto), a Bússola auxilia desde a definição clara do propósito da IA até o planejamento de custos, ganhos e ciclos de feedback. Ao abordar áreas fundamentais como objetivos, resultados-chave (OKRs) e garantia de diversidade para evitar vieses, o Canvas promove a implementação ética e eficiente da IA, alinhando suas capacidades aos objetivos organizacionais e assegurando um impacto positivo e mensurável.
+
 <hr>
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/proMpto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
