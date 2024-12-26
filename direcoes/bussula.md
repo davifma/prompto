@@ -1,6 +1,14 @@
 # Bússula de Implantação
 *Aplicando as direções para uso Intencional da Inteligência Artificial*
 
+A Inteligência Artificial (IA) está se tornando uma ferramenta indispensável para empresas e equipes que desejam inovar, otimizar processos e alcançar resultados expressivos. No entanto, para que a IA entregue todo o seu potencial, é fundamental adotá-la de forma intencional, com planejamento claro e estratégias bem definidas.
+
+Apresento a Bússola de Implantação, um modelo estruturado (Canvas) para guiar o uso estratégico da IA. Baseado nas [Direções](../direcoes) do **Alpha (proMpto)**, o Canvas permite explorar os benefícios da IA enquanto se evita riscos, como vieses e custos desnecessários. Mais do que um guia técnico, a Bússola ajuda a alinhar as capacidades da IA aos objetivos organizacionais, promovendo impacto positivo e resultados mensuráveis.
+
+Ao longo do Canvas, você será conduzido por áreas fundamentais que abrangem desde a definição do propósito até o planejamento de custos, ganhos e ciclos de feedback. Cada seção oferece perguntas práticas, exemplos e dicas úteis para garantir que a IA seja implementada de forma ética, eficiente e alinhada às suas necessidades.
+
+A Bússola de Implantação é mais do que uma estrutura; é um mapa para explorar o potencial da IA de forma intencional e responsável, equilibrando automação e supervisão humana. Ao seguir as direções aqui propostas, você estará preparado para aproveitar o melhor da tecnologia enquanto constrói um caminho sólido para o futuro.
+
 ## Como preencher a área "[Tenha clareza do propósito](tenha-clareza-do-proposito.md)"?
 Essa área é como um "norte" para todo o preenchimento do Canvas, então seja claro e objetivo!
 
@@ -717,6 +725,20 @@ Os ciclos de feedback são fundamentais para adaptar a IA às inovações futura
 #### Vieses
 Revisões periódicas ajudam a identificar e mitigar vieses nos algoritmos e dados utilizados pela IA.
 
+## Desenhando seus caminhos
+
+O uso intencional e estratégico da Inteligência Artificial tem o potencial de transformar processos, otimizar recursos e alcançar resultados impactantes. Este modelo de Canvas, estruturado com base em direções claras e práticas aplicáveis, serve como um guia para implementar a IA de forma ética, eficiente e alinhada aos objetivos organizacionais.
+
+Ao seguir as orientações apresentadas em cada área do Canvas, você poderá:
+
+- **Definir um propósito claro e mensurável** para o uso da IA, conectando objetivos e resultados a métricas tangíveis.
+- **Garantir diversidade e evitar vieses**, promovendo soluções mais inclusivas e representativas.
+- **Identificar e planejar os ganhos e custos**, assegurando viabilidade financeira e operacional.
+- **Estabelecer supervisão e ciclos de feedback contínuos**, adaptando a IA às mudanças e inovações futuras.
+
+A IA é uma ferramenta poderosa, mas deve ser usada com responsabilidade. Manter o equilíbrio entre automação e supervisão humana, investir na evolução contínua da tecnologia e capacitar sua equipe são passos fundamentais para aproveitar ao máximo o potencial da IA.
+
+Ao preencher o Canvas e revisá-lo regularmente, você estará construindo uma base sólida para decisões informadas, uma cultura de aprendizado contínuo e resultados consistentes. Use este guia como um mapa para navegar com confiança no processo de implementação da IA, garantindo um impacto positivo e duradouro em sua organização.
 
 # Veja também
 Caminho da Consciência
