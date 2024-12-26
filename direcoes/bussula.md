@@ -5,6 +5,8 @@ A Inteligência Artificial (IA) está se tornando uma ferramenta indispensável 
 
 Apresento a Bússola de Implantação, um modelo estruturado (Canvas) para guiar o uso estratégico da IA. Baseado nas [Direções](../direcoes) do **Alpha (proMpto)**, o Canvas permite explorar os benefícios da IA enquanto se evita riscos, como vieses e custos desnecessários. Mais do que um guia técnico, a Bússola ajuda a alinhar as capacidades da IA aos objetivos organizacionais, promovendo impacto positivo e resultados mensuráveis.
 
+![bussula](../imagens/exemplos/bussula.jpg)
+
 Ao longo do Canvas, você será conduzido por áreas fundamentais que abrangem desde a definição do propósito até o planejamento de custos, ganhos e ciclos de feedback. Cada seção oferece perguntas práticas, exemplos e dicas úteis para garantir que a IA seja implementada de forma ética, eficiente e alinhada às suas necessidades.
 
 A Bússola de Implantação é mais do que uma estrutura; é um mapa para explorar o potencial da IA de forma intencional e responsável, equilibrando automação e supervisão humana. Ao seguir as direções aqui propostas, você estará preparado para aproveitar o melhor da tecnologia enquanto constrói um caminho sólido para o futuro.
