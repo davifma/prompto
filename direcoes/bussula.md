@@ -740,17 +740,21 @@ A IA é uma ferramenta poderosa, mas deve ser usada com responsabilidade. Manter
 
 Ao preencher o Canvas e revisá-lo regularmente, você estará construindo uma base sólida para decisões informadas, uma cultura de aprendizado contínuo e resultados consistentes. Use este guia como um mapa para navegar com confiança no processo de implementação da IA, garantindo um impacto positivo e duradouro em sua organização.
 
-# Veja também
-Caminho da Consciência
-Tarefeiro
-Conselheiro
-Criativo
-https://davifma.github.io/prompto/tipos-de-prompt/cocriacao.html
+## Leia também 
+- ### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- ### Caminho da Consciência
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
 
-# Referências
-https://management30.com/practice/diversity-index/
+## Referências
 
-Livro de OKRs
+MANAGEMENT 3.0. **Diversity Index**. Disponível em: https://management30.com/practice/diversity-index/. Acesso em: 26 dez. 2024.
 
-Curso de OKRs
+MARQUES DE ALMEIDA, DAVI FONTEBASSO. **OKR, Leve a empresa para a direção certa!** Disponível em: https://www.udemy.com/course/guiadeokr/?referralCode=B6DB909B085AFF397AD3. Acesso em: 26 dez. 2024.
+
+MARQUES DE ALMEIDA, DAVI FONTEBASSO. **OKR, um guia de navegação: Como você sabe se sua empresa está na direção certa?** 2022. Disponível em: https://www.amazon.com.br/dp/B09SW2VTM6. Acessado em: 15 ago. 2024.
+
+
 
