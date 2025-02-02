@@ -35,7 +35,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [Criativo](tipos-de-prompt/criativo.md)
   - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
 - #### Caminho da Produção
-  - ##### (Caminho de embasamento)[conceitos/jornada/caminho-de-embasamento.md]
+  - ##### [Caminho de embasamento](conceitos/jornada/caminho-de-embasamento.md)
     - [Papel](partes-de-prompt/papel.md)
     - [Ação](partes-de-prompt/acao.md)
     - [Contexto](partes-de-prompt/contexto.md)
