@@ -2,6 +2,8 @@ Caminho da Consciência
 
 O **"caminho da consciência"** refere-se aos passos ou elementos [Tarefeiro](../../tipos-de-prompt/tarefeiro.md), [Conselheiro](../../tipos-de-prompt/conselheiro.md), [Criativo](../../tipos-de-prompt/criativo.md) e [Mais escolhas](../../tipos-de-prompt/mais-escolhas.md), que são fundamentais para decidir qual tipo de agente ou *prompt* será usado de forma intencional, ou seja, para qual tipo de uso você deveria focar a Inteligência Artificial (IA). 
 
+[<img src="../../imagens/cards/001.png" width="187" height="187">](../../tipos-de-prompt/tarefeiro.md) [<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md) [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
+
 Esses elementos representam os tipos básicos de usos da IA que podem ser empregados em diversas situações.
 
 - **[Tarefeiro](../../tipos-de-prompt/tarefeiro.md):** Este tipo de *prompt* ou agente é usado para atividades comuns e repetitivas, onde a IA executa tarefas específicas e bem definidas sem a necessidade de propor novas informações ou simular uma criação. A intenção é usar a IA como uma ferramenta para automatizar tarefas rotineiras e economizar tempo.
