@@ -29,7 +29,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - ##### [Completo ou complexo?](prompts-complexos.md) 
   - ##### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
 - #### [Uso evolucionário de IAs](uso-evolucionario-de-ias.md) 
-- #### Caminho da Consciência
+- #### [Caminho da Consciência](conceitos/jornada/caminho-da-consciencia.md)
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
