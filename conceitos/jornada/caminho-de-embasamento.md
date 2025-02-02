@@ -1,6 +1,10 @@
 # Caminho de Embasamento
 
-O "Caminho de Embasamento" é composto pelos elementos **[Papel](../../partes-de-prompt/papel.md), [Ação](../../partes-de-prompt/acao.md) e [Contexto](../../partes-de-prompt/contexto.md)**, que são considerados os itens mínimos necessários para a escrita de um bom *prompt* na maioria dos casos. Esses componentes ajudam a estruturar a solicitação à Inteligência Artificial (IA), tornando-a mais clara e eficiente..
+O "Caminho de Embasamento" é composto pelos elementos **[Papel](../../partes-de-prompt/papel.md), [Ação](../../partes-de-prompt/acao.md) e [Contexto](../../partes-de-prompt/contexto.md)**, que são considerados os itens mínimos necessários para a escrita de um bom *prompt* na maioria dos casos. Esses componentes ajudam a estruturar a solicitação à Inteligência Artificial (IA), tornando-a mais clara e eficiente.
+
+[<img src="imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  
+[<img src="imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
+[<img src="imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)
 
 *   **[Papel](../../partes-de-prompt/papel.md):** Define a função que a IA deve desempenhar na resposta à solicitação. Atribuir um papel específico à IA ajuda a direcionar o tom, a profundidade e a perspectiva da resposta. O componente "[Papel](../../partes-de-prompt/papel.md)" está presente em diversas metodologias de criação de *prompts*, como PACIF, PACEF e PREP. Ao definir o papel, você trata a IA de maneira semelhante a um parceiro humano, o que pode melhorar a comunicação e a sinergia.
     *   Exemplo: "Como se você fosse um *fashionista* especialista..."
