@@ -1,4 +1,4 @@
-Caminho da Consciência
+# Caminho da Consciência
 
 O **"caminho da consciência"** refere-se aos passos ou elementos [Tarefeiro](../../tipos-de-prompt/tarefeiro.md), [Conselheiro](../../tipos-de-prompt/conselheiro.md), [Criativo](../../tipos-de-prompt/criativo.md) e [Mais escolhas](../../tipos-de-prompt/mais-escolhas.md), que são fundamentais para decidir qual tipo de agente ou *prompt* será usado de forma intencional, ou seja, para qual tipo de uso você deveria focar a Inteligência Artificial (IA). 
 
@@ -13,4 +13,23 @@ Esses elementos representam os tipos básicos de usos da IA que podem ser empreg
 
 A escolha do tipo de *prompt* ou agente adequado depende do objetivo do usuário e da natureza da tarefa.  **O "caminho da consciência" envolve a reflexão sobre qual tipo de IA melhor atenderá às necessidades específicas, seja para tarefas simples, busca por informações, criação de conteúdo ou combinação de opções**. Além disso, é importante considerar os benefícios e os custos do uso da IA, garantindo que o saldo entre custo e benefício seja positivo.
 
-# Relações
+## Relações
+- ### [Direções](../../direcoes/)
+  - #### [Tenha clareza do propósito](../../direcoes/tenha-clareza-do-proposito.md)
+  - #### [Seja específico](../../direcoes/seja-especifico.md)
+  - #### [Considere o ganho](../../direcoes/considere-o-ganho.md)
+  - #### [Considere o custo](../../direcoes/considere-o-custo.md)
+- ### Trilha Principal
+- #### [Tipos de proMpts e Agentes](../../tipos-de-prompt/README.md)
+- #### [Um mapa para infinitos proMpts](../../um-mapa-para-infinitos-prompts.md)
+  - ##### [O básico bem feito](../../prompt-basico.md)
+  - ##### [Cocriando sua IA](../../tipos-de-prompt/cocriacao.md)
+- #### [Uso evolucionário de IAs](../../uso-evolucionario-de-ias.md) 
+- #### Caminho da Consciência
+  - [Tarefeiro](../../tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](../../tipos-de-prompt/conselheiro.md)
+  - [Criativo](../../tipos-de-prompt/criativo.md)
+  - [Mais escolhas](../../tipos-de-prompt/mais-escolhas.md)
+
+
+
