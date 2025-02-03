@@ -1,0 +1,12 @@
+# Caminho para controle
+
+O "Caminho para controle" é uma das trilhas dentro do "Alpha (proMpto)" que visa aumentar o controle do usuário sobre os resultados gerados pela IA. Este caminho é composto por quatro entidades principais: Formato, Limites, Mais personagem e Mais audiência.
+•
+Formato: Este componente se refere à forma como a IA deve apresentar o resultado da requisição. Definir o formato da resposta altera drasticamente a forma como a IA entrega a informação. Os formatos podem ser diversos, como um código de programação, uma tabela, um desenho, uma ilustração ou um vídeo. Ao especificar o formato desejado, o usuário tem mais controle sobre a apresentação final da informação.
+•
+Limites: Este componente envolve definir o que o usuário não deseja que a IA faça ou inclua na resposta. Os limites podem ser vistos como parâmetros negativos, ou seja, em vez de dizer "faça isso", o usuário diz "não faça aquilo". Ao impor limites, o usuário cria um filtro negativo, especificando itens que não devem ser incluídos nas respostas da IA. Por exemplo, um usuário pode limitar o tempo de um roteiro de apresentação.
+•
+Mais personagem: Este componente não foi especificado nos materiais fornecidos, mas, em geral, refere-se a uma forma de refinar o papel que a IA deve assumir, adicionando mais detalhes ao "Papel" da IA para controlar o tom, estilo e perspectiva da resposta.
+•
+Mais audiência: Este componente se refere a especificar o público-alvo para o qual a resposta da IA está sendo direcionada. A audiência é um fator importante para qualquer produção, pois direciona o discurso e limita as possibilidades da produção. Ao definir a audiência, o usuário obtém um resultado mais focado, preciso e personalizado para o público específico. Por exemplo, a apresentação de um mesmo produto para diretores e para líderes de produção deve ter abordagens diferentes. Um roteiro de apresentação do Alpha (proMpto) para líderes de produção enfatiza atividades e impactos práticos no dia a dia.
+Ao utilizar esses quatro componentes, o usuário consegue direcionar melhor a IA, obtendo resultados mais alinhados com suas necessidades e expectativas. O "Caminho para controle" capacita o usuário a moldar a resposta da IA de forma mais precisa, refinando a interação e o resultado final. É importante lembrar que, mesmo com esses controles, as IAs generativas não são factuais e a curadoria dos resultados é sempre responsabilidade do usuário.
