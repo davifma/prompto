@@ -2,8 +2,8 @@
 
 O **"Caminho para o Controle"** é uma das possibilidades para o uso intencional de IA, que ajuda a refinar os resultados das interações com Agentes de IA, garantindo que as respostas estejam alinhadas com as expectativas do usuário. Este caminho é composto por quatro elementos principais: **[Formato](../../partes-de-prompt/controle/formato.md), [Limites](../../partes-de-prompt/controle/limites.md), [+Personagem](../../partes-de-prompt/controle/mais-personagem.md) e [+Audiência](../../partes-de-prompt/controle/mais-audiencia.md)**.
 
-[<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/controle/formato.md)[<img src="../../imagens/cards/0021.png" width="187" height="187">](../../partes-de-prompt/controle/mais-personagem.md)[<img src="../../imagens/cards/0022.png" width="187" height="187">](../../partes-de-prompt/controle/mais-audiencia.md)  
-[<img src="../../imagens/cards/0010.png" width="187" height="187">](../../partes-de-prompt/controle/limites.md)  
+[<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/controle/formato.md)[<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/controle/mais-personagem.md)[<img src="../../imagens/cards/022.png" width="187" height="187">](../../partes-de-prompt/controle/mais-audiencia.md)  
+[<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/controle/limites.md)  
 
 
 A função do **"Caminho para o Controle"** dentro da jornada de letramento para uso intencional da IA é fornecer **ferramentas e técnicas para que o usuário possa guiar a IA de forma mais eficaz, obtendo resultados mais específicos e personalizados**. Ao ajustar esses elementos, o usuário pode direcionar o foco, o estilo e a apresentação das criações da IA, moldando-as para atender às suas necessidades e objetivos.
