@@ -44,7 +44,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
       - [Limites](partes-de-prompt/controle/limites.md)
       - [Mais personagem](partes-de-prompt/controle/mais-personagem.md)
       - [Mais audiência](partes-de-prompt/controle/mais-audiencia.md)
-  - ##### Caminho para Informação
+  - ##### [Caminho para Informação](conceitos/jornada/caminho-para-informacao.md)
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
       - [Dados externos](partes-de-prompt/informacao/dados-externos.md)
