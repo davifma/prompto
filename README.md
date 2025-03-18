@@ -48,7 +48,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
       - [Exemplos](partes-de-prompt/informacao/exemplos.md)
       - [Limites](partes-de-prompt/controle/limites.md)
       - [Dados externos](partes-de-prompt/informacao/dados-externos.md)
-  - ##### Caminho para Criação
+  - ##### [Caminho para Criação](conceitos/jornada/caminho-para-criacao.md)
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Assunto](partes-de-prompt/criacao/assunto.md)
       - [Equipamento](partes-de-prompt/criacao/equipamento.md)
