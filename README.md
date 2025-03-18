@@ -52,6 +52,10 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
       - [Formato](partes-de-prompt/controle/formato.md)
       - [Assunto](partes-de-prompt/criacao/assunto.md)
       - [Equipamento](partes-de-prompt/criacao/equipamento.md)
+      - [Mais lugar](partes-de-prompt/criacao/mais-lugar.md)
+      - [Mais hora](partes-de-prompt/criacao/mais-hora.md)
+      - [Mais atuação](partes-de-prompt/criacao/mais-atuacao.md)
+      - [Mais estilo](partes-de-prompt/criacao/mais-estilo.md) 
 - #### Caminho para Transcendência
   - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
