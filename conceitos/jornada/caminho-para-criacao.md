@@ -2,6 +2,15 @@
 
 O **Caminho para Criação** é um conjunto de elementos que podem ser adicionados aos *prompts* para Inteligências Artificiais (IAs) com o objetivo de refinar e direcionar a **criação de conteúdo**, especialmente em *prompts* do tipo **[Criativo](../../tipos-de-prompt/criativo.md)**. Esses elementos, propostos em parte pelo conceito de "Dynamic Prompting" de Linus Ekenstam, visam tornar as solicitações mais específicas e, consequentemente, os resultados mais alinhados com as expectativas.
 
+[<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/controle/formato.md)
+
+[<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/criacao/assunto.md)[<img src="../../imagens/cards/017.png" width="187" height="187">](../../partes-de-prompt/criacao/mais-lugar.md)[<img src="../../imagens/cards/018.png" width="187" height="187">](../../partes-de-prompt/criacao/mais-hora.md)[<img src="../../imagens/cards/019.png" width="187" height="187">](../../partes-de-prompt/criacao/mais-atuacao.md)[<img src="../../imagens/cards/020.png" width="187" height="187">](../../partes-de-prompt/criacao/mais-estilo.md)
+
+[<img src="../../imagens/cards/012.png" width="187" height="187">](../../partes-de-prompt/criacao/equipamento.md)
+
+
+
+
 Os componentes do Caminho para Criação são:
 
 *   **[Formato](../../partes-de-prompt/controle/formato.md):** Este elemento especifica **como a IA deve entregar o resultado da criação**. O formato pode variar amplamente, incluindo tabelas, códigos de programação, desenhos, ilustrações, vídeos, textos em um parágrafo único com ingredientes listados ao final, ou até mesmo um roteiro. Definir o formato desejado é uma forma de **controlar a apresentação da informação** gerada pela IA.
