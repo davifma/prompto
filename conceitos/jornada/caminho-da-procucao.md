@@ -2,17 +2,23 @@
 
 O **Caminho da Produção** é uma dos maiores caminhos de aprendizado dentro do **Alpha (proMpto)** e representa um conjunto de estratégias e elementos para refinar a interação com Inteligências Artificiais (IAs) e otimizar a obtenção de resultados desejados. Ele é composto por quatro caminhos distintos, mas interconectados: o **[Caminho de embasamento](../../conceitos/jornada/caminho-de-embasamento.md)**, o **[Caminho para controle](../../conceitos/jornada/caminho-para-controle.md)**, o **[Caminho para Informação](../../conceitos/jornada/caminho-para-informacao.md)** e o **[Caminho para Criação](../../conceitos/jornada/caminho-para-criacao.md)**. O objetivo do Caminho da Produção é fornecer uma estrutura para construir *prompts* mais eficazes, independentemente do tipo de tarefa, Agente de IA ou, até, modelo utilizado.
 
-[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md) 
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
 
 [<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
 
-[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)
+[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)  [<img src="../../imagens/cards/017.png" width="187" height="187">](../../partes-de-prompt/mais-lugar.md)  [<img src="../../imagens/cards/018.png" width="187" height="187">](../../partes-de-prompt/mais-hora.md)   [<img src="../../imagens/cards/022.png" width="187" height="187">](../../partes-de-prompt/mais-audiencia.md)     
 
 [<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/formato.md)
 
 [<img src="../../imagens/cards/009.png" width="187" height="187">](../../partes-de-prompt/exemplos.md)
 
 [<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/limites.md)
+
+[<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/assunto.md)  [<img src="../../imagens/cards/019.png" width="187" height="187">](../../partes-de-prompt/mais-atuacao.md)  [<img src="../../imagens/cards/020.png" width="187" height="187">](../../partes-de-prompt/mais-estilo.md)
+
+[<img src="../../imagens/cards/012.png" width="187" height="187">](../../partes-de-prompt/equipamento.md)
+
+[<img src="../../imagens/cards/013.png" width="187" height="187">](../../partes-de-prompt/dados-externos.md)
 
 O **[Caminho de embasamento](../../conceitos/jornada/caminho-de-embasamento.md)** é considerado a base para a escrita de um bom *prompt* na maioria dos casos. Ele é composto por três elementos essenciais:
 
