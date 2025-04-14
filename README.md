@@ -34,7 +34,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
   - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
-- #### [Caminho da Produção](conceitos/jornada/caminho-da-producao.md)
+- #### [Caminho da Produção](conceitos/jornada/caminho-da-procucao.md)
   - ##### [Caminho de embasamento](conceitos/jornada/caminho-de-embasamento.md)
     - [Papel](partes-de-prompt/papel.md)
     - [Ação](partes-de-prompt/acao.md)
