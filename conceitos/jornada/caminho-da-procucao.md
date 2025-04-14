@@ -34,3 +34,62 @@ O **[Caminho para Criação](../../conceitos/jornada/caminho-para-criacao.md)** 
 *   **[Mais estilo](../../partes-de-prompt/criacao/mais-estilo.md):** Indica qual será o estilo usado pela IA para realizar a criação.
 
 Ao utilizar os elementos do **Caminho da Produção**, o usuário busca maior controle, especificidade e alinhamento dos resultados gerados pela IA com suas expectativas. É importante lembrar que, mesmo com *prompts* bem elaborados, a responsabilidade pela curadoria e verificação das informações e direitos autorais permanece com o humano. A **[Bússola de Implantação](../../direcoes/bussola.md)** também reforça a importância de ser específico ao interagir com a IA para obter resultados precisos. O **[Uso evolucionário de IAs](../../uso-evolucionario-de-ias.md)** demonstra como a combinação desses elementos pode levar a resultados cada vez mais refinados.
+
+## Relações
+- ### [Direções](direcoes/)
+  - #### [Seja específico](direcoes/seja-especifico.md)
+  - #### [Seja o humano](direcoes/seja-o-humano.md)
+- ### [Bússola de Implantação](direcoes/bussola.md) 
+- ### Trilha Principal
+- #### [Uso evolucionário de IAs](uso-evolucionario-de-ias.md) 
+- #### [Caminho da Consciência](conceitos/jornada/caminho-da-consciencia.md)
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
+- #### Caminho da Produção
+  - ##### [Caminho de embasamento](conceitos/jornada/caminho-de-embasamento.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
+  - ##### [Caminho para controle](conceitos/jornada/caminho-para-controle.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Mais personagem](partes-de-prompt/controle/mais-personagem.md)
+      - [Mais audiência](partes-de-prompt/controle/mais-audiencia.md)
+  - ##### [Caminho para Informação](conceitos/jornada/caminho-para-informacao.md)
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Dados externos](partes-de-prompt/informacao/dados-externos.md)
+  - ##### [Caminho para Criação](conceitos/jornada/caminho-para-criacao.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Assunto](partes-de-prompt/criacao/assunto.md)
+      - [Equipamento](partes-de-prompt/criacao/equipamento.md)
+      - [Mais lugar](partes-de-prompt/criacao/mais-lugar.md)
+      - [Mais hora](partes-de-prompt/criacao/mais-hora.md)
+      - [Mais atuação](partes-de-prompt/criacao/mais-atuacao.md)
+      - [Mais estilo](partes-de-prompt/criacao/mais-estilo.md) 
+- ### Trilha Básica
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Papel](partes-de-prompt/papel.md)
+  - [Ação](partes-de-prompt/acao.md)
+  - [Contexto](partes-de-prompt/contexto.md)
+- ### Trilha da Criação
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Papel](partes-de-prompt/papel.md)
+  - [Ação](partes-de-prompt/acao.md)
+  - [Contexto](partes-de-prompt/contexto.md)
+    - [Mais lugar](partes-de-prompt/criacao/mais-lugar.md)
+    - [Mais hora](partes-de-prompt/criacao/mais-hora.md)
+  - [Formato](partes-de-prompt/controle/formato.md)
+  - [Assunto](partes-de-prompt/criacao/assunto.md)
+    - [Mais atuação](partes-de-prompt/criacao/mais-atuacao.md)
+    - [Mais estilo](partes-de-prompt/criacao/mais-estilo.md) 
+  - [Equipamento](partes-de-prompt/criacao/equipamento.md)  
+
+<hr>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/proMpto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
