@@ -3,10 +3,15 @@
 O **Caminho da Produção** é uma dos maiores caminhos de aprendizado dentro do **Alpha (proMpto)** e representa um conjunto de estratégias e elementos para refinar a interação com Inteligências Artificiais (IAs) e otimizar a obtenção de resultados desejados. Ele é composto por quatro caminhos distintos, mas interconectados: o **[Caminho de embasamento](../../conceitos/jornada/caminho-de-embasamento.md)**, o **[Caminho para controle](../../conceitos/jornada/caminho-para-controle.md)**, o **[Caminho para Informação](../../conceitos/jornada/caminho-para-informacao.md)** e o **[Caminho para Criação](../../conceitos/jornada/caminho-para-criacao.md)**. O objetivo do Caminho da Produção é fornecer uma estrutura para construir *prompts* mais eficazes, independentemente do tipo de tarefa, Agente de IA ou, até, modelo utilizado.
 
 [<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md) 
+
 [<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
+
 [<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)
+
 [<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/formato.md)
+
 [<img src="../../imagens/cards/009.png" width="187" height="187">](../../partes-de-prompt/exemplos.md)
+
 [<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/limites.md)
 
 O **[Caminho de embasamento](../../conceitos/jornada/caminho-de-embasamento.md)** é considerado a base para a escrita de um bom *prompt* na maioria dos casos. Ele é composto por três elementos essenciais:
