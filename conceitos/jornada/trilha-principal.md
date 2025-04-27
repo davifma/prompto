@@ -2,27 +2,6 @@
 
 A **Trilha Principal** do Alpha (proMpto) é uma estrutura fundamental para o uso intencional de Inteligências Artificiais (IAs). Ela oferece passos flexíveis para a criação de prompts e Agentes de Inteligência Artificial (Agentes) eficazes, guiando o usuário através de diferentes aspectos a serem considerados ao interagir com a IA. 
 
-[<img src="../../imagens/cards/001.png" width="187" height="187">](../../tipos-de-prompt/tarefeiro.md) [<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md) [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
-
-[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
-
-[<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
-
-[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)  [<img src="../../imagens/cards/017.png" width="187" height="187">](../../partes-de-prompt/mais-lugar.md)  [<img src="../../imagens/cards/018.png" width="187" height="187">](../../partes-de-prompt/mais-hora.md)   [<img src="../../imagens/cards/022.png" width="187" height="187">](../../partes-de-prompt/mais-audiencia.md)     
-
-[<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/formato.md)
-
-[<img src="../../imagens/cards/009.png" width="187" height="187">](../../partes-de-prompt/exemplos.md)
-
-[<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/limites.md)
-
-[<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/assunto.md)  [<img src="../../imagens/cards/019.png" width="187" height="187">](../../partes-de-prompt/mais-atuacao.md)  [<img src="../../imagens/cards/020.png" width="187" height="187">](../../partes-de-prompt/mais-estilo.md)
-
-[<img src="../../imagens/cards/012.png" width="187" height="187">](../../partes-de-prompt/equipamento.md)
-
-[<img src="../../imagens/cards/013.png" width="187" height="187">](../../partes-de-prompt/dados-externos.md)
-
-
 A **Trilha Principal** é composta pelos seguintes caminhos:
 
 - **[Caminho da Consciência](../../conceitos/jornada/caminho-da-consciencia.md):** Este caminho é crucial para decidir qual tipo de agente ou prompt utilizar de forma intencional, ou seja, para qual tipo de uso você deveria focar a Inteligência Artificial (IA). Ele engloba os seguintes elementos, que representam os tipos básicos de usos da IA:
@@ -54,4 +33,72 @@ A **Trilha Principal** é composta pelos seguintes caminhos:
     - **[Mais atuação](../../partes-de-prompt/criacao/mais-atuacao.md):** Descreve a ação, emoção ou sentimento do sujeito central da criação que a IA deve realizar, especificando como o ponto focal deve se comportar.
     - **[Mais estilo](../../partes-de-prompt/criacao/mais-estilo.md):** Indica qual será o estilo usado pela IA para realizar a criação, abrangendo época, contexto e localização de criações semelhantes.
 
+[<img src="../../imagens/cards/001.png" width="187" height="187">](../../tipos-de-prompt/tarefeiro.md) [<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md) [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
+
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
+
+[<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
+
+[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)  [<img src="../../imagens/cards/017.png" width="187" height="187">](../../partes-de-prompt/mais-lugar.md)  [<img src="../../imagens/cards/018.png" width="187" height="187">](../../partes-de-prompt/mais-hora.md)   [<img src="../../imagens/cards/022.png" width="187" height="187">](../../partes-de-prompt/mais-audiencia.md)     
+
+[<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/formato.md)
+
+[<img src="../../imagens/cards/009.png" width="187" height="187">](../../partes-de-prompt/exemplos.md)
+
+[<img src="../../imagens/cards/010.png" width="187" height="187">](../../partes-de-prompt/limites.md)
+
+[<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/assunto.md)  [<img src="../../imagens/cards/019.png" width="187" height="187">](../../partes-de-prompt/mais-atuacao.md)  [<img src="../../imagens/cards/020.png" width="187" height="187">](../../partes-de-prompt/mais-estilo.md)
+
+[<img src="../../imagens/cards/012.png" width="187" height="187">](../../partes-de-prompt/equipamento.md)
+
+[<img src="../../imagens/cards/013.png" width="187" height="187">](../../partes-de-prompt/dados-externos.md)
+
 Ao compreender e aplicar os elementos de cada caminho da **Trilha Principal**, o usuário pode estruturar agentes e prompts mais eficazes, obter resultados mais alinhados às suas necessidades e utilizar a IA de forma mais intencional e produtiva. A **Trilha Básica** (**[Papel](../../partes-de-prompt/papel.md)**, **[Ação](../../partes-de-prompt/acao.md)** e **[Contexto](../../partes-de-prompt/contexto.md)**) é um ponto de partida essencial, e os demais caminhos permitem refinar e enriquecer ainda mais as interações com a IA.
+
+## Relações
+- ### [Direções](direcoes/)
+  - #### [Seja específico](direcoes/seja-especifico.md)
+  - #### [Seja o humano](direcoes/seja-o-humano.md)
+- ### Trilha Principal
+- #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
+- #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
+  - ##### [O básico bem feito](prompt-basico.md)
+  - ##### [Completo ou complexo?](prompts-complexos.md) 
+  - ##### [Cocriando sua IA](tipos-de-prompt/cocriacao.md)
+- #### [Uso evolucionário de IAs](uso-evolucionario-de-ias.md) 
+- #### [Caminho da Consciência](conceitos/jornada/caminho-da-consciencia.md)
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
+- #### [Caminho da Produção](conceitos/jornada/caminho-da-procucao.md)
+  - ##### [Caminho de embasamento](conceitos/jornada/caminho-de-embasamento.md)
+    - [Papel](partes-de-prompt/papel.md)
+    - [Ação](partes-de-prompt/acao.md)
+    - [Contexto](partes-de-prompt/contexto.md)
+  - ##### [Caminho para controle](conceitos/jornada/caminho-para-controle.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Mais personagem](partes-de-prompt/controle/mais-personagem.md)
+      - [Mais audiência](partes-de-prompt/controle/mais-audiencia.md)
+  - ##### [Caminho para Informação](conceitos/jornada/caminho-para-informacao.md)
+      - [Exemplos](partes-de-prompt/informacao/exemplos.md)
+      - [Limites](partes-de-prompt/controle/limites.md)
+      - [Dados externos](partes-de-prompt/informacao/dados-externos.md)
+  - ##### [Caminho para Criação](conceitos/jornada/caminho-para-criacao.md)
+      - [Formato](partes-de-prompt/controle/formato.md)
+      - [Assunto](partes-de-prompt/criacao/assunto.md)
+      - [Equipamento](partes-de-prompt/criacao/equipamento.md)
+      - [Mais lugar](partes-de-prompt/criacao/mais-lugar.md)
+      - [Mais hora](partes-de-prompt/criacao/mais-hora.md)
+      - [Mais atuação](partes-de-prompt/criacao/mais-atuacao.md)
+      - [Mais estilo](partes-de-prompt/criacao/mais-estilo.md) 
+- ### Trilha Básica
+  - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
+  - [Conselheiro](tipos-de-prompt/conselheiro.md)
+  - [Criativo](tipos-de-prompt/criativo.md)
+  - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
+  - [Papel](partes-de-prompt/papel.md)
+  - [Ação](partes-de-prompt/acao.md)
+  - [Contexto](partes-de-prompt/contexto.md)
+
