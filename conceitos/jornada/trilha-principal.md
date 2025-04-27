@@ -2,6 +2,8 @@
 
 A **Trilha Principal** do Alpha (proMpto) é uma estrutura fundamental para o uso intencional de Inteligências Artificiais (IAs). Ela oferece passos flexíveis para a criação de prompts e Agentes de Inteligência Artificial (Agentes) eficazes, guiando o usuário através de diferentes aspectos a serem considerados ao interagir com a IA. 
 
+[<img src="../../imagens/cards/001.png" width="187" height="187">](../../tipos-de-prompt/tarefeiro.md) [<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md) [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
+
 [<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
 
 [<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
