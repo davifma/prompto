@@ -22,7 +22,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - #### [Seja o humano](direcoes/seja-o-humano.md)
   - #### [Considere essa a pior IA que você vai usar](direcoes/considere-essa-a-pior-IA.md)
 - ### [Bússola de Implantação](direcoes/bussola.md) 
-- ### Trilha Principal
+- ### [Trilha Principal](conceitos/jornada/trilha-principal.md)
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Um mapa para infinitos proMpts](um-mapa-para-infinitos-prompts.md)
   - ##### [O básico bem feito](prompt-basico.md)
