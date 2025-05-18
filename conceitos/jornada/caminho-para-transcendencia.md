@@ -26,7 +26,7 @@ Em essência, o **Caminho para Transcendência** foca na melhoria contínua da i
 ## Relações
 - ### [Direções](direcoes/)
   - #### [Seja o humano](direcoes/seja-o-humano.md)
-- ### Trilha Principal
+- ### [Trilha Principal](../../conceitos/jornada/trilha-principal.md)
 - #### [Tipos de proMpts e Agentes](tipos-de-prompt/README.md)
 - #### [Uso evolucionário de IAs](uso-evolucionario-de-ias.md) 
 - #### [Caminho da Consciência](conceitos/jornada/caminho-da-consciencia.md)
