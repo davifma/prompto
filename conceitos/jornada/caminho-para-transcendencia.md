@@ -56,7 +56,7 @@ Em essência, o **Caminho para Transcendência** foca na melhoria contínua da i
       - [Mais hora](partes-de-prompt/criacao/mais-hora.md)
       - [Mais atuação](partes-de-prompt/criacao/mais-atuacao.md)
       - [Mais estilo](partes-de-prompt/criacao/mais-estilo.md)
-  - #### Caminho para Transcendência
-    - [Ajuste](../../depois-do-prompt/ajuste-ou-continue.md#ajuste)
-    - [Continue a conversa](../../depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
-    - [Use diferentes agentes](../../depois-do-prompt/use-diferentes-agentes.md)
+- #### Caminho para Transcendência
+  - [Ajuste](../../depois-do-prompt/ajuste-ou-continue.md#ajuste)
+  - [Continue a conversa](../../depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
+  - [Use diferentes agentes](../../depois-do-prompt/use-diferentes-agentes.md)
