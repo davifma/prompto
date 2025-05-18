@@ -11,7 +11,7 @@ A ideia central do Caminho para Transcendência está alinhada com um uso evoluc
 
 [<img src="../../imagens/cards/014.png" width="187" height="187">](../../depois-do-prompt/ajuste-ou-continue.md#ajuste)     [<img src="../../imagens/cards/015.png" width="187" height="187">](../../depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
 
-[<img src="../../imagens/cards/014.png" width="187" height="187">](../../depois-do-prompt/use-diferentes-agentes.md)
+[<img src="../../imagens/cards/016.png" width="187" height="187">](../../depois-do-prompt/use-diferentes-agentes.md)
 
 Vamos detalhar cada um dos elementos que compõem este caminho:
 
