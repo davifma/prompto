@@ -60,7 +60,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [Ajuste](depois-do-prompt/ajuste-ou-continue.md#ajuste)
   - [Continue a conversa](depois-do-prompt/ajuste-ou-continue.md#continue-a-conversa)
   - [Use diferentes agentes](depois-do-prompt/use-diferentes-agentes.md)
-- ### Trilha Básica
+- ### [Trilha Básica](conceitos/jornada/trilha-basica.md)
   - [Tarefeiro](tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](tipos-de-prompt/conselheiro.md)
   - [Criativo](tipos-de-prompt/criativo.md)
