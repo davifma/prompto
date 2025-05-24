@@ -33,6 +33,8 @@ A clareza do propósito, que é a base para definir o tipo de IA a ser usada, e 
   - #### [Seja o humano](../../direcoes/seja-o-humano.md)
 - ### [Trilha Principal](../../conceitos/jornada/trilha-principal.md)
 - #### [Tipos de proMpts e Agentes](../../tipos-de-prompt/README.md)
+- #### [Um mapa para infinitos proMpts](../../um-mapa-para-infinitos-prompts.md)
+  - ##### [O básico bem feito](../../prompt-basico.md)
 - #### [Caminho da Consciência](../../conceitos/jornada/caminho-da-consciencia.md)
   - [Tarefeiro](../../tipos-de-prompt/tarefeiro.md)
   - [Conselheiro](../../tipos-de-prompt/conselheiro.md)
