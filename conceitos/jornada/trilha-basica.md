@@ -4,7 +4,7 @@ A "**Trilha Básica**" do **Alpha (proMpto)** é apresentada como o **conhecimen
 
 [<img src="../../imagens/cards/001.png" width="187" height="187">](../../tipos-de-prompt/tarefeiro.md) [<img src="../../imagens/cards/002.png" width="187" height="187">](../../tipos-de-prompt/conselheiro.md) [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
 
-[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  
 
 [<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
 
