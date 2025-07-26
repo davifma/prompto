@@ -20,7 +20,9 @@ Como se você fosse um bookmaker role um dado de 6 lados e me mostre o resultado
 
 ### Preparação
 1- Coloque os passos em ordem numérica no tabuleiro.
+
 2- O passo 01 (Tarefeiro) marca o início e todos os jogadores iniciam nela.
+
 3- Escolha o Agente Criativo que será usado (ex.: DALL-E, MidJourney, Leonardo.ai, etc.).
 
 <img width="960" height="540" alt="Capturar" src="https://github.com/user-attachments/assets/23acab9b-d9c8-40b4-b9f6-de9c87b4599b" />
