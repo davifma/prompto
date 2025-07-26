@@ -23,6 +23,9 @@ Como se você fosse um bookmaker role um dado de 6 lados e me mostre o resultado
 2- O passo 01 (Tarefeiro) marca o início e todos os jogadores iniciam nela.
 3- Escolha o Agente Criativo que será usado (ex.: DALL-E, MidJourney, Leonardo.ai, etc.).
 
+<img width="960" height="540" alt="Capturar" src="https://github.com/user-attachments/assets/23acab9b-d9c8-40b4-b9f6-de9c87b4599b" />
+
+
 ### Como Jogar
 - Cada jogador, na sua vez, joga o dado e move sua peça pelo tabuleiro conforme o número tirado.
 - Dependendo da carta onde o jogador cair, ele cria um prompt específico para a IA e adiciona a imagem gerada ao mural digital.
