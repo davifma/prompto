@@ -18,7 +18,7 @@ A **Trilha da Criação** é composta pelos seguintes elementos:
 
 [<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
 
-[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md) 
 
 [<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
 
