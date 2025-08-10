@@ -68,7 +68,7 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [Papel](partes-de-prompt/papel.md)
   - [Ação](partes-de-prompt/acao.md)
   - [Contexto](partes-de-prompt/contexto.md)
-- ### Trilha da Criação
+- ### [Trilha da Criação](conceitos/jornada/trilha-da-criacao.md)
   - [Mood Board Game](partes-de-prompt/criacao/mood-board-game.md)
   - [Criativo](tipos-de-prompt/criativo.md)
   - [Mais escolhas](tipos-de-prompt/mais-escolhas.md)
