@@ -29,6 +29,7 @@ A **Trilha da Criação** é composta pelos seguintes elementos:
 
 [<img src="../../imagens/cards/012.png" width="187" height="187">](../../partes-de-prompt/equipamento.md)
 
+Ao utilizar os elementos da **Trilha para Criação**, o usuário busca **maior controle e personalização dos resultados criativos gerados pela IA**. É importante lembrar que, mesmo com *prompts* bem elaborados, a **responsabilidade pela curadoria e verificação dos direitos autorais das criações da IA permanece com o humano**. Isso porque as IAs generativas não são factuais e podem "inventar" informações ou difundir informações errôneas, ou ainda, plágio.
 ## Mood Board Game
 
 O ** [Mood Board Game](../../partes-de-prompt/criacao/mood-board-game.md)** se encaixa perfeitamente na **Trilha da Criação** por ser um jogo colaborativo e criativo que utiliza Inteligências Artificiais (IAs) para construir um *mood board* (painel de inspiração) com base em temas e *prompts*. Essencialmente, o jogo funciona como uma aplicação prática e lúdica dos elementos da Trilha da Criação para refinar a produção de conteúdo criativo.
@@ -71,4 +72,4 @@ A "Trilha da Criação" é, portanto, parte do referencial teórico que guia a p
 <hr>
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://davifma.github.io/proMpto/">prompto.github.io</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://linkedin.com/in/davifma">Davi Fontebasso Marques de Almeida</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
-Ao utilizar os elementos da **Trilha para Criação**, o usuário busca **maior controle e personalização dos resultados criativos gerados pela IA**. É importante lembrar que, mesmo com *prompts* bem elaborados, a **responsabilidade pela curadoria e verificação dos direitos autorais das criações da IA permanece com o humano**. Isso porque as IAs generativas não são factuais e podem "inventar" informações ou difundir informações errôneas, ou ainda, plágio.
+
