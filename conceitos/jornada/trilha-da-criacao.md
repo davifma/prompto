@@ -16,6 +16,19 @@ A **Trilha da Criação** é composta pelos seguintes elementos:
   - **[Mais estilo](../../partes-de-prompt/criacao/mais-estilo.md)**: Indica **qual será o estilo usado pela Inteligência Artificial para realizar a criação**. Inspirado por estilos artísticos para imagens (renascentista, cubista), o "Estilo" pode ser aplicado a qualquer obra criativa, abrangendo a época, o contexto e a localização de onde criações semelhantes foram feitas. Definir um estilo (como retrofuturista ou Rock Pop) ajuda a IA a trazer um resultado mais adequado às expectativas.
 - **[Equipamento](../../partes-de-prompt/criacao/equipamento.md)**: Indica que a **IA deve usar, ou simular o uso, de um equipamento específico para sua criação**. É útil e comum na criação de imagens, onde se pode especificar o tipo de câmera e lente para buscar resultados mais realistas. No entanto, pode ser aplicado a outras formas de criação, como solicitar um texto que pareça ter sido escrito com uma máquina de escrever antiga. O equipamento ajuda a **lapidar a forma como a IA apresenta o resultado**.
 
+[<img src="../../imagens/cards/003.png" width="187" height="187">](../../tipos-de-prompt/criativo.md) [<img src="../../imagens/cards/004.png" width="187" height="187">](../../tipos-de-prompt/mais-escolhas.md)
+
+[<img src="../../imagens/cards/005.png" width="187" height="187">](../../partes-de-prompt/papel.md)  [<img src="../../imagens/cards/021.png" width="187" height="187">](../../partes-de-prompt/mais-personagem.md)  
+
+[<img src="../../imagens/cards/006.png" width="187" height="187">](../../partes-de-prompt/acao.md)  
+
+[<img src="../../imagens/cards/007.png" width="187" height="187">](../../partes-de-prompt/contexto.md)  [<img src="../../imagens/cards/017.png" width="187" height="187">](../../partes-de-prompt/mais-lugar.md)  [<img src="../../imagens/cards/018.png" width="187" height="187">](../../partes-de-prompt/mais-hora.md)    
+[<img src="../../imagens/cards/008.png" width="187" height="187">](../../partes-de-prompt/formato.md)
+
+[<img src="../../imagens/cards/011.png" width="187" height="187">](../../partes-de-prompt/assunto.md)  [<img src="../../imagens/cards/019.png" width="187" height="187">](../../partes-de-prompt/mais-atuacao.md)  [<img src="../../imagens/cards/020.png" width="187" height="187">](../../partes-de-prompt/mais-estilo.md)
+
+[<img src="../../imagens/cards/012.png" width="187" height="187">](../../partes-de-prompt/equipamento.md)
+
 ## Mood Board Game
 
 O ** [Mood Board Game](../../partes-de-prompt/criacao/mood-board-game.md)** se encaixa perfeitamente na **Trilha da Criação** por ser um jogo colaborativo e criativo que utiliza Inteligências Artificiais (IAs) para construir um *mood board* (painel de inspiração) com base em temas e *prompts*. Essencialmente, o jogo funciona como uma aplicação prática e lúdica dos elementos da Trilha da Criação para refinar a produção de conteúdo criativo.
