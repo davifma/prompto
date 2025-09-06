@@ -6,6 +6,8 @@ Seu principal objetivo é ajudar a obter os melhores resultados ao interagir com
 
 Essa jornada é composta por diversas camadas e dinâmicas, que se complementam para guiar o usuário na criação de *prompts* e Agentes de IA eficazes.
 
+<img src="../../imagens/cards/verso.png" align="right" width="375" height="375">
+
 ## Direções
 
 As **Direções** são princípios fundamentais que guiam o uso estratégico e ético da IA, servindo como base para toda a jornada. Elas garantem que a IA seja utilizada de forma responsável e eficaz.
