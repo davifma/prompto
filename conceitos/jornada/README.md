@@ -1,12 +1,12 @@
 # A Jornada
 
+<img src="../../imagens/cards/verso.png" align="right" width="375" height="375">
+
 A jornada do **Alpha (proMpto)** é um guia estruturado e lúdico para o **uso intencional e evolucionário de Inteligências Artificiais (IAs)** no dia a dia. 
 
 Seu principal objetivo é ajudar a obter os melhores resultados ao interagir com IAs, desmistificando a "arquitetura de prompts" e a falsa ideia de que o uso da IA é complexo.
 
 Essa jornada é composta por diversas camadas e dinâmicas, que se complementam para guiar o usuário na criação de *prompts* e Agentes de IA eficazes.
-
-<img src="../../imagens/cards/verso.png" align="right" width="375" height="375">
 
 ## Direções
 
